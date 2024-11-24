@@ -21,7 +21,9 @@ from statsmodels.stats.multicomp import pairwise_tukeyhsd
 
 # Para la codificación de las variables numéricas
 # -----------------------------------------------------------------------
-from sklearn.preprocessing import OneHotEncoder, OrdinalEncoder, LabelEncoder, TargetEncoder # para poder aplicar los métodos de OneHot, Ordinal,  Label y Target Encoder 
+from sklearn.preprocessing import OneHotEncoder, OrdinalEncoder, LabelEncoder # para poder aplicar los métodos de OneHot, Ordinal,  Label y Target Encoder 
+from category_encoders import TargetEncoder
+
 
 class Analisis_Visual_Encoding:
     def __init__(self, dataframe, lista_variables_categorias, variable_respuesta):
@@ -446,36 +448,36 @@ class Encoding:
      
         return self.dataframe
 
+
     def target_encoding(self):
         """
-        Realiza codificación target en la variable especificada en el diccionario de codificación.
+        Applies target encoding to specified columns in the DataFrame.
+
+        Parameters:
+        - None
 
         Returns:
-        - dataframe: DataFrame de pandas, el DataFrame con codificación target aplicada.
+        - (pd.DataFrame): The updated DataFrame with target-encoded values replacing the original columns.
         """
-        
-        # accedemos a la clave de 'target' para poder extraer las columnas a las que que queramos aplicar Target Encoding. En caso de que no exista la clave, esta variable será una lista vacía
-        col_encode = self.diccionario_encoding.get("target", [])
+        # Get columns to target encode
+        cols = self.diccionario_encoding.get("target", [])
 
-        # si hay contenido en la lista 
-        if col_encode:
+        if cols:
+            # Validate target variable presence
+            if self.variable_respuesta not in self.dataframe.columns:
+                raise ValueError(f"Target variable '{self.variable_respuesta}' is not in the DataFrame.")
 
-            # instanciamos la clase 
-            target_encoder = TargetEncoder(smooth="auto")
+            # Initialize the TargetEncoder
+            target_encoder = TargetEncoder()
 
-            # transformamos los datos de las columnas almacenadas en la variable col_code y añadimos la variable respuesta para que calcule la media ponderada para cada categória de las variables
-            target_encoder_trans = target_encoder.fit_transform(self.dataframe[self.variable_respuesta], self.dataframe[[col_encode]])
+            # Perform target encoding for the specified columns
+            encoded_data = target_encoder.fit_transform(self.dataframe[cols], self.dataframe[self.variable_respuesta])
             
-            # creamos un DataFrame con los resultados de la transformación
-            target_encoder_df = pd.DataFrame(target_encoder_trans, columns=target_encoder.get_feature_names_out())
-
-            # eliminamos las columnas originales
-            self.dataframe.drop(col_encode, axis=1, inplace=True)
-
-            # concatenamos los dos DataFrames
-            self.dataframe = pd.concat([self.dataframe.reset_index(drop=True), target_encoder_df], axis=1)
+            # Replace the original columns with the encoded values
+            self.dataframe[cols] = encoded_data
 
         return self.dataframe
+
 
     def frequency_encoding(self):
         """
