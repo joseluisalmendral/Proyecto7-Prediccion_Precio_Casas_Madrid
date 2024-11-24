@@ -5,6 +5,7 @@ __pycache__/
 
 # .csv de ejemplo con muestras de los datos totales
 datos/extractos/
+personal/
 
 # C extensions
 *.so

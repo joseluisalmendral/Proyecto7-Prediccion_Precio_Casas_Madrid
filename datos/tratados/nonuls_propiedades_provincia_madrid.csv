@@ -1,354 +1,354 @@
-,numPhotos,price,propertyType,size,exterior,rooms,bathrooms,address,municipality,latitude,longitude,showAddress,distance,hasVideo,status,newDevelopment,hasPlan,has3DTour,has360,topNewDevelopment,floor,district,neighborhood,hasLift
-0,12,750.0,flat,60.0,True,1,1,"Calle de Alejandro Villegas, 23",Madrid,404.646.164,-36.489.179,True,7037,False,good,False,False,False,False,False,3,Hortaleza,Canillas,True
-1,21,750.0,flat,70.0,True,2,1,Gregorio izquierdo,San Sebastián de los Reyes,405.500.865,-36.278.085,False,16145,True,good,False,True,False,False,False,bj,Centro Urbano,Desconocido,False
-2,28,400.0,penthouse,67.0,True,2,2,Calle Madrid,Villamanrique de Tajo,40.069.197,-3.241.383,False,55041,False,good,False,False,False,True,False,2,Desconocido,Desconocido,False
-3,11,590.0,flat,70.0,True,3,2,Rascafría,Rascafría,409.073.967,-38.815.996,False,56596,False,good,False,False,False,False,False,Desconocido,Desconocido,Desconocido,False
-4,17,684.0,studio,45.0,True,0,1,"Av. José Antonio Corrales, 2",Madrid,404.855.273,-36.155.982,True,10656,False,good,False,False,False,True,False,Desconocido,Desconocido,Desconocido,True
-5,19,600.0,flat,73.0,True,2,1,Manzanares el Real,Manzanares el Real,40.727.241,-38.627.075,False,37062,False,good,False,False,False,False,False,3,Desconocido,Desconocido,False
-6,15,600.0,duplex,71.0,True,1,1,Calle de la Fuente,Miraflores de la Sierra,4.081.076,-37.651.952,False,44126,False,good,False,False,False,False,False,1,Desconocido,Desconocido,False
-7,17,550.0,flat,53.0,True,1,1,Avenida del Monte Igueldo,Madrid,403.925.829,-36.680.531,False,4008,False,good,False,False,False,False,False,1,Puente de Vallecas,San Diego,False
-8,19,700.0,studio,28.0,True,0,1,"Calle de Juan Pérez Zúñiga, 41",Madrid,404.436.001,-36.477.389,True,5569,False,good,False,True,True,False,False,1,Ciudad Lineal,San Pascual,False
-9,26,700.0,duplex,86.0,True,2,1,Calle Prado Mingo,Galapagar,405.756.061,-40.067.032,False,31153,False,good,False,False,False,False,False,3,Casco Antiguo,Desconocido,True
-10,18,700.0,flat,45.0,False,1,1,Calle de Benito Gutiérrez,Madrid,404.312.011,-37.181.341,False,2046,False,good,False,False,False,False,False,5,Moncloa,Argüelles,False
-11,14,550.0,flat,54.0,True,2,1,"Ronda del Olivar, 62",Arganda,402.998.979,-34.342.379,True,26233,False,good,False,False,False,False,False,en,Centro,Desconocido,False
-12,11,695.0,flat,64.0,True,2,1,"Calle de Ramón Esteban, 12",San Sebastián de los Reyes,405.462.991,-36.281.483,True,15747,False,good,False,False,False,False,False,1,Centro Urbano,Desconocido,False
-13,5,650.0,flat,68.0,True,2,1,duque de medinaceli,San Lorenzo de el Escorial,40.592.936,-4.148.138,False,42410,False,good,False,False,False,False,False,bj,Centro - Casco Histórico,Desconocido,False
-14,22,700.0,flat,30.0,False,1,1,Avenida de la Ciudad de Barcelona,Madrid,403.982.963,-36.734.707,False,3247,False,good,False,False,False,False,False,1,Retiro,Adelfas,True
-15,16,700.0,flat,35.0,False,1,1,Paseo de Santa María de la Cabeza,Madrid,404.001.572,-36.978.897,False,1894,False,good,False,False,False,False,False,1,Arganzuela,Palos de Moguer,False
-16,15,700.0,flat,43.0,True,1,1,LUIS FEITO,Madrid,403.924.838,-37.449.843,False,4442,True,good,False,False,False,False,False,2,Latina,Aluche,True
-17,7,650.0,flat,60.0,True,2,1,"Calle del Hachero, 6",Madrid,403.913.672,-3.669.951,True,3985,False,good,False,False,False,False,False,1,Puente de Vallecas,San Diego,False
-18,15,650.0,chalet,206.0,False,3,1,Aldea del Fresno,Aldea del Fresno,403.220.018,-41.977.733,False,43195,False,good,False,False,False,False,False,Desconocido,Desconocido,Desconocido,True
-19,12,700.0,flat,105.0,True,3,2,CONCHA,Aranjuez,400.286.737,-36.013.388,False,44003,False,good,False,False,False,False,False,bj,Centro,Desconocido,False
-20,9,695.0,flat,40.0,False,1,1,barrio Goya,Madrid,404.203.748,-36.768.541,False,2271,False,good,False,True,False,False,False,4,Barrio de Salamanca,Goya,True
-21,13,675.0,flat,40.0,True,1,1,Centro,Villanueva del Pardillo,404.911.883,-39.639.014,False,23556,False,good,False,False,False,False,False,bj,Centro,Desconocido,False
-22,30,750.0,studio,45.0,False,0,1,Calle del Mesón de Paredes,Madrid,404.074.632,-37.032.414,False,1027,True,good,False,False,False,False,False,bj,Centro,Lavapiés-Embajadores,True
-23,20,750.0,flat,99.0,True,3,2,Calle de Stuart,Aranjuez,400.328.863,-36.044.561,False,43492,False,good,False,False,False,False,False,1,Centro,Desconocido,True
-24,29,680.0,flat,38.0,False,1,1,"Calle de Granada, 31",Madrid,404.041.953,-36.774.173,True,2591,False,good,False,False,False,False,False,1,Retiro,Pacífico,True
-25,24,750.0,flat,51.0,True,1,1,Avenida de Logroño,Madrid,404.717.009,-35.826.642,False,11896,False,good,False,False,False,False,False,1,Barajas,Timón,True
-26,12,750.0,penthouse,60.0,True,1,1,barrio Las Matas- Peñascales,Las Rozas de Madrid,405.431.591,-3.892.687,False,21316,False,good,False,False,False,False,False,2,Las Matas- Peñascales,Las Matas- Peñascales,False
-27,13,750.0,studio,25.0,False,0,1,Calle de Augusto Figueroa,Madrid,404.209.816,-37.004.074,False,533,False,good,False,False,False,False,False,4,Centro,Chueca-Justicia,True
-28,7,750.0,flat,40.0,False,1,1,Calle del General Lacy,Madrid,404.006.091,-36.929.668,False,1989,False,good,False,False,False,False,False,1,Arganzuela,Palos de Moguer,False
-29,13,650.0,flat,62.0,True,2,1,Calle de Navalmoral de la Mata,Madrid,403.751,-377.802,False,7841,False,good,False,True,False,False,False,1,Latina,Águilas,False
-30,15,750.0,studio,30.0,True,0,1,Calle de la Esperanza,Madrid,404.083.913,-37.015.454,False,935,True,good,False,False,False,False,False,3,Centro,Lavapiés-Embajadores,False
-31,24,750.0,flat,39.0,False,1,1,Calle de García de Paredes,Madrid,404.347.375,-36.990.821,False,2036,False,good,False,True,False,False,False,5,Chamberí,Trafalgar,False
-32,21,700.0,flat,62.0,True,2,1,Calle de Rocafort,Madrid,403.412.163,-3.687.954,False,8492,True,good,False,True,False,True,False,3,Villaverde,San Cristóbal,False
-33,17,747.0,flat,96.0,True,3,2,Calle pino canario,Navalcarnero,402.985.117,-39.763.599,False,26611,False,good,False,True,False,False,False,1,La Dehesa - El Pinar,Desconocido,True
-34,16,640.0,studio,35.0,True,0,1,Calle Calcio,Madrid,403.530.117,-36.811.646,False,7324,False,good,False,False,False,False,False,1,Villaverde,Butarque,True
-35,20,750.0,flat,30.0,False,1,1,Calle del Alcalde Sainz de Baranda,Madrid,404.147.316,-36.781.755,False,2133,False,good,False,False,False,False,False,st,Retiro,Ibiza,True
-36,20,750.0,flat,70.0,True,2,1,"Calle San Vidal, 43",Alcalá de Henares,404.730.968,-3.372.235,True,28703,False,good,False,False,False,False,False,2,Reyes Católicos,Desconocido,True
-37,12,625.0,flat,52.0,True,2,1,"Calle Hospìtal, 2",El Escorial,405.839.554,-41.280.487,True,40445,False,good,False,False,False,False,False,2,Centro,Desconocido,False
-38,9,700.0,studio,40.0,True,0,1,Plaza de Santa Bárbara,Madrid,404.276.796,-36.944.294,False,1431,False,good,False,False,False,False,False,3,Centro,Chueca-Justicia,True
-39,28,750.0,studio,40.0,True,0,1,"Aldea del fresno, 29",Madrid,403.951.105,-36.998.332,True,2417,False,good,False,False,False,False,False,en,Arganzuela,Chopera,True
-40,18,650.0,flat,35.0,False,1,1,Carrera de San Francisco,Madrid,404.103.541,-37.135.429,False,1121,True,good,False,False,False,False,False,2,Centro,Palacio,True
-41,24,720.0,flat,70.0,True,3,1,Chorrillo,Alcalá de Henares,404.895.154,-33.728.931,False,29099,False,good,False,False,False,False,False,2,Chorrillo,Desconocido,False
-42,28,699.0,flat,52.0,True,1,1,"Calle Trole, 9",Madrid,403.809.876,-36.338.528,True,7092,False,good,False,False,False,False,False,3,Puente de Vallecas,Palomeras sureste,True
-43,15,750.0,flat,65.0,True,2,1,Calle del Alcalde Saturnino del Yerro Alonso,Leganés,403.173.049,-378.587,False,13081,False,good,False,False,False,False,False,Desconocido,Valdepelayo - Montepinos - Arroyo Culebro,Valdepelayo-Montepinos-Arroyo Culebro,True
-44,10,695.0,flat,65.0,True,2,1,Calle del Duero,Coslada,40.426.702,-35.395.081,False,13904,False,good,False,False,False,False,False,Desconocido,Valleaguado - La Cañada,Desconocido,True
-45,20,750.0,flat,78.0,True,2,2,Calle Marte,Torrejón de Ardoz,404.429.491,-34.728.317,False,19719,False,good,False,False,False,False,False,Desconocido,Suroeste,Desconocido,True
-46,18,620.0,flat,60.0,True,2,1,Calle de Juan Peñalver,Madrid,403.452.777,-37.126.744,False,7981,False,good,False,False,False,False,False,Desconocido,Villaverde,Villaverde Alto,False
-47,13,500.0,studio,28.0,False,0,1,Calle Buenavista,Madrid,404.107.557,-36.985.885,False,769,False,good,False,False,False,False,False,1,Centro,Lavapiés-Embajadores,False
-48,8,550.0,flat,38.0,True,1,1,Plaza de la Azucena,Leganés,40.329.273,-37.624.511,False,10938,False,good,False,False,False,False,False,Desconocido,Centro,Flores,False
-49,23,750.0,flat,46.0,False,1,1,ERCILLA,Madrid,404.034.375,-37.024.214,False,1476,True,good,False,False,False,False,False,3,Arganzuela,Acacias,True
-50,20,680.0,studio,55.0,True,0,1,Calle Francisco Villaespesa,Madrid,404.271.679,-36.446.173,False,5097,False,good,False,False,False,False,False,bj,Ciudad Lineal,Ventas,False
-51,22,700.0,flat,50.0,True,1,2,Calle La Mina,Camarma de Esteruelas,405.540.497,-33.700.199,False,32052,False,good,False,False,False,False,False,Desconocido,Desconocido,Desconocido,True
-52,13,750.0,duplex,35.0,True,1,1,Calle de González Soto,Madrid,403.985.752,-36.617.848,False,4047,True,good,False,False,False,False,False,Desconocido,Desconocido,Desconocido,False
-53,28,750.0,flat,66.0,True,2,1,INFANTAS,Alcorcón,403.475.976,-38.315.957,False,13311,True,good,False,False,False,False,False,1,Centro,Zona Renfe,True
-54,11,650.0,flat,65.0,True,1,1,Escobedos,Alcalá de Henares,404.844.745,-33.668.928,False,29440,False,good,False,False,False,False,False,en,San Isidro - Los Almendros,Desconocido,True
-55,39,720.0,flat,133.0,False,3,2,Calle de Nicolás Fuster,Pinto,402.417.396,-37.034.917,False,19453,False,good,False,True,False,True,False,1,San José - Buenos Aires,Desconocido,True
-56,28,600.0,flat,50.0,True,1,1,Calle Antonio Van de Pere,Valdemoro,401.974.035,-36.854.443,False,24430,False,good,False,False,False,False,False,Desconocido,Hospital,Desconocido,True
-57,13,650.0,flat,61.0,True,1,1,Calle Gabriel García Márquez,Collado Villalba,406.252.952,-40.115.687,False,34886,False,good,False,False,False,False,False,2,Parque de la Coruña - Las Suertes,Desconocido,True
-58,11,650.0,flat,65.0,False,2,1,barrio Valderas - Los Castillos,Alcorcón,403.555.456,-38.133.094,False,11537,False,good,False,False,False,False,False,3,Valderas - Los Castillos,Valderas - Los Castillos,False
-59,6,700.0,flat,45.0,True,1,1,barrio Casco Histórico de Barajas,Madrid,404.723.129,-35.773.045,False,12321,False,good,False,False,False,False,False,3,Barajas,Casco Histórico de Barajas,False
-60,18,625.0,flat,62.0,True,2,1,Calle Jacinto Benavente,Getafe,403.137.656,-3.729.949,False,11666,False,good,False,False,False,False,False,bj,Getafe Centro,Desconocido,False
-61,12,595.0,flat,45.0,True,1,1,Calle Marcelino Castillo,Madrid,403.906.065,-37.445.409,False,4543,False,good,False,False,False,False,False,bj,Latina,Aluche,False
-62,20,650.0,flat,55.0,True,1,1,barrio Rejas,Madrid,404.415.556,-35.836.227,False,10495,False,good,False,False,False,False,False,4,San Blas,Rejas,True
-63,27,725.0,flat,50.0,True,1,1,SANTA CRISTINA,Madrid,403.476.494,-37.113.962,False,7708,True,good,False,True,False,False,False,2,Villaverde,Villaverde Alto,True
-64,13,750.0,flat,95.0,True,3,1,Calle Infante don luis,Alcalá de Henares,40.472.241,-33.746.448,False,28483,False,good,False,False,False,False,False,8,Reyes Católicos,Desconocido,True
-65,20,700.0,penthouse,30.0,True,1,1,"Avenida de Aragón, 376",Madrid,404.493.217,-35.674.796,True,12049,False,good,False,False,False,True,False,1,San Blas,Rejas,True
-66,25,700.0,flat,27.0,False,1,1,Calle de Miguel Servet,Madrid,404.044.052,-37.001.704,False,1391,False,good,False,False,False,False,False,3,Centro,Lavapiés-Embajadores,False
-67,17,650.0,flat,59.0,True,2,1,Val,Alcalá de Henares,404.833.118,-33.528.067,False,30562,False,good,False,False,False,False,False,1,Val,Desconocido,True
-68,9,550.0,flat,40.0,True,1,1,Casco Urbano,Paracuellos de Jarama,405.058.099,-35.291.635,False,17750,False,good,False,False,False,False,False,3,Casco Urbano,Desconocido,True
-69,20,650.0,flat,55.0,True,1,1,barrio Rejas,Madrid,404.414.556,-35.860.227,False,10296,False,good,False,False,False,False,False,4,San Blas,Rejas,True
-70,20,750.0,flat,65.0,True,2,1,Calle Francisco Rioja,Madrid,404.288.893,-36.392.915,False,5580,False,good,False,False,False,False,False,Desconocido,Ciudad Lineal,Pueblo Nuevo,True
-71,17,725.0,flat,70.0,True,2,1,Calle de Concejo de Teverga,Madrid,403.867.131,-3.674.711,False,4117,False,good,False,False,False,False,False,Desconocido,Puente de Vallecas,Entrevías,True
-72,9,700.0,flat,80.0,True,1,1,Mayor,Alcalá de Henares,404.815.739,-33.656.669,False,29460,False,good,False,False,False,False,False,1,Casco Histórico,Desconocido,False
-73,7,650.0,flat,40.0,True,1,1,"BENITEZ, 15",Madrid,404.713.512,-35.779.046,True,12224,False,good,False,False,False,False,False,bj,Barajas,Casco Histórico de Barajas,True
-74,24,695.0,flat,90.0,True,3,1,Calle Ámbar,Madrid,403.487.403,-36.840.465,False,7729,False,good,False,False,False,False,False,Desconocido,Villaverde,Los Rosales,False
-75,13,750.0,flat,55.0,True,1,1,Calle de Alcalá,Madrid,404.393.155,-36.386.662,False,6017,False,good,False,False,False,False,False,Desconocido,Ciudad Lineal,Quintana,False
-76,18,650.0,flat,65.0,True,2,1,Calle de Fuente de Lima,Madrid,403.827.984,-3.780.637,False,7559,False,good,False,False,False,False,False,Desconocido,Latina,Águilas,True
-77,13,666.0,flat,70.0,True,1,2,Calle Mercurio,Villanueva del Pardillo,404.848.283,-39.831.274,False,24862,False,good,False,False,False,False,False,1,Los Llanos - Valle Pardo,Desconocido,True
-78,10,750.0,flat,78.0,True,2,2,Calle José María Pereda,Alcalá de Henares,40.497.798,-33.653.418,False,29976,False,good,False,False,False,False,False,Desconocido,Ensanche,Desconocido,True
-79,16,630.0,flat,74.0,True,3,1,Calle el Almendro,El Molar,407.313.535,-35.807.508,False,36483,False,good,False,False,False,False,False,Desconocido,Desconocido,Desconocido,True
-80,18,635.0,studio,55.0,True,0,1,Arquímedes,Leganés,403.129.024,-38.074.212,False,14528,False,good,False,False,False,False,False,2,Valdepelayo - Montepinos - Arroyo Culebro,Valdepelayo-Montepinos-Arroyo Culebro,True
-81,5,725.0,flat,69.0,True,2,1,"huerta, 6",Collado Villalba,406.505.412,-39.960.481,True,35892,True,good,False,False,False,False,False,1,Dehesa - El Soto,Desconocido,True
-82,16,750.0,flat,35.0,False,1,1,"buenavista, 42",Madrid,404.093.818,-36.999.866,True,859,False,good,False,True,False,False,False,1,Centro,Lavapiés-Embajadores,False
-83,10,690.0,flat,65.0,True,2,1,"Calle imagen, 16",Madrid,403.842.534,-36.672.159,True,4724,False,good,False,False,False,False,False,3,Puente de Vallecas,San Diego,False
-84,19,700.0,studio,30.0,False,0,1,"Calle de Tribulete, 25",Madrid,404.073.367,-3.703.392,True,1041,False,good,False,False,False,False,False,2,Centro,Lavapiés-Embajadores,True
-85,33,730.0,flat,64.0,True,3,1,Calle de Pablo VI,Parla,402.401.418,-37.611.554,False,20235,True,good,False,True,False,True,False,1,Pintores-Ferial,Desconocido,False
-86,19,750.0,flat,51.0,True,1,1,Calle Pedro Campos,Madrid,403.883.504,-37.194.063,False,3436,False,good,False,False,False,False,False,1,Carabanchel,Opañel,True
-87,16,750.0,flat,48.0,False,1,1,Avenida del Parque,Tres Cantos,406.012.733,-37.082.604,False,20526,False,good,False,False,False,False,False,4,Zona Estación- Centro,Desconocido,True
-88,13,690.0,flat,35.0,True,1,1,Calle del Cactus,Madrid,404.598.487,-37.007.082,False,4802,False,good,False,False,False,False,False,Desconocido,Tetuán,Berruguete,False
-89,13,750.0,flat,74.0,True,3,1,Calle Nueva,Alcorcón,403.481.835,-38.278.811,False,13017,False,good,False,False,False,False,False,4,Centro,Casco Antiguo,True
-90,16,700.0,duplex,35.0,True,1,1,Calle de Fomento,Madrid,404.215.077,-37.110.908,False,852,False,good,False,False,False,False,False,bj,Centro,Palacio,False
-91,11,720.0,flat,42.0,True,1,1,Santa Susana,Madrid,404.783.138,-36.471.826,False,8333,False,good,False,True,False,False,False,4,Hortaleza,Pinar del Rey,True
-92,22,595.0,flat,55.0,True,1,1,Erilla,Quijorna,404.261.887,-40.538.894,False,29699,False,good,False,True,False,False,False,1,Desconocido,Desconocido,False
-93,14,700.0,flat,45.0,False,1,1,San Isidro labrador,Madrid,404.119.172,-37.148.053,False,1113,False,good,False,False,False,False,False,1,Centro,Palacio,False
-94,6,500.0,flat,45.0,True,1,1,Valdemorillo pueblo,Valdemorillo,405.000.981,-40.675.866,False,32188,False,good,False,False,False,False,False,Desconocido,Valdemorillo pueblo,Desconocido,False
-95,6,700.0,flat,75.0,True,2,1,"ABASTOS, 187",Aranjuez,4.003.075,-359.339,True,43915,True,good,False,True,False,False,False,1,Nuevo Aranjuez-Ciudad de las Artes,Desconocido,False
-96,8,675.0,duplex,87.0,True,2,2,Calle CONCEJO,Miraflores de la Sierra,408.128.999,-37.780.237,False,44503,False,good,False,False,False,False,False,2,Desconocido,Desconocido,False
-97,10,650.0,flat,45.0,True,1,1,Pedrezuela,Pedrezuela,407.471.453,-3.601.093,False,37741,False,good,False,False,False,False,False,bj,Desconocido,Desconocido,False
-98,4,750.0,studio,55.0,True,0,1,"Plaza GENERAL VARA DE REY, 11",Madrid,404.095.182,-37.086.213,True,918,False,good,False,True,True,False,False,2,Centro,Lavapiés-Embajadores,True
-99,17,720.0,studio,45.0,True,0,1,"Avenida del Juncal, 11",San Sebastián de los Reyes,405.402.351,-3.620.037,True,15433,True,good,False,True,False,True,False,5,Vega de la Moraleja,Desconocido,True
-100,22,624.0,flat,45.0,True,1,1,"Calle Agustina de Aragón , 49",Valdemoro,402.003.307,-36.919.489,True,24077,True,newdevelopment,True,True,False,False,False,Desconocido,Hospital,Desconocido,True
-101,22,633.0,flat,45.0,True,1,1,"Calle Agustina de Aragón , 49",Valdemoro,402.003.307,-36.919.489,True,24077,True,newdevelopment,True,True,False,False,False,Desconocido,Hospital,Desconocido,True
-102,22,640.0,studio,33.0,True,0,1,"Calle Embalse de Navacerrada, 53",Madrid,403.591.678,-35.948.413,True,11189,False,good,False,True,False,False,False,2,Villa de Vallecas,Ensanche de Vallecas - La Gavia,True
-103,14,645.0,flat,84.0,True,2,2,"Travesía de Noblejas, 2",Aranjuez,400.308.188,-3.597.916,True,43827,False,good,False,False,False,True,False,2,Nuevo Aranjuez-Ciudad de las Artes,Desconocido,True
-104,12,750.0,flat,46.0,False,1,1,"CARRERA DE SAN FRANCISCO, 14",Madrid,404.108.822,-37.133.169,True,1069,False,good,False,True,False,True,False,3,Centro,Palacio,False
-105,16,735.0,studio,35.0,True,0,1,"Calle de María Tubau, 6",Madrid,405.137.383,-36.730.214,True,11088,False,good,False,True,False,True,False,1,Fuencarral,Las Tablas,True
-106,22,600.0,flat,55.0,True,1,1,Calle Alcalá,Daganzo de Arriba,405.454.979,-34.582.275,False,25189,True,good,False,False,False,False,False,Desconocido,Desconocido,Desconocido,False
-107,28,750.0,flat,75.0,True,3,1,Calle de Gregorio Ortiz,Madrid,403.422.105,-37.061.586,False,8286,False,good,False,False,False,False,False,Desconocido,Villaverde,Villaverde Alto,False
-108,1,600.0,penthouse,25.0,True,1,1,"Calle Carretas, 31",Madrid,404.150.546,-3.703.188,True,183,False,good,False,True,False,True,False,5,Centro,Sol,True
-109,30,705.0,flat,48.0,True,1,1,"Calle Arte Pop, 8",Madrid,403.631.821,-35.874.258,True,11472,False,good,False,True,False,False,False,4,Villa de Vallecas,Ensanche de Vallecas - La Gavia,True
-110,35,650.0,flat,62.0,True,2,1,Calle Nuevo Guadarrama,Guadarrama,406.814.972,-40.779.084,False,43229,True,good,False,True,False,False,False,3,Desconocido,Desconocido,False
-111,29,700.0,duplex,61.0,True,2,1,Camino de Madrid,Cobeña,405.684.393,-35.027.753,False,23917,False,good,False,False,False,False,False,1,Desconocido,Desconocido,False
-112,14,650.0,studio,40.0,False,0,1,Calle Berruguete,Madrid,404.623.825,-37.067.882,False,5088,False,good,False,False,False,False,False,en,Tetuán,Berruguete,True
-113,16,700.0,flat,40.0,True,1,1,Calle de los Sagrados Corazones,Madrid,40.408.986,-37.381.489,False,3076,False,good,False,False,False,False,False,bj,Latina,Puerta del Ángel,False
-114,30,730.0,flat,51.0,True,2,1,Calle de Villajoyosa,Madrid,403.566.848,-36.899.208,False,6767,True,good,False,True,False,True,False,4,Villaverde,Los Rosales,False
-115,35,750.0,flat,50.0,True,2,1,Calle de la Gavia Seca,Madrid,403.782.048,-3.618.842,False,8331,True,good,False,True,False,True,False,3,Villa de Vallecas,Casco Histórico de Vallecas,False
-116,29,680.0,flat,56.0,True,2,1,Calle Madrid,Torrejón de Ardoz,404.626.558,-34.833.464,False,19298,True,good,False,True,False,True,False,3,Noroeste,Desconocido,False
-117,29,710.0,flat,78.0,True,3,1,Calle Isaac Albéniz,Parla,40.229.689,-37.729.819,False,21617,True,good,False,True,False,True,False,4,Fuentebella-San Felix-El Leguario,Desconocido,False
-118,29,720.0,flat,47.0,True,2,1,Calle de Arrozal,Madrid,404.264.208,-36.204.865,False,7088,True,good,False,True,False,True,False,1,San Blas,Amposta,False
-119,12,750.0,studio,43.0,True,0,1,Calle de las Azucenas,Madrid,404.646.408,-37.015.475,False,5332,False,good,False,False,False,False,False,Desconocido,Tetuán,Valdeacederas,True
-120,12,695.0,studio,40.0,True,0,1,Calle Camarillas,Madrid,404.740.632,-35.779,False,12376,False,good,False,False,False,False,False,Desconocido,Barajas,Casco Histórico de Barajas,True
-121,32,630.0,flat,54.0,True,1,2,Calle de Aniceto Gaitán Sánchez,El Álamo,402.326.293,-4.000.047,False,32432,False,good,True,False,False,False,False,Desconocido,Desconocido,Desconocido,True
-122,42,750.0,flat,90.0,True,3,1,Calle Carrachel,Algete,405.996.508,-35.041.753,False,26401,False,good,False,False,False,False,False,Desconocido,Desconocido,Desconocido,True
-123,1,730.0,flat,50.0,True,1,1,Metro congosto,Madrid,403.709.629,-36.196.403,False,8717,False,good,False,False,False,False,False,2,Villa de Vallecas,Casco Histórico de Vallecas,True
-124,24,600.0,flat,90.0,True,3,1,Calle del Pozo Chico,Valdemoro,401.913.355,-36.737.843,False,25182,False,good,False,False,False,False,False,Desconocido,Centro,Desconocido,True
-125,17,650.0,studio,45.0,True,0,1,"Calle de Fernando Gabriel, 16",Madrid,404.245.432,-36.372.252,True,5656,False,good,False,False,False,False,False,bj,Ciudad Lineal,Pueblo Nuevo,True
-126,20,750.0,flat,38.0,False,1,1,"Calle de Atocha, 51",Madrid,404.130.841,-3.700.354,True,470,True,good,False,False,False,False,False,bj,Centro,Huertas-Cortes,True
-127,21,730.0,flat,50.0,True,1,1,Calle Ana María Matute,Rivas-Vaciamadrid,403.507.361,-35.299.169,False,16410,False,good,False,False,False,False,False,Desconocido,Rivas Futura,Desconocido,True
-128,0,735.0,studio,30.0,True,0,1,"Carretera Fuencarral a Alcobendas, 22",Madrid,405.147.334,-36.734.076,True,11188,False,good,False,False,False,True,False,2,Fuencarral,Las Tablas,True
-129,29,610.0,flat,72.0,False,1,1,Calle de Pedro Faura,Pinto,402.409.218,-37.024.263,False,19544,True,good,False,True,False,True,False,bj,San José - Buenos Aires,Desconocido,True
-130,20,580.0,chalet,54.0,False,3,2,Los Santos de la Humosa,Los Santos de la Humosa,405.008.373,-3.255.075,False,39053,False,good,False,False,False,False,False,Desconocido,Desconocido,Desconocido,False
-131,16,725.0,flat,50.0,True,1,1,"San Vicente de Paul, 3",Villanueva del Pardillo,404.907.977,-39.669.988,True,23787,False,good,False,True,False,False,False,en,Centro,Desconocido,False
-132,22,750.0,flat,48.0,True,1,1,Calle Juana Urosa,Madrid,403.827.657,-37.435.256,False,5085,True,good,False,True,False,False,False,1,Carabanchel,Vista Alegre,False
-133,24,750.0,flat,70.0,True,3,1,Calle Escuelas Pías,Alcalá de Henares,404.866.178,-33.649.445,False,29660,True,good,False,True,False,False,False,2,San Isidro - Los Almendros,Desconocido,False
-134,16,750.0,flat,49.0,True,1,1,"Calle de Santa Susana, 44",Madrid,404.798.862,-36.474.341,True,8465,True,good,False,True,False,False,False,7,Hortaleza,Pinar del Rey,True
-135,28,730.0,flat,60.0,True,3,1,Calle Alfonso X el Sabio,Parla,402.350.913,-37.690.298,False,20948,True,good,False,True,False,True,False,3,Reyes,Desconocido,False
-136,32,560.0,flat,26.0,False,1,1,Calle del Olivar,Madrid,404.115.798,-37.001.991,False,625,True,good,False,True,False,True,False,bj,Centro,Lavapiés-Embajadores,False
-137,20,700.0,studio,23.0,True,0,1,"Princesa, 12",Madrid,404.257.458,-37.124.453,True,1271,False,good,False,False,False,False,False,Desconocido,Desconocido,Desconocido,False
-138,30,750.0,flat,80.0,True,3,1,"Calle Álava, 24",San Fernando de Henares,404.193.191,-35.261.909,True,14991,False,good,False,False,False,False,False,2,Parque Roma - Coronas,Desconocido,True
-139,31,730.0,flat,70.0,True,3,1,Calle de Velázquez,Pinto,402.481.518,-36.887.516,False,18781,True,good,False,True,False,True,False,3,Parque Europa - Los Pitufos,Desconocido,False
-140,29,730.0,flat,52.0,True,2,1,Calle Efigenia,Madrid,40.406.043,-3.599.925,False,8827,True,good,False,True,False,True,False,4,Vicálvaro,Ambroz,False
-141,27,740.0,flat,64.0,True,2,1,Calle Horcajo,Madrid,403.419.943,-37.149.759,False,8365,True,good,False,True,False,True,False,3,Villaverde,Villaverde Alto,False
-142,37,720.0,flat,65.0,True,2,1,Calle Eduardo Minguito,Madrid,403.497.973,-36.909.853,False,7511,True,good,False,True,False,True,False,2,Villaverde,Los Rosales,False
-143,32,720.0,flat,63.0,True,2,1,Calle del Inta,Torrejón de Ardoz,404.601.152,-3.477.174,False,19731,True,good,False,True,False,True,False,2,Noroeste,Desconocido,False
-144,33,740.0,flat,54.0,True,2,1,Calle de Sáhara,Madrid,403.577.435,-36.910.449,False,6636,True,good,False,True,False,True,False,1,Villaverde,Los Rosales,True
-145,30,720.0,flat,52.0,True,2,1,Calle Zurbarán,Getafe,403.051.933,-37.355.007,False,12695,True,good,False,True,False,True,False,3,La Alhóndiga,Desconocido,False
-146,43,730.0,flat,45.0,True,2,1,Calle de Manuel Maroto,Madrid,403.865.497,-3.669.867,False,4385,True,good,False,True,False,True,False,3,Puente de Vallecas,San Diego,False
-147,7,600.0,duplex,80.0,False,1,1,Plaza DE CIEZA,Madrid,404.811.948,-37.135.583,False,7223,False,newdevelopment,False,True,False,False,False,Desconocido,Desconocido,Desconocido,False
-148,8,600.0,duplex,80.0,False,1,1,Plaza Cieza,Madrid,404.806.948,-37.104.583,False,7141,True,good,False,False,False,False,False,Desconocido,Desconocido,Desconocido,True
-149,20,725.0,duplex,71.0,True,2,1,Travesía Conquistadores,Cobeña,405.654.436,-35.115.527,False,23158,False,good,False,False,False,False,False,1,Desconocido,Desconocido,False
-150,31,675.0,flat,76.0,True,3,1,Calle Real-Fuentes,Aldea del Fresno,403.242.709,-42.020.467,False,43485,True,good,False,True,False,True,False,2,Desconocido,Desconocido,False
-151,21,750.0,flat,54.0,True,1,1,"REAL, 25  - 27",San Sebastián de los Reyes,405.465.444,-3.626.349,True,15834,False,good,False,False,False,False,False,3,Centro Urbano,Desconocido,True
-152,20,750.0,duplex,79.0,True,2,2,Plaza Los Belgas,Collado Villalba,406.305.255,-40.022.515,False,34697,False,good,False,False,False,False,False,1,Villalba Estación,Desconocido,False
-153,33,700.0,flat,54.0,True,1,1,Calle de Almendrales,Madrid,403.865.719,-3.701.155,False,3354,False,good,False,False,False,False,False,2,Usera,Almendrales,True
-154,33,750.0,flat,54.0,True,2,1,Calle Gómez Acebo,Madrid,403.418.891,-3.706.374,False,8322,True,good,False,True,False,True,False,3,Villaverde,Villaverde Alto,False
-155,31,730.0,flat,48.0,True,2,1,Calle Fotografía,Madrid,404.258.749,-36.214.713,False,6997,True,good,False,True,False,True,False,3,San Blas,Amposta,False
-156,39,650.0,flat,61.0,True,2,1,Calle Santa Fe,Alcalá de Henares,404.744.046,-33.738.116,False,28605,True,good,False,True,False,True,False,4,Reyes Católicos,Desconocido,False
-157,34,730.0,flat,63.0,True,2,1,Avenida de Espinela,Madrid,403.457.921,-37.078.778,False,7893,True,good,False,True,False,True,False,1,Villaverde,Villaverde Alto,False
-158,33,720.0,flat,50.0,True,2,1,Calle de Arrozal,Madrid,404.285.359,-36.215.247,False,7041,True,good,False,True,False,True,False,2,San Blas,Amposta,False
-159,31,720.0,flat,51.0,True,2,1,Calle de las Encajeras,Madrid,404.282.526,-36.222.803,False,6973,True,good,False,True,False,True,False,1,San Blas,Amposta,False
-160,30,750.0,flat,47.0,True,2,1,Calle del Puerto de Arlabán,Madrid,403.864.987,-36.671.855,False,4538,True,good,False,True,False,True,False,1,Puente de Vallecas,San Diego,False
-161,30,730.0,flat,50.0,True,2,1,Calle de Vicente Carballal,Madrid,403.518.257,-36.831.326,False,7411,True,good,False,True,False,True,False,3,Villaverde,Butarque,False
-162,23,730.0,flat,40.0,True,2,1,Calle de García Llamas,Madrid,403.877.843,-3.671.312,False,4201,True,good,False,True,False,True,False,2,Puente de Vallecas,San Diego,False
-163,32,670.0,flat,67.0,True,2,1,Paseo de la Estación,Valdemoro,4.019.213,-367.304,False,25100,True,good,False,True,False,True,False,1,Zona Estación,Desconocido,True
-164,31,740.0,flat,52.0,True,2,1,Calle Martell,Madrid,403.834.771,-3.665.903,False,4862,True,good,False,True,False,True,False,3,Puente de Vallecas,San Diego,False
-165,30,720.0,flat,69.0,True,2,1,Calle Antonio Mejías Bienvenida,Alcalá de Henares,404.890.164,-33.728.895,False,29084,True,good,False,True,False,True,False,1,Chorrillo,Desconocido,True
-166,30,750.0,flat,59.0,True,2,1,Calle Sargento Barriga,Madrid,403.411.511,-37.043.589,False,8400,True,good,False,True,False,True,False,4,Villaverde,Villaverde Alto,False
-167,33,740.0,flat,45.0,True,2,1,Calle Encarnación Oviol,Madrid,40.348.543,-36.858.237,False,7720,True,good,False,True,False,True,False,3,Villaverde,Los Rosales,False
-168,31,740.0,flat,60.0,True,2,1,Calle de Sáhara,Madrid,403.571.435,-36.937.449,False,6670,True,good,False,True,False,True,False,1,Villaverde,Los Rosales,True
-169,10,730.0,studio,45.0,False,0,1,Paseo del Prado,Madrid,404.123.204,-36.949.573,False,854,False,good,False,False,False,False,False,Desconocido,Centro,Huertas-Cortes,True
-170,13,620.0,flat,75.0,True,3,1,Calle Isabel II,Parla,402.338.005,-37.671.126,False,21044,False,good,False,False,False,False,False,Desconocido,Reyes,Desconocido,True
-171,16,695.0,flat,67.0,True,2,1,Avenida de la Hispanidad,Fuenlabrada,402.841.243,-37.799.766,False,16111,False,good,False,False,False,False,False,Desconocido,Sudeste Industrial,Desconocido,False
-172,17,650.0,flat,95.0,True,3,1,Calle de San Roque,Navalcarnero,402.854.975,-40.110.488,False,29884,False,good,False,False,False,False,False,Desconocido,Centro,Desconocido,True
-173,11,675.0,flat,68.0,True,2,1,Calle Diego de Urbina,Alcalá de Henares,404.876.587,-33.555.155,False,30461,False,good,False,False,False,False,False,Desconocido,Juan de Austria,Desconocido,True
-174,20,695.0,flat,65.0,True,2,1,Calle San Ciriaco,Madrid,404.039.568,-36.044.371,False,8484,False,good,False,False,False,False,False,Desconocido,Vicálvaro,Casco Histórico de Vicálvaro,False
-175,12,750.0,flat,111.0,True,2,2,Centro,Parla,4.023.866,-376.976,False,20583,False,good,False,False,False,False,False,6,Centro,Desconocido,True
-176,16,675.0,flat,35.0,False,1,1,Calle de Don Pedro s/n,Madrid,404.117.027,-37.132.995,True,1016,False,good,False,False,False,False,False,Desconocido,Desconocido,Desconocido,True
-177,28,730.0,flat,60.0,False,3,1,Reyes,Parla,402.366.913,-37.681.298,False,20756,False,good,False,True,False,True,False,3,Reyes,Desconocido,False
-178,21,690.0,flat,85.0,True,2,1,Calle Alfonso XIII,Parla,402.355.101,-37.644.926,False,20804,False,good,False,False,False,False,False,Desconocido,Reyes,Desconocido,True
-179,14,750.0,flat,45.0,False,1,1,"Calle Conde de Vallellano, 5",Madrid,40.462.325,-36.983.636,True,5089,False,good,False,True,False,False,False,bj,Tetuán,Valdeacederas,False
-180,21,600.0,studio,32.0,True,0,1,"Travesía de López de Aranda, 6",Madrid,404.428.709,-36.368.942,True,6325,False,good,False,False,False,False,False,1,San Blas,Salvador,True
-181,28,723.0,studio,25.0,True,0,1,"Calle Beatriz Galindo, 12",Rivas-Vaciamadrid,403.413.759,-35.316.501,True,16775,True,newdevelopment,True,True,False,False,False,Desconocido,Rivas Futura,Desconocido,True
-182,29,725.0,flat,50.0,True,1,1,"DEYANIRA, 59",Madrid,404.430.571,-3.584.077,True,10503,False,good,False,True,False,False,False,1,San Blas,Rejas,True
-183,16,750.0,flat,67.0,True,3,1,Avenida España,Getafe,403.127.355,-37.210.287,False,11657,False,good,False,True,False,True,False,Desconocido,Desconocido,Desconocido,True
-184,16,600.0,flat,45.0,True,2,1,Higuera,Mataelpino,407.351.814,-39.480.239,False,41003,True,good,False,False,False,False,False,Desconocido,Desconocido,Desconocido,False
-185,42,750.0,flat,70.0,True,3,1,Calle de la Presa,San Fernando de Henares,404.265.112,-35.307.456,False,14642,False,good,False,False,False,False,False,2,Montserrat - Parque Empresarial,Desconocido,False
-186,6,450.0,penthouse,60.0,True,1,1,Calle Hortensia,Villa del Prado,402.789.466,-43.049.356,False,53238,False,good,False,False,False,False,False,Desconocido,Desconocido,Desconocido,False
-187,27,720.0,flat,54.0,True,1,1,Calle de Rascón,Madrid,403.938.982,-37.281.276,False,3296,True,good,False,True,False,True,False,bj,Carabanchel,San Isidro,False
-188,8,550.0,penthouse,75.0,True,2,2,Calle Hortensia,Villa del Prado,402.796.466,-43.053.356,False,53247,False,good,False,False,False,False,False,Desconocido,Desconocido,Desconocido,False
-189,30,720.0,flat,49.0,False,3,1,Calle de Godella,Madrid,403.418.997,-36.883.697,False,8411,True,good,False,True,False,True,False,3,Villaverde,San Cristóbal,False
-190,38,740.0,flat,65.0,True,3,1,Calle Sacrificio,Madrid,404.049.726,-36.047.164,False,8443,False,good,False,False,False,False,False,1,Vicálvaro,Ambroz,True
-191,72,660.0,flat,155.0,False,3,2,Calle de Versalles,Aranjuez,400.565.099,-35.934.267,False,41119,False,good,False,False,False,False,False,Desconocido,Desconocido,Desconocido,True
-192,26,720.0,flat,56.0,False,2,1,Calle de Sáhara,Madrid,403.571.834,-36.915.155,False,6691,True,good,False,True,False,True,False,4,Villaverde,Los Rosales,False
-193,22,650.0,flat,31.0,False,1,1,Calle del Doctor Fourquet,Madrid,404.064.335,-36.985.906,False,1207,False,good,False,False,False,False,False,3,Centro,Lavapiés-Embajadores,False
-194,28,650.0,flat,96.0,True,2,1,Calle de San Juan,Aranjuez,400.299.792,-3.595.984,False,43953,True,good,False,True,False,True,False,3,Nuevo Aranjuez-Ciudad de las Artes,Desconocido,False
-195,29,660.0,flat,168.0,False,4,2,Calle Acrópolis de Atenas,Aranjuez,400.557.898,-35.922.225,False,41221,True,good,False,True,False,True,False,3,La Montaña-El Cortijo,Desconocido,True
-196,19,690.0,flat,64.0,True,2,1,Val,Alcalá de Henares,404.834.597,-33.519.837,False,30634,False,good,False,False,False,False,False,bj,Val,Desconocido,False
-197,24,750.0,studio,25.0,True,0,1,Calle de Francisco Silvela,Madrid,404.282.477,-36.689.173,False,3177,False,good,False,True,False,False,False,5,Barrio de Salamanca,Lista,True
-198,29,725.0,flat,45.0,True,1,1,"Calle de la Pirra, 44",Madrid,40.444.004,-3.584.382,True,10508,False,good,False,True,False,False,False,2,San Blas,Rejas,True
-199,31,620.0,flat,85.0,False,1,1,Calle de Pedro Faura,Pinto,402.389.218,-37.030.263,False,19767,True,good,False,True,False,True,False,bj,San José - Buenos Aires,Desconocido,True
-200,25,590.0,flat,52.0,True,1,1,Los Molinos,Los Molinos,407.039.311,-40.705.474,False,44526,False,good,False,False,False,False,False,bj,Desconocido,Desconocido,False
-201,15,750.0,penthouse,80.0,True,0,1,Zona Industrial,Tres Cantos,406.038.483,-36.957.713,False,20818,False,good,False,False,False,False,False,1,Zona Industrial,Desconocido,True
-202,24,720.0,studio,36.0,True,0,1,barrio San Juan Bautista,Madrid,404.514.903,-3.649.443,False,5975,False,good,False,False,False,True,False,2,Ciudad Lineal,San Juan Bautista,True
-203,16,700.0,flat,82.0,True,2,1,San Pedro Regalado,San Lorenzo de el Escorial,405.938.213,-41.482.372,False,42463,False,good,False,False,False,False,False,3,Centro - Casco Histórico,Desconocido,False
-204,19,692.0,flat,83.0,True,2,2,"Calle Valle de Ambles, 2",Torrejón de Ardoz,404.430.651,-34.659.877,True,20294,False,newdevelopment,True,True,False,False,False,Desconocido,Suroeste,Desconocido,True
-205,19,670.0,flat,79.0,True,2,2,"Calle Valle de Ambles, 2",Torrejón de Ardoz,404.430.651,-34.659.877,True,20294,False,newdevelopment,True,True,False,False,False,Desconocido,Suroeste,Desconocido,True
-206,14,609.0,flat,56.0,True,1,1,"Calle Álvaro Mutis, 1",Alcalá de Henares,405.126.166,-33.694.194,True,30186,False,newdevelopment,True,True,False,False,False,bj,Espartales,Desconocido,True
-207,19,718.0,flat,86.0,True,2,2,"Calle Valle de Ambles, 2",Torrejón de Ardoz,404.430.651,-34.659.877,True,20294,False,newdevelopment,True,True,False,False,False,Desconocido,Suroeste,Desconocido,True
-208,19,694.0,flat,81.0,True,2,2,"Calle Valle de Ambles, 2",Torrejón de Ardoz,404.430.651,-34.659.877,True,20294,False,newdevelopment,True,True,False,False,False,Desconocido,Suroeste,Desconocido,True
-209,19,658.0,flat,78.0,True,2,2,"Calle Valle de Ambles, 2",Torrejón de Ardoz,404.430.651,-34.659.877,True,20294,False,newdevelopment,True,True,False,False,False,Desconocido,Suroeste,Desconocido,True
-210,11,750.0,flat,36.0,False,2,1,"Calle Tenerife, 6",Madrid,404.492.198,-37.054.938,True,3620,False,good,False,False,False,False,False,2,Tetuán,Bellas Vistas,True
-211,19,723.0,flat,88.0,True,2,2,"Calle Valle de Ambles, 2",Torrejón de Ardoz,404.430.651,-34.659.877,True,20294,False,newdevelopment,True,True,False,False,False,Desconocido,Suroeste,Desconocido,True
-212,19,728.0,flat,91.0,True,2,2,"Calle Valle de Ambles, 2",Torrejón de Ardoz,404.430.651,-34.659.877,True,20294,False,newdevelopment,True,True,False,False,False,Desconocido,Suroeste,Desconocido,True
-213,16,650.0,studio,28.0,True,0,1,Calle del Cactus,Madrid,404.608.285,-36.988.899,False,4920,False,good,False,False,False,True,False,bj,Tetuán,Valdeacederas,False
-214,23,750.0,flat,60.0,False,2,1,Calle Santiago,Alcalá de Henares,40.484.995,-33.643.476,False,29663,True,good,False,False,False,False,False,1,Casco Histórico,Desconocido,False
-215,30,735.0,flat,60.0,True,3,1,Calle Cafarnaúm,Parla,402.377.276,-37.780.729,False,20886,True,good,False,True,False,True,False,4,Parque Inlasa,Desconocido,False
-216,24,699.0,penthouse,78.0,True,2,1,"Calle de la Retama, 19",Colmenar Viejo,406.608.574,-37.674.572,True,27684,False,good,False,False,False,False,False,2,Centro,Desconocido,False
-217,28,725.0,flat,67.0,True,3,1,Calle Valladolid,Móstoles,403.206.268,-38.622.583,False,17191,True,good,False,True,False,True,False,4,Centro,Desconocido,False
-218,21,740.0,flat,77.0,True,3,2,Calle Miguel Ángel,Alcalá de Henares,404.737.561,-33.762.869,False,28385,True,good,False,True,False,True,False,bj,Reyes Católicos,Desconocido,True
-219,20,720.0,flat,73.0,True,1,1,"La fuente, 27",Collado Villalba,406.297.309,-40.042.674,True,34761,False,good,False,True,False,False,False,2,Villalba Estación,Desconocido,True
-220,21,750.0,flat,79.0,True,3,1,"Calle Pizarro, 16",Getafe,403.132.454,-37.302.507,True,11728,False,good,False,False,False,False,False,en,Universidad,Desconocido,True
-221,30,710.0,flat,66.0,True,3,1,Calle Cafarnaúm,Parla,402.400.853,-37.762.193,False,20588,True,good,False,True,False,True,False,4,Parque Inlasa,Desconocido,False
-222,42,725.0,flat,62.0,True,2,1,Calle de Navalmoral de la Mata,Madrid,403.757.382,-37.772.753,False,7748,True,good,False,False,False,True,False,3,Latina,Águilas,False
-223,22,750.0,flat,46.0,False,1,1,"Calle de eugenia de montijo, 59",Madrid,403.784.325,-37.476.971,True,5680,False,good,False,False,False,False,False,bj,Carabanchel,Puerta Bonita,False
-224,32,750.0,flat,61.0,True,2,1,"Calle del Radio, 15",Madrid,403.921.768,-37.221.391,True,3161,False,good,False,False,False,False,False,1,Carabanchel,Opañel,True
-225,28,730.0,flat,161.0,True,4,1,Calle de la Cruz,Aranjuez,400.282.361,-35.950.227,False,44159,True,good,False,True,False,True,False,3,Nuevo Aranjuez-Ciudad de las Artes,Desconocido,False
-226,25,720.0,flat,110.0,False,2,1,Calle Alfonso X el Sabio,Parla,402.303.494,-37.672.134,False,21417,True,good,False,True,False,True,False,Desconocido,Las Américas,Desconocido,True
-227,28,720.0,flat,48.0,False,2,1,Calle Tejar de la Pastora,Madrid,404.043.015,-366.459,False,3551,True,good,False,True,False,True,False,bj,Puente de Vallecas,Numancia,False
-228,33,700.0,flat,57.0,False,2,1,Calle de Rocafort,Madrid,403.419.687,-36.878.728,False,8410,True,good,False,True,False,True,False,4,Villaverde,San Cristóbal,False
-229,19,750.0,duplex,75.0,True,2,2,Calle Lirio,Cobeña,405.695.498,-34.999.067,False,24176,False,good,False,False,False,False,False,1,Desconocido,Desconocido,False
-230,26,610.0,studio,26.0,False,0,1,Calle Ana María,Madrid,404.647.578,-37.026.911,False,5343,True,good,False,True,False,True,False,3,Tetuán,Valdeacederas,True
-231,25,740.0,flat,52.0,False,2,1,Calle Agustina de Aragón,Móstoles,403.198.404,-38.664.536,False,17525,True,good,False,True,False,True,False,4,Centro,Desconocido,False
-232,33,715.0,flat,62.0,True,2,1,Transcantábrico,Colmenar Viejo,406.474.693,-37.843.419,False,26558,False,good,False,False,False,True,False,bj,San Crispín - La Estación Consorcio,Desconocido,True
-233,28,550.0,flat,57.0,False,2,1,Glorieta del Clavel,Aranjuez,400.342.868,-3.593.946,False,43521,True,good,False,True,False,True,False,bj,Foso-Moreras,Desconocido,False
-234,45,710.0,flat,36.0,True,1,1,Calle de Sebastián Elcano,Madrid,404.060.404,-36.965.218,False,1315,True,good,False,True,False,True,False,bj,Arganzuela,Palos de Moguer,False
-235,26,730.0,flat,51.0,True,2,1,Calle de Getafe,Madrid,403.440.558,-37.092.341,False,8093,True,good,False,True,False,True,False,2,Villaverde,Villaverde Alto,False
-236,21,750.0,studio,23.0,True,0,1,Calle de la Princesa,Madrid,404.260.458,-37.137.453,False,1367,True,good,False,False,False,False,False,8,Centro,Malasaña-Universidad,True
-237,27,690.0,flat,33.0,False,1,1,Calle Ana María,Madrid,404.637.578,-37.033.911,False,5232,True,good,False,True,False,True,False,3,Tetuán,Valdeacederas,True
-238,32,740.0,flat,73.0,True,3,1,Calle de Enrique Granados,Parla,402.284.935,-37.769.246,False,21838,True,good,False,True,False,True,False,4,Fuentebella-San Felix-El Leguario,Desconocido,True
-239,38,750.0,duplex,66.0,True,1,1,Calle del Capitán Blanco Argibay,Madrid,404.671.802,-37.080.651,False,5627,True,good,False,True,False,True,False,bj,Tetuán,Valdeacederas,True
-240,29,720.0,flat,44.0,False,3,1,Avenida de Espinela,Madrid,403.432.945,-37.089.766,False,8176,True,good,False,True,False,True,False,2,Villaverde,Villaverde Alto,False
-241,27,475.0,flat,79.0,True,2,2,rivero,Navalafuente,408.214.857,-36.735.554,False,45077,False,good,False,False,False,False,False,2,Desconocido,Desconocido,True
-242,26,740.0,flat,41.0,True,2,1,Travesía Doctor Sánchez,Madrid,403.831.822,-36.677.543,False,4787,True,good,False,True,False,True,False,2,Puente de Vallecas,San Diego,False
-243,31,740.0,flat,57.0,True,1,1,Calle del Ánsar,Madrid,404.019.497,-37.416.593,False,3642,True,good,False,True,False,True,False,1,Latina,Los Cármenes,True
-244,33,740.0,flat,62.0,True,2,1,Transcantábrico,Colmenar Viejo,406.500.693,-37.867.419,False,26890,False,good,False,False,False,True,False,1,San Crispín - La Estación Consorcio,Desconocido,True
-245,47,700.0,flat,74.0,False,2,1,Calle Rosa Montero,Getafe,403.285.563,-37.235.629,False,9950,True,good,False,True,False,True,False,4,Getafe norte,Desconocido,False
-246,22,730.0,flat,35.0,False,1,1,Hernán Cortes,Madrid,404.234.164,-3.701.547,False,760,False,good,False,False,False,False,False,2,Centro,Chueca-Justicia,True
-247,25,700.0,studio,28.0,True,0,1,SANTUARIO DE VALVERDE,Madrid,40.503.863,-3.708.243,False,9700,False,good,False,False,False,False,False,3,Fuencarral,Montecarmelo,True
-248,28,600.0,chalet,180.0,False,3,2,Meco,Meco,405.533.779,-33.233.069,False,35543,False,good,False,False,False,False,False,Desconocido,Desconocido,Desconocido,True
-249,23,750.0,flat,109.0,True,2,2,Hospital,Valdemoro,401.969.978,-36.896.474,False,24455,False,good,False,False,False,False,False,3,Hospital,Desconocido,True
-250,16,749.0,flat,38.0,True,1,1,"Calle Peso Hispano, 6",Madrid,403.670.279,-3.743.863,True,6506,False,good,False,False,False,True,False,2,Carabanchel,Pau de Carabanchel,True
-251,7,700.0,studio,30.0,False,0,1,Calle de Narciso Serra,Madrid,404.029.147,-36.812.663,False,2411,False,good,False,False,False,False,False,bj,Retiro,Pacífico,True
-252,15,667.0,flat,70.0,True,1,1,"Calle Estrella Polar, 2",Parla,402.306.942,-37.574.148,True,21185,False,good,False,False,False,False,False,8,Parla Este,Desconocido,True
-253,22,725.0,flat,45.0,False,1,1,Calle de Deyanira,Madrid,404.444.556,-35.859.227,False,10398,False,good,False,False,False,False,False,1,San Blas,Rejas,True
-254,21,550.0,penthouse,70.0,True,3,1,Ortega y Gasset,Robledo de Chavela,405.236.154,-42.481.052,False,47595,False,good,False,False,False,False,False,3,Desconocido,Desconocido,False
-255,29,695.0,flat,55.0,True,3,1,Calle Real,Parla,402.461.268,-37.689.141,False,19765,True,good,False,True,False,True,False,4,Villayuventus-Renfe,Desconocido,False
-256,35,750.0,flat,105.0,True,3,1,"san juan, campo real",Campo Real,403.374.662,-33.794.101,False,28810,False,good,False,False,False,False,False,1,Desconocido,Desconocido,False
-257,24,699.0,flat,52.0,True,1,1,"Calle Trole, 9",Madrid,403.809.876,-36.338.528,True,7092,False,good,False,False,False,False,False,3,Puente de Vallecas,Palomeras sureste,True
-258,18,750.0,studio,32.0,True,0,1,Calle Caribe,Madrid,404.415.195,-36.538.927,False,5006,True,good,False,False,False,False,False,14,Ciudad Lineal,San Pascual,True
-259,14,730.0,flat,80.0,True,3,1,MAESTRO SERRANO,Collado Villalba,406.324.167,-40.173.039,False,35774,False,good,False,False,False,False,False,4,Carlos Ruiz,Desconocido,False
-260,27,710.0,flat,30.0,True,1,1,Calle del Ventorrillo,Madrid,404.066.932,-3.706.995,False,1156,True,good,False,True,False,True,False,bj,Centro,Lavapiés-Embajadores,False
-261,20,650.0,flat,58.0,True,1,1,"Villalobos, 42",Madrid,403.802.956,-36.521.582,True,5924,False,good,False,False,False,False,False,4,Puente de Vallecas,Palomeras sureste,True
-262,19,600.0,countryHouse,60.0,False,2,2,"Camino de la zarzuela 42, 95",Villaviciosa de Odón,403.095.217,-39.461.034,True,23776,True,renew,False,False,False,False,False,Desconocido,Centro,Desconocido,True
-263,28,740.0,flat,41.0,True,2,1,Calle Milmarcos,Madrid,403.771.936,-36.192.667,False,8358,True,good,False,True,False,True,False,3,Villa de Vallecas,Casco Histórico de Vallecas,False
-264,25,525.0,flat,40.0,True,1,1,Calle de Alpajés,Aranjuez,400.381.958,-35.959.919,False,43059,True,good,False,True,False,True,False,3,Foso-Moreras,Desconocido,True
-265,11,750.0,studio,35.0,True,0,1,Calle de Juan Álvarez Mendizábal,Madrid,404.255.032,-37.128.468,False,1272,False,good,False,False,False,False,False,4,Moncloa,Argüelles,False
-266,28,750.0,flat,74.0,True,3,1,Calle Diego Ros y Medrano,Alcalá de Henares,404.881.971,-3.370.613,False,29245,True,good,False,True,False,True,False,2,Chorrillo,Desconocido,True
-267,25,710.0,flat,69.0,True,3,1,Calle Pinzón,Alcalá de Henares,404.731.862,-33.754.457,False,28440,True,good,False,True,False,True,False,5,Reyes Católicos,Desconocido,True
-268,27,560.0,studio,46.0,True,0,1,Calle Puerto de Tarancón,Madrid,40.401.323,-3.663.341,False,3786,True,good,False,True,False,True,False,bj,Puente de Vallecas,Numancia,False
-269,25,600.0,flat,42.0,True,1,1,Maestro Caballero,Torrejón de Ardoz,40.459.912,-3.487.187,False,18905,False,good,False,False,False,False,False,bj,Noroeste,Desconocido,False
-270,17,720.0,flat,44.0,True,1,1,Calle Recesvinto,Madrid,403.942.653,-37.337.412,False,3589,False,good,False,True,False,False,False,ss,Carabanchel,San Isidro,False
-271,12,750.0,flat,60.0,True,2,1,Calle Athos,Madrid,404.094.468,-37.323.408,False,2591,False,good,False,False,False,False,False,Desconocido,Latina,Puerta del Ángel,False
-272,5,750.0,flat,42.0,False,1,1,"Paseo de las delicias, 125",Madrid,403.927.535,-36.945.366,True,2762,False,good,False,False,False,False,False,4,Arganzuela,Delicias,True
-273,15,750.0,studio,90.0,True,0,1,Calle de San Romualdo,Madrid,404.393.937,-36.232.212,False,7228,False,good,False,False,False,False,False,4,San Blas,Simancas,True
-274,16,650.0,studio,45.0,False,0,1,"Calle Zabaleta, 36",Madrid,40.442.298,-36.733.654,True,3807,True,good,False,True,False,False,False,bj,Chamartín,Prosperidad,True
-275,21,650.0,flat,59.0,True,1,1,Calle la Pila,Parla,40.239.658,-3.776.349,False,20637,True,good,False,False,False,False,False,2,El Nido-Las Fuentes,Desconocido,True
-276,61,670.0,flat,75.0,True,2,1,El Mirador - Grillero,Arganda,402.938.125,-34.276.338,False,27056,False,good,False,False,False,False,False,3,El Mirador - Grillero,Desconocido,True
-277,16,650.0,flat,45.0,True,1,1,"Calle Garcilaso, 1",Getafe,403.082.527,-37.365.244,True,12383,False,newdevelopment,True,True,False,False,False,2,La Alhóndiga,Desconocido,True
-278,7,750.0,flat,32.0,True,1,1,Calle Valentín San Narciso,Madrid,403.850.596,-36.558.159,False,5339,False,good,False,False,False,False,False,2,Puente de Vallecas,Palomeras Bajas,True
-279,19,725.0,flat,50.0,True,1,1,Calle de José,Madrid,404.662.887,-36.944.003,False,5564,False,good,False,False,False,False,False,Desconocido,Desconocido,Desconocido,True
-280,17,620.0,studio,20.0,False,0,1,"Calle de Canarias, 38",Madrid,404.017.593,-36.925.296,True,1893,False,good,False,False,False,False,False,1,Arganzuela,Palos de Moguer,True
-281,17,680.0,flat,35.0,True,1,1,"Gorrión, 62",Madrid,403.964.893,-37.319.279,True,3308,False,good,False,False,False,False,False,bj,Carabanchel,San Isidro,False
-282,7,750.0,flat,87.0,True,3,1,Calle Ecuador,Coslada,404.248.733,-35.557.412,False,12519,False,good,False,False,False,False,False,bj,La Espinilla - Parque Blanco,Desconocido,True
-283,16,670.0,flat,53.0,True,1,1,"Calle Garcilaso, 1",Getafe,403.082.527,-37.365.244,True,12383,False,newdevelopment,True,True,False,False,False,1,La Alhóndiga,Desconocido,True
-284,28,600.0,flat,75.0,True,3,1,Paseo de los Curas,Alcalá de Henares,404.765.201,-33.726.216,False,28756,False,good,False,False,False,False,False,Desconocido,Desconocido,Desconocido,True
-285,11,750.0,flat,70.0,True,2,1,Calle Sierra de Peñalara,Alcorcón,403.468.848,-3.820.639,False,12614,False,good,False,False,False,False,False,4,Centro,Zona Centro Joven,False
-286,15,700.0,flat,36.0,True,2,1,Calle Agua,Pozuelo de Alarcón,404.335.309,-38.135.961,False,9525,False,good,False,False,False,False,False,3,Zona Pueblo,Zona Pueblo,False
-287,13,695.0,flat,58.0,False,1,1,Calle Nuestra Señora de la Antigua,Madrid,403.749.437,-37.414.692,False,5659,True,good,False,True,False,True,False,1,Carabanchel,Puerta Bonita,True
-288,28,710.0,flat,66.0,True,1,1,Avenida París,Arganda,403.007.749,-34.502.406,False,25013,False,good,False,False,False,False,False,2,Centro,Desconocido,True
-289,23,620.0,flat,80.0,True,2,1,Calle de la Fuente Nueva,Bustarviejo,408.598.935,-37.084.025,False,49280,False,good,False,False,False,False,False,2,Desconocido,Desconocido,False
-290,22,700.0,flat,80.0,True,3,1,"Tomillo, 7",Collado Mediano,40.691.275,-40.255.528,True,40907,False,good,False,False,False,False,False,1,Desconocido,Desconocido,False
-291,47,715.0,flat,89.0,True,3,1,Ronda del Mediodía,Chinchón,401.366.254,-34.203.324,False,39316,False,good,False,False,False,False,False,bj,Desconocido,Desconocido,False
-292,21,750.0,flat,50.0,True,1,1,"Embalse de Navacerrada, 55",Madrid,403.591.421,-35.946.665,True,11203,False,good,False,False,False,False,False,1,Villa de Vallecas,Ensanche de Vallecas - La Gavia,True
-293,11,750.0,flat,45.0,True,1,1,Santa Susana,Madrid,404.799.197,-36.483.367,False,8426,False,good,False,True,False,False,False,2,Hortaleza,Pinar del Rey,True
-294,20,550.0,studio,25.0,False,0,1,Calle Juan del Risco,Madrid,404.585.171,-37.045.191,False,4650,False,good,False,False,False,False,False,bj,Tetuán,Berruguete,False
-295,22,730.0,flat,60.0,True,1,1,Calle de la Huerta del Convento,Colmenar Viejo,406.620.032,-37.670.979,False,27803,False,good,False,False,False,False,False,Desconocido,Centro,Desconocido,False
-296,28,750.0,penthouse,46.0,True,2,1,Calle Leonor González,Madrid,403.996.612,-3.663.134,False,3889,False,good,False,False,False,False,False,4,Puente de Vallecas,Numancia,True
-297,16,700.0,flat,45.0,True,1,1,Avenida de Vicálvaro,Coslada,404.189.818,-35.392.291,False,13887,False,good,False,False,False,False,False,bj,Ciudad 70,Desconocido,False
-298,15,680.0,flat,85.0,True,2,1,Calle Paraguay,Coslada,404.232.434,-35.463.304,False,13303,False,renew,False,False,False,False,False,bj,Valleaguado - La Cañada,Desconocido,True
-299,19,600.0,flat,28.0,False,1,1,"Calle de Francos Rodríguez, 25",Madrid,404.564.005,-37.056.355,True,4418,True,good,False,False,False,False,False,4,Tetuán,Bellas Vistas,False
-300,21,750.0,flat,80.0,True,2,1,Colmenarejo,Colmenarejo,405.602.502,-40.174.547,False,30995,False,good,False,False,False,False,False,1,Desconocido,Desconocido,False
-301,4,700.0,flat,62.0,True,1,1,Plaza de España,Alcorcón,403.492.684,-38.292.227,False,13040,False,good,False,False,False,False,False,2,Centro,Casco Antiguo,True
-302,18,690.0,flat,77.0,True,2,1,"Calle Francisco Lizcano, 22",Madrid,40.366.914,-3.759.137,True,7283,False,good,False,False,False,False,False,bj,Carabanchel,Buena Vista,True
-303,15,700.0,flat,50.0,True,1,1,Calle José Anduiza,Madrid,404.860.308,-36.861.008,False,7844,False,good,False,False,False,False,False,bj,Fuencarral,Tres Olivos - Valverde,False
-304,13,750.0,flat,87.0,True,2,1,"Avenida de Roma, 5",Coslada,404.226.492,-35.407.224,True,13773,False,good,False,False,False,False,False,5,Ciudad 70,Desconocido,True
-305,15,735.0,flat,51.0,True,1,1,Calle de Lina Odena,Getafe,402.970.317,-37.555.218,False,14023,False,good,False,False,False,False,False,4,Buenavista,Desconocido,True
-306,15,700.0,flat,80.0,True,3,1,"Calle Huesca, 10",Móstoles,403.193.269,-38.696.862,True,17777,False,good,False,False,False,False,False,5,Suroeste,Desconocido,True
-307,17,725.0,flat,75.0,True,3,1,Calle de Málaga,Fuenlabrada,402.889.156,-3.796.248,False,16247,False,good,False,False,False,False,False,Desconocido,Centro,Desconocido,False
-308,20,733.0,flat,68.4,True,2,1,Calle de Honduras,Alcalá de Henares,405.045.743,-33.862.578,False,28541,False,good,False,False,True,False,False,2,Las Sedas - El Olivar,Desconocido,True
-309,19,750.0,flat,36.0,True,1,1,Calle y Travesía del Poeta Blas de Otero,Madrid,404.219.077,-36.536.601,False,4237,True,good,False,False,False,False,False,bj,Ciudad Lineal,Ventas,True
-310,20,675.0,flat,69.0,True,2,1,"Calle de Camarena, 246",Madrid,403.873.972,-37.578.528,True,5656,False,good,False,False,False,False,False,bj,Latina,Aluche,False
-311,23,650.0,flat,85.0,True,2,1,"Calle Magerit, 1",Guadarrama,406.768.267,-40.809.054,True,43066,True,good,False,False,False,False,False,2,Desconocido,Desconocido,False
-312,15,730.0,flat,52.0,True,1,1,Calle Cantueso,Madrid,404.695.795,-3.703.982,False,5879,True,good,False,False,False,False,False,bj,Tetuán,Valdeacederas,True
-313,19,700.0,flat,97.0,True,1,1,"Vereda Carpetana, 7",Loeches,403.984.812,-34.136.208,True,24605,False,good,False,False,False,False,False,bj,Desconocido,Desconocido,True
-314,12,690.0,studio,38.0,False,0,1,Calle Manchegos,Madrid,404.687.716,-36.995.272,False,5798,True,good,False,True,False,True,False,2,Tetuán,Valdeacederas,True
-315,23,700.0,flat,70.0,True,2,1,"Calle Nuevo Guadarrama, 11",Guadarrama,406.800.109,-40.786.891,True,43166,False,good,False,False,False,False,False,1,Desconocido,Desconocido,False
-316,24,600.0,duplex,89.0,True,2,2,Calle de la Cruz Verde,Miraflores de la Sierra,408.138.507,-37.658.572,False,44474,False,good,False,False,False,False,False,2,Desconocido,Desconocido,False
-317,18,700.0,studio,25.0,False,0,1,lavapies,Madrid,404.105.363,-37.021.362,False,691,False,good,False,False,False,False,False,bj,Centro,Lavapiés-Embajadores,False
-318,21,690.0,flat,60.0,True,2,1,Sevilla la Nueva,Sevilla la Nueva,403.466.075,-4.033.115,False,29005,False,good,False,False,False,False,False,bj,Desconocido,Desconocido,False
-319,35,750.0,duplex,114.0,True,3,3,"Paseo de la Pradera, 15",Serranillos del Valle,402.047.852,-38.838.069,True,28099,False,good,False,False,False,False,False,1,Desconocido,Desconocido,False
-320,31,700.0,studio,51.0,True,0,1,Cutanga,Madrid,404.731.048,-36.359.512,False,8471,True,good,False,False,False,False,False,bj,Hortaleza,Pinar del Rey,False
-321,32,670.0,flat,61.0,True,1,1,Isla de Lobeira,Collado Villalba,406.206.783,-40.207.422,False,35136,False,good,False,False,False,False,False,bj,Parque de la Coruña - Las Suertes,Desconocido,True
-322,15,750.0,flat,80.0,True,2,1,Hierro,Valdemoro,401.929.115,-36.657.067,False,25085,False,good,False,False,False,False,False,4,Zona Estación,Desconocido,True
-323,24,740.0,studio,33.0,True,0,1,Pedroñeras,Madrid,404.667.197,-36.300.929,False,8322,False,good,False,False,False,False,False,bj,Hortaleza,Canillas,True
-324,19,750.0,flat,110.0,True,4,2,Río Guadiana,Colmenar Viejo,40.662.446,-377.434,False,27976,False,good,False,False,False,False,False,1,El Mirador,Desconocido,False
-325,9,750.0,flat,62.0,True,2,1,barrio Portazgo,Madrid,403.877.769,-3.647.613,False,5703,False,good,False,True,False,False,False,3,Puente de Vallecas,Portazgo,False
-326,21,750.0,studio,70.0,True,0,1,"Avenida Matapiñonera, 11",San Sebastián de los Reyes,405.474.992,-36.169.124,True,16273,True,good,False,False,False,False,False,bj,Pol. Industrial sur,Desconocido,True
-327,11,650.0,studio,28.0,True,0,1,Calle de Federico Gutiérrez,Madrid,40.437.054,-36.453.254,False,5399,False,good,False,False,False,False,False,bj,Ciudad Lineal,Quintana,False
-328,18,625.0,flat,51.0,True,1,1,Avenida de Atenas,Arganda,402.983.085,-34.522.637,False,25010,True,good,False,False,False,False,False,2,Centro,Desconocido,True
-329,18,700.0,flat,35.0,True,1,1,Avenida de Menéndez Pelayo,Madrid,404.125.396,-36.770.413,False,2266,True,good,False,False,False,False,False,bj,Retiro,Jerónimos,True
-330,25,750.0,flat,95.0,True,2,2,Calle Praofuentes,Colmenarejo,405.585.061,-40.155.657,False,30759,False,good,False,False,False,False,False,1,Desconocido,Desconocido,False
-331,37,600.0,studio,25.0,False,0,1,Calle San Basilio,Madrid,403.824.905,-37.062.754,False,3812,True,good,False,False,False,False,False,bj,Usera,Pradolongo,False
-332,25,750.0,flat,89.0,True,2,2,Calle Fuenlabrada,Getafe,403.035.699,-37.358.627,False,12878,True,good,False,False,False,False,False,2,San Isidro,Desconocido,True
-333,32,700.0,flat,55.0,True,1,1,Negrillos,Valdemorillo,404.988.499,-40.658.113,False,32004,True,good,False,False,False,False,False,1,Valdemorillo pueblo,Desconocido,True
-334,34,750.0,flat,90.0,True,3,2,Campo Real,Campo Real,403.387.599,-33.797.774,False,28736,False,good,False,False,False,False,False,2,Desconocido,Desconocido,True
-335,28,750.0,flat,48.0,True,2,1,Calle de Sarria,Madrid,404.774.266,-37.156.078,False,6832,False,good,False,False,False,False,False,2,Fuencarral,Pilar,True
-336,27,625.0,flat,57.0,True,2,1,de las flores,Aranjuez,400.318.018,-36.022.527,False,43647,False,good,False,False,False,False,False,bj,Centro,Desconocido,False
-337,20,750.0,flat,46.0,True,1,1,Centro Urbano,San Sebastián de los Reyes,405.503.337,-36.291.068,False,16127,False,good,False,True,False,False,False,1,Centro Urbano,Desconocido,False
-338,7,695.0,flat,59.0,True,1,1,"Calle de Berrocal, 52",Madrid,403.422.534,-36.759.117,True,8595,False,good,False,False,False,False,False,4,Villaverde,Butarque,True
-339,10,450.0,flat,40.0,True,1,1,Calle de la iglesia,Robledo de Chavela,404.998.294,-42.391.831,False,46273,True,good,False,False,False,False,False,1,Desconocido,Desconocido,False
-340,15,720.0,flat,58.0,True,2,1,Calle malaga,Alcorcón,403.413.409,-38.274.861,False,13451,True,good,False,False,False,False,False,bj,Centro,Casco Antiguo,False
-341,20,745.0,flat,73.0,True,2,1,Calle de Honduras,Alcalá de Henares,405.052.934,-33.833.502,False,28800,False,good,False,False,True,False,False,2,Las Sedas - El Olivar,Desconocido,True
-342,19,720.0,flat,69.6,True,2,1,Calle de Honduras,Alcalá de Henares,405.061.525,-33.859.746,False,28624,False,good,False,False,True,False,False,2,Las Sedas - El Olivar,Desconocido,True
-343,23,750.0,flat,55.0,True,2,1,Calle Isidro Fernandez,Madrid,404.829.488,-36.891.281,False,7462,False,good,False,False,False,False,False,1,Fuencarral,Tres Olivos - Valverde,False
-344,19,720.0,studio,48.0,True,0,1,"Calle Hernández Iglesias, 9",Madrid,40.442.797,-36.437.942,True,5808,False,good,False,False,False,False,False,1,Ciudad Lineal,Concepción,True
-345,17,725.0,studio,44.0,False,0,1,"Calle de Churruca, 2",Madrid,404.267.756,-37.007.304,True,1140,False,good,False,False,False,False,False,8,Centro,Chueca-Justicia,True
-346,14,750.0,flat,80.0,False,2,1,"Calle de Berrocal, 3",Madrid,403.474.728,-36.770.211,True,8011,False,good,False,False,False,False,False,5,Villaverde,Butarque,True
-347,14,550.0,flat,86.0,True,2,1,Calle Malacuera,Torrelaguna,408.244.476,-35.374.048,False,47448,False,good,False,False,False,False,False,1,Desconocido,Desconocido,True
-348,16,640.0,flat,69.0,True,2,1,"Calle Gonzalo de Berceo, 16",Villalbilla,404.371.512,-33.579.945,True,29311,False,good,False,False,False,False,False,2,Desconocido,Desconocido,True
-349,19,700.0,flat,54.0,True,1,1,Calle Núñez de Balboa,Getafe,403.139.255,-37.303.869,False,11656,True,good,False,True,False,True,False,1,Getafe Centro,Desconocido,True
-350,16,700.0,flat,59.0,True,1,1,"Calle de las Trompas, 40",Madrid,403.727.138,-3.770.851,True,7529,False,good,False,False,False,False,False,6,Carabanchel,Pau de Carabanchel,True
-351,11,700.0,flat,75.0,True,2,1,"Calle Alonso Sánchez, 6",Alcalá de Henares,404.909.687,-33.579.488,True,30359,False,good,False,False,False,False,False,1,Pryconsa - Poligono Europa,Desconocido,False
-352,19,695.0,flat,62.0,False,2,1,"Calle de Isabel Rosillo, 11",Alcobendas,405.430.027,-36.356.712,True,15162,False,good,False,False,False,False,False,3,Alcobendas Centro,Desconocido,False
+,numPhotos,price,propertyType,size,exterior,rooms,bathrooms,municipality,showAddress,distance,hasVideo,status,newDevelopment,hasPlan,has3DTour,has360,topNewDevelopment,floor,district,neighborhood,hasLift
+0,12,750.0,flat,60.0,True,1,1,Madrid,True,7037,False,good,False,False,False,False,False,3,Hortaleza,Canillas,True
+1,21,750.0,flat,70.0,True,2,1,San Sebastián de los Reyes,False,16145,True,good,False,True,False,False,False,bj,Centro Urbano,Desconocido,False
+2,28,400.0,penthouse,67.0,True,2,2,Villamanrique de Tajo,False,55041,False,good,False,False,False,True,False,2,Desconocido,Desconocido,False
+3,11,590.0,flat,70.0,True,3,2,Rascafría,False,56596,False,good,False,False,False,False,False,Desconocido,Desconocido,Desconocido,False
+4,17,684.0,studio,45.0,True,0,1,Madrid,True,10656,False,good,False,True,False,True,False,Desconocido,Desconocido,Desconocido,False
+5,19,600.0,flat,73.0,True,2,1,Manzanares el Real,False,37062,False,good,False,False,False,False,False,3,Desconocido,Desconocido,False
+6,15,600.0,duplex,71.0,True,1,1,Miraflores de la Sierra,False,44126,False,good,False,False,False,False,False,1,Desconocido,Desconocido,False
+7,17,550.0,flat,53.0,True,1,1,Madrid,False,4008,False,good,False,False,False,False,False,1,Puente de Vallecas,San Diego,False
+8,19,700.0,studio,28.0,True,0,1,Madrid,True,5569,False,good,False,True,True,False,False,1,Ciudad Lineal,San Pascual,False
+9,26,700.0,duplex,86.0,True,2,1,Galapagar,False,31153,False,good,False,False,False,False,False,3,Casco Antiguo,Desconocido,True
+10,18,700.0,flat,45.0,False,1,1,Madrid,False,2046,False,good,False,False,False,False,False,5,Moncloa,Argüelles,False
+11,14,550.0,flat,54.0,True,2,1,Arganda,True,26233,False,good,False,False,False,False,False,en,Centro,Desconocido,False
+12,11,695.0,flat,64.0,True,2,1,San Sebastián de los Reyes,True,15747,False,good,False,False,False,False,False,1,Centro Urbano,Desconocido,False
+13,5,650.0,flat,68.0,True,2,1,San Lorenzo de el Escorial,False,42410,False,good,False,False,False,False,False,bj,Centro - Casco Histórico,Desconocido,False
+14,22,700.0,flat,30.0,False,1,1,Madrid,False,3247,False,good,False,False,False,False,False,1,Retiro,Adelfas,True
+15,16,700.0,flat,35.0,False,1,1,Madrid,False,1894,False,good,False,False,False,False,False,1,Arganzuela,Palos de Moguer,False
+16,15,700.0,flat,43.0,True,1,1,Madrid,False,4442,True,good,False,False,False,False,False,2,Latina,Aluche,True
+17,7,650.0,flat,60.0,True,2,1,Madrid,True,3985,False,good,False,False,False,False,False,1,Puente de Vallecas,San Diego,False
+18,15,650.0,chalet,206.0,False,3,1,Aldea del Fresno,False,43195,False,good,False,False,False,False,False,Desconocido,Desconocido,Desconocido,False
+19,12,700.0,flat,105.0,True,3,2,Aranjuez,False,44003,False,good,False,False,False,False,False,bj,Centro,Desconocido,False
+20,9,695.0,flat,40.0,False,1,1,Madrid,False,2271,False,good,False,True,False,False,False,4,Barrio de Salamanca,Goya,True
+21,13,675.0,flat,40.0,True,1,1,Villanueva del Pardillo,False,23556,False,good,False,False,False,False,False,bj,Centro,Desconocido,False
+22,30,750.0,studio,45.0,False,0,1,Madrid,False,1027,True,good,False,False,False,False,False,bj,Centro,Lavapiés-Embajadores,True
+23,20,750.0,flat,99.0,True,3,2,Aranjuez,False,43492,False,good,False,False,False,False,False,1,Centro,Desconocido,True
+24,29,680.0,flat,38.0,False,1,1,Madrid,True,2591,False,good,False,False,False,False,False,1,Retiro,Pacífico,True
+25,24,750.0,flat,51.0,True,1,1,Madrid,False,11896,False,good,False,False,False,False,False,1,Barajas,Timón,True
+26,12,750.0,penthouse,60.0,True,1,1,Las Rozas de Madrid,False,21316,False,good,False,False,False,False,False,2,Las Matas- Peñascales,Las Matas- Peñascales,False
+27,13,750.0,studio,25.0,False,0,1,Madrid,False,533,False,good,False,False,False,False,False,4,Centro,Chueca-Justicia,True
+28,7,750.0,flat,40.0,False,1,1,Madrid,False,1989,False,good,False,False,False,False,False,1,Arganzuela,Palos de Moguer,False
+29,13,650.0,flat,62.0,True,2,1,Madrid,False,7841,False,good,False,True,False,False,False,1,Latina,Águilas,False
+30,15,750.0,studio,30.0,True,0,1,Madrid,False,935,True,good,False,False,False,False,False,3,Centro,Lavapiés-Embajadores,False
+31,24,750.0,flat,39.0,False,1,1,Madrid,False,2036,False,good,False,True,False,False,False,5,Chamberí,Trafalgar,False
+32,21,700.0,flat,62.0,True,2,1,Madrid,False,8492,True,good,False,True,False,True,False,3,Villaverde,San Cristóbal,False
+33,17,747.0,flat,96.0,True,3,2,Navalcarnero,False,26611,False,good,False,True,False,False,False,1,La Dehesa - El Pinar,Desconocido,True
+34,16,640.0,studio,35.0,True,0,1,Madrid,False,7324,False,good,False,False,False,False,False,1,Villaverde,Butarque,True
+35,20,750.0,flat,30.0,False,1,1,Madrid,False,2133,False,good,False,False,False,False,False,st,Retiro,Ibiza,True
+36,20,750.0,flat,70.0,True,2,1,Alcalá de Henares,True,28703,False,good,False,False,False,False,False,2,Reyes Católicos,Desconocido,True
+37,12,625.0,flat,52.0,True,2,1,El Escorial,True,40445,False,good,False,False,False,False,False,2,Centro,Desconocido,False
+38,9,700.0,studio,40.0,True,0,1,Madrid,False,1431,False,good,False,False,False,False,False,3,Centro,Chueca-Justicia,True
+39,28,750.0,studio,40.0,True,0,1,Madrid,True,2417,False,good,False,False,False,False,False,en,Arganzuela,Chopera,True
+40,18,650.0,flat,35.0,False,1,1,Madrid,False,1121,True,good,False,False,False,False,False,2,Centro,Palacio,True
+41,24,720.0,flat,70.0,True,3,1,Alcalá de Henares,False,29099,False,good,False,False,False,False,False,2,Chorrillo,Desconocido,False
+42,28,699.0,flat,52.0,True,1,1,Madrid,True,7092,False,good,False,False,False,False,False,3,Puente de Vallecas,Palomeras sureste,True
+43,15,750.0,flat,65.0,True,2,1,Leganés,False,13081,False,good,False,False,False,False,False,Desconocido,Valdepelayo - Montepinos - Arroyo Culebro,Valdepelayo-Montepinos-Arroyo Culebro,True
+44,10,695.0,flat,65.0,True,2,1,Coslada,False,13904,False,good,False,False,False,False,False,Desconocido,Valleaguado - La Cañada,Desconocido,True
+45,20,750.0,flat,78.0,True,2,2,Torrejón de Ardoz,False,19719,False,good,False,False,False,False,False,Desconocido,Suroeste,Desconocido,True
+46,18,620.0,flat,60.0,True,2,1,Madrid,False,7981,False,good,False,False,False,False,False,Desconocido,Villaverde,Villaverde Alto,False
+47,13,500.0,studio,28.0,False,0,1,Madrid,False,769,False,good,False,False,False,False,False,1,Centro,Lavapiés-Embajadores,False
+48,8,550.0,flat,38.0,True,1,1,Leganés,False,10938,False,good,False,False,False,False,False,Desconocido,Centro,Flores,False
+49,23,750.0,flat,46.0,False,1,1,Madrid,False,1476,True,good,False,False,False,False,False,3,Arganzuela,Acacias,True
+50,20,680.0,studio,55.0,True,0,1,Madrid,False,5097,False,good,False,False,False,False,False,bj,Ciudad Lineal,Ventas,False
+51,22,700.0,flat,50.0,True,1,2,Camarma de Esteruelas,False,32052,False,renew,False,False,False,False,False,Desconocido,Desconocido,Desconocido,True
+52,13,750.0,duplex,35.0,True,1,1,Madrid,False,4047,False,good,False,False,True,False,False,Desconocido,Desconocido,Desconocido,False
+53,28,750.0,flat,66.0,True,2,1,Alcorcón,False,13311,True,good,False,False,False,False,False,1,Centro,Zona Renfe,True
+54,11,650.0,flat,65.0,True,1,1,Alcalá de Henares,False,29440,False,good,False,False,False,False,False,en,San Isidro - Los Almendros,Desconocido,True
+55,39,720.0,flat,133.0,False,3,2,Pinto,False,19453,False,good,False,True,False,True,False,1,San José - Buenos Aires,Desconocido,True
+56,28,600.0,flat,50.0,True,1,1,Valdemoro,False,24430,False,good,False,False,False,False,False,Desconocido,Hospital,Desconocido,True
+57,13,650.0,flat,61.0,True,1,1,Collado Villalba,False,34886,False,good,False,False,False,False,False,2,Parque de la Coruña - Las Suertes,Desconocido,True
+58,11,650.0,flat,65.0,False,2,1,Alcorcón,False,11537,False,good,False,False,False,False,False,3,Valderas - Los Castillos,Valderas - Los Castillos,False
+59,6,700.0,flat,45.0,True,1,1,Madrid,False,12321,False,good,False,False,False,False,False,3,Barajas,Casco Histórico de Barajas,False
+60,18,625.0,flat,62.0,True,2,1,Getafe,False,11666,False,good,False,False,False,False,False,bj,Getafe Centro,Desconocido,False
+61,12,595.0,flat,45.0,True,1,1,Madrid,False,4543,False,good,False,False,False,False,False,bj,Latina,Aluche,False
+62,20,650.0,flat,55.0,True,1,1,Madrid,False,10495,False,good,False,False,False,False,False,4,San Blas,Rejas,True
+63,27,725.0,flat,50.0,True,1,1,Madrid,False,7708,True,good,False,True,False,False,False,2,Villaverde,Villaverde Alto,True
+64,13,750.0,flat,95.0,True,3,1,Alcalá de Henares,False,28483,False,good,False,False,False,False,False,8,Reyes Católicos,Desconocido,True
+65,20,700.0,penthouse,30.0,True,1,1,Madrid,True,12049,False,good,False,False,False,True,False,1,San Blas,Rejas,True
+66,25,700.0,flat,27.0,False,1,1,Madrid,False,1391,False,good,False,False,False,False,False,3,Centro,Lavapiés-Embajadores,False
+67,17,650.0,flat,59.0,True,2,1,Alcalá de Henares,False,30562,False,good,False,False,False,False,False,1,Val,Desconocido,True
+68,9,550.0,flat,40.0,True,1,1,Paracuellos de Jarama,False,17750,False,good,False,False,False,False,False,3,Casco Urbano,Desconocido,True
+69,20,650.0,flat,55.0,True,1,1,Madrid,False,10296,False,good,False,False,False,False,False,4,San Blas,Rejas,True
+70,20,750.0,flat,65.0,True,2,1,Madrid,False,5580,False,good,False,False,False,False,False,Desconocido,Ciudad Lineal,Pueblo Nuevo,True
+71,17,725.0,flat,70.0,True,2,1,Madrid,False,4117,False,good,False,False,False,False,False,Desconocido,Puente de Vallecas,Entrevías,True
+72,9,700.0,flat,80.0,True,1,1,Alcalá de Henares,False,29460,False,good,False,False,False,False,False,1,Casco Histórico,Desconocido,False
+73,7,650.0,flat,40.0,True,1,1,Madrid,True,12224,False,good,False,False,False,False,False,bj,Barajas,Casco Histórico de Barajas,True
+74,24,695.0,flat,90.0,True,3,1,Madrid,False,7729,False,good,False,False,False,False,False,Desconocido,Villaverde,Los Rosales,False
+75,13,750.0,flat,55.0,True,1,1,Madrid,False,6017,False,good,False,False,False,False,False,Desconocido,Ciudad Lineal,Quintana,False
+76,18,650.0,flat,65.0,True,2,1,Madrid,False,7559,False,good,False,False,False,False,False,Desconocido,Latina,Águilas,True
+77,13,666.0,flat,70.0,True,1,2,Villanueva del Pardillo,False,24862,False,good,False,False,False,False,False,1,Los Llanos - Valle Pardo,Desconocido,True
+78,10,750.0,flat,78.0,True,2,2,Alcalá de Henares,False,29976,False,good,False,False,False,False,False,Desconocido,Ensanche,Desconocido,True
+79,16,630.0,flat,74.0,True,3,1,El Molar,False,36483,False,good,False,False,False,False,False,Desconocido,Desconocido,Desconocido,True
+80,18,635.0,studio,55.0,True,0,1,Leganés,False,14528,False,good,False,False,False,False,False,2,Valdepelayo - Montepinos - Arroyo Culebro,Valdepelayo-Montepinos-Arroyo Culebro,True
+81,5,725.0,flat,69.0,True,2,1,Collado Villalba,True,35892,True,good,False,False,False,False,False,1,Dehesa - El Soto,Desconocido,True
+82,16,750.0,flat,35.0,False,1,1,Madrid,True,859,False,good,False,True,False,False,False,1,Centro,Lavapiés-Embajadores,False
+83,10,690.0,flat,65.0,True,2,1,Madrid,True,4724,False,good,False,False,False,False,False,3,Puente de Vallecas,San Diego,False
+84,19,700.0,studio,30.0,False,0,1,Madrid,True,1041,False,good,False,False,False,False,False,2,Centro,Lavapiés-Embajadores,True
+85,33,730.0,flat,64.0,True,3,1,Parla,False,20235,True,good,False,True,False,True,False,1,Pintores-Ferial,Desconocido,False
+86,19,750.0,flat,51.0,True,1,1,Madrid,False,3436,False,good,False,False,False,False,False,1,Carabanchel,Opañel,True
+87,16,750.0,flat,48.0,False,1,1,Tres Cantos,False,20526,False,good,False,False,False,False,False,4,Zona Estación- Centro,Desconocido,True
+88,13,690.0,flat,35.0,True,1,1,Madrid,False,4802,False,good,False,False,False,False,False,Desconocido,Tetuán,Berruguete,False
+89,13,750.0,flat,74.0,True,3,1,Alcorcón,False,13017,False,good,False,False,False,False,False,4,Centro,Casco Antiguo,True
+90,16,700.0,duplex,35.0,True,1,1,Madrid,False,852,False,good,False,False,False,False,False,bj,Centro,Palacio,False
+91,11,720.0,flat,42.0,True,1,1,Madrid,False,8333,False,good,False,True,False,False,False,4,Hortaleza,Pinar del Rey,True
+92,22,595.0,flat,55.0,True,1,1,Quijorna,False,29699,False,good,False,True,False,False,False,1,Desconocido,Desconocido,False
+93,14,700.0,flat,45.0,False,1,1,Madrid,False,1113,False,good,False,False,False,False,False,1,Centro,Palacio,False
+94,6,500.0,flat,45.0,True,1,1,Valdemorillo,False,32188,False,good,False,False,False,False,False,Desconocido,Valdemorillo pueblo,Desconocido,False
+95,6,700.0,flat,75.0,True,2,1,Aranjuez,True,43915,True,good,False,True,False,False,False,1,Nuevo Aranjuez-Ciudad de las Artes,Desconocido,False
+96,8,675.0,duplex,87.0,True,2,2,Miraflores de la Sierra,False,44503,False,good,False,False,False,False,False,2,Desconocido,Desconocido,False
+97,10,650.0,flat,45.0,True,1,1,Pedrezuela,False,37741,False,good,False,False,False,False,False,bj,Desconocido,Desconocido,False
+98,4,750.0,studio,55.0,True,0,1,Madrid,True,918,False,good,False,True,True,False,False,2,Centro,Lavapiés-Embajadores,True
+99,17,720.0,studio,45.0,True,0,1,San Sebastián de los Reyes,True,15433,True,good,False,True,False,True,False,5,Vega de la Moraleja,Desconocido,True
+100,22,624.0,flat,45.0,True,1,1,Valdemoro,True,24077,True,newdevelopment,True,True,False,False,False,Desconocido,Hospital,Desconocido,True
+101,22,633.0,flat,45.0,True,1,1,Valdemoro,True,24077,True,newdevelopment,True,True,False,False,False,Desconocido,Hospital,Desconocido,True
+102,22,640.0,studio,33.0,True,0,1,Madrid,True,11189,False,good,False,True,False,False,False,2,Villa de Vallecas,Ensanche de Vallecas - La Gavia,True
+103,14,645.0,flat,84.0,True,2,2,Aranjuez,True,43827,False,good,False,False,False,True,False,2,Nuevo Aranjuez-Ciudad de las Artes,Desconocido,True
+104,12,750.0,flat,46.0,False,1,1,Madrid,True,1069,False,good,False,True,False,True,False,3,Centro,Palacio,False
+105,16,735.0,studio,35.0,True,0,1,Madrid,True,11088,False,good,False,True,False,True,False,1,Fuencarral,Las Tablas,True
+106,22,600.0,flat,55.0,True,1,1,Daganzo de Arriba,False,25189,False,good,False,False,False,False,False,Desconocido,Desconocido,Desconocido,False
+107,28,750.0,flat,75.0,True,3,1,Madrid,False,8286,False,good,False,False,False,False,False,Desconocido,Villaverde,Villaverde Alto,False
+108,1,600.0,penthouse,25.0,True,1,1,Madrid,True,183,False,good,False,True,False,True,False,5,Centro,Sol,True
+109,30,705.0,flat,48.0,True,1,1,Madrid,True,11472,False,good,False,True,False,False,False,4,Villa de Vallecas,Ensanche de Vallecas - La Gavia,True
+110,35,650.0,flat,62.0,True,2,1,Guadarrama,False,43229,True,good,False,True,False,False,False,3,Desconocido,Desconocido,False
+111,29,700.0,duplex,61.0,True,2,1,Cobeña,False,23917,False,good,False,False,False,False,False,1,Desconocido,Desconocido,False
+112,14,650.0,studio,40.0,False,0,1,Madrid,False,5088,False,good,False,False,False,False,False,en,Tetuán,Berruguete,True
+113,16,700.0,flat,40.0,True,1,1,Madrid,False,3076,False,good,False,False,False,False,False,bj,Latina,Puerta del Ángel,False
+114,30,730.0,flat,51.0,True,2,1,Madrid,False,6767,True,good,False,True,False,True,False,4,Villaverde,Los Rosales,False
+115,35,750.0,flat,50.0,True,2,1,Madrid,False,8331,True,good,False,True,False,True,False,3,Villa de Vallecas,Casco Histórico de Vallecas,False
+116,29,680.0,flat,56.0,True,2,1,Torrejón de Ardoz,False,19298,True,good,False,True,False,True,False,3,Noroeste,Desconocido,False
+117,29,710.0,flat,78.0,True,3,1,Parla,False,21617,True,good,False,True,False,True,False,4,Fuentebella-San Felix-El Leguario,Desconocido,False
+118,29,720.0,flat,47.0,True,2,1,Madrid,False,7088,True,good,False,True,False,True,False,1,San Blas,Amposta,False
+119,12,750.0,studio,43.0,True,0,1,Madrid,False,5332,False,good,False,False,False,False,False,Desconocido,Tetuán,Valdeacederas,True
+120,12,695.0,studio,40.0,True,0,1,Madrid,False,12376,False,good,False,False,False,False,False,Desconocido,Barajas,Casco Histórico de Barajas,True
+121,32,630.0,flat,54.0,True,1,2,El Álamo,False,32432,False,good,False,False,False,False,False,Desconocido,Desconocido,Desconocido,False
+122,42,750.0,flat,90.0,True,3,1,Algete,False,26401,False,good,False,False,False,False,False,Desconocido,Desconocido,Desconocido,True
+123,1,730.0,flat,50.0,True,1,1,Madrid,False,8717,False,good,False,False,False,False,False,2,Villa de Vallecas,Casco Histórico de Vallecas,True
+124,24,600.0,flat,90.0,True,3,1,Valdemoro,False,25182,False,good,False,False,False,False,False,Desconocido,Centro,Desconocido,True
+125,17,650.0,studio,45.0,True,0,1,Madrid,True,5656,False,good,False,False,False,False,False,bj,Ciudad Lineal,Pueblo Nuevo,True
+126,20,750.0,flat,38.0,False,1,1,Madrid,True,470,True,good,False,False,False,False,False,bj,Centro,Huertas-Cortes,True
+127,21,730.0,flat,50.0,True,1,1,Rivas-Vaciamadrid,False,16410,False,good,False,False,False,False,False,Desconocido,Rivas Futura,Desconocido,True
+128,0,735.0,studio,30.0,True,0,1,Madrid,True,11188,False,good,False,False,False,True,False,2,Fuencarral,Las Tablas,True
+129,29,610.0,flat,72.0,False,1,1,Pinto,False,19544,True,good,False,True,False,True,False,bj,San José - Buenos Aires,Desconocido,True
+130,20,580.0,chalet,54.0,False,3,2,Los Santos de la Humosa,False,39053,False,good,False,False,False,False,False,Desconocido,Desconocido,Desconocido,False
+131,16,725.0,flat,50.0,True,1,1,Villanueva del Pardillo,True,23787,False,good,False,True,False,False,False,en,Centro,Desconocido,False
+132,22,750.0,flat,48.0,True,1,1,Madrid,False,5085,True,good,False,True,False,False,False,1,Carabanchel,Vista Alegre,False
+133,24,750.0,flat,70.0,True,3,1,Alcalá de Henares,False,29660,True,good,False,True,False,False,False,2,San Isidro - Los Almendros,Desconocido,False
+134,16,750.0,flat,49.0,True,1,1,Madrid,True,8465,True,good,False,True,False,False,False,7,Hortaleza,Pinar del Rey,True
+135,28,730.0,flat,60.0,True,3,1,Parla,False,20948,True,good,False,True,False,True,False,3,Reyes,Desconocido,False
+136,32,560.0,flat,26.0,False,1,1,Madrid,False,625,True,good,False,True,False,True,False,bj,Centro,Lavapiés-Embajadores,False
+137,20,700.0,studio,23.0,True,0,1,Madrid,True,1271,False,good,False,False,False,False,False,Desconocido,Desconocido,Desconocido,True
+138,30,750.0,flat,80.0,True,3,1,San Fernando de Henares,True,14991,False,good,False,False,False,False,False,2,Parque Roma - Coronas,Desconocido,True
+139,31,730.0,flat,70.0,True,3,1,Pinto,False,18781,True,good,False,True,False,True,False,3,Parque Europa - Los Pitufos,Desconocido,False
+140,29,730.0,flat,52.0,True,2,1,Madrid,False,8827,True,good,False,True,False,True,False,4,Vicálvaro,Ambroz,False
+141,27,740.0,flat,64.0,True,2,1,Madrid,False,8365,True,good,False,True,False,True,False,3,Villaverde,Villaverde Alto,False
+142,37,720.0,flat,65.0,True,2,1,Madrid,False,7511,True,good,False,True,False,True,False,2,Villaverde,Los Rosales,False
+143,32,720.0,flat,63.0,True,2,1,Torrejón de Ardoz,False,19731,True,good,False,True,False,True,False,2,Noroeste,Desconocido,False
+144,33,740.0,flat,54.0,True,2,1,Madrid,False,6636,True,good,False,True,False,True,False,1,Villaverde,Los Rosales,True
+145,30,720.0,flat,52.0,True,2,1,Getafe,False,12695,True,good,False,True,False,True,False,3,La Alhóndiga,Desconocido,False
+146,43,730.0,flat,45.0,True,2,1,Madrid,False,4385,True,good,False,True,False,True,False,3,Puente de Vallecas,San Diego,False
+147,7,600.0,duplex,80.0,False,1,1,Madrid,False,7223,False,good,False,True,False,False,False,Desconocido,Desconocido,Desconocido,False
+148,8,600.0,duplex,80.0,False,1,1,Madrid,False,7141,False,good,False,True,False,False,False,Desconocido,Desconocido,Desconocido,False
+149,20,725.0,duplex,71.0,True,2,1,Cobeña,False,23158,False,good,False,False,False,False,False,1,Desconocido,Desconocido,False
+150,31,675.0,flat,76.0,True,3,1,Aldea del Fresno,False,43485,True,good,False,True,False,True,False,2,Desconocido,Desconocido,False
+151,21,750.0,flat,54.0,True,1,1,San Sebastián de los Reyes,True,15834,False,good,False,False,False,False,False,3,Centro Urbano,Desconocido,True
+152,20,750.0,duplex,79.0,True,2,2,Collado Villalba,False,34697,False,good,False,False,False,False,False,1,Villalba Estación,Desconocido,False
+153,33,700.0,flat,54.0,True,1,1,Madrid,False,3354,False,good,False,False,False,False,False,2,Usera,Almendrales,True
+154,33,750.0,flat,54.0,True,2,1,Madrid,False,8322,True,good,False,True,False,True,False,3,Villaverde,Villaverde Alto,False
+155,31,730.0,flat,48.0,True,2,1,Madrid,False,6997,True,good,False,True,False,True,False,3,San Blas,Amposta,False
+156,39,650.0,flat,61.0,True,2,1,Alcalá de Henares,False,28605,True,good,False,True,False,True,False,4,Reyes Católicos,Desconocido,False
+157,34,730.0,flat,63.0,True,2,1,Madrid,False,7893,True,good,False,True,False,True,False,1,Villaverde,Villaverde Alto,False
+158,33,720.0,flat,50.0,True,2,1,Madrid,False,7041,True,good,False,True,False,True,False,2,San Blas,Amposta,False
+159,31,720.0,flat,51.0,True,2,1,Madrid,False,6973,True,good,False,True,False,True,False,1,San Blas,Amposta,False
+160,30,750.0,flat,47.0,True,2,1,Madrid,False,4538,True,good,False,True,False,True,False,1,Puente de Vallecas,San Diego,False
+161,30,730.0,flat,50.0,True,2,1,Madrid,False,7411,True,good,False,True,False,True,False,3,Villaverde,Butarque,False
+162,23,730.0,flat,40.0,True,2,1,Madrid,False,4201,True,good,False,True,False,True,False,2,Puente de Vallecas,San Diego,False
+163,32,670.0,flat,67.0,True,2,1,Valdemoro,False,25100,True,good,False,True,False,True,False,1,Zona Estación,Desconocido,True
+164,31,740.0,flat,52.0,True,2,1,Madrid,False,4862,True,good,False,True,False,True,False,3,Puente de Vallecas,San Diego,False
+165,30,720.0,flat,69.0,True,2,1,Alcalá de Henares,False,29084,True,good,False,True,False,True,False,1,Chorrillo,Desconocido,True
+166,30,750.0,flat,59.0,True,2,1,Madrid,False,8400,True,good,False,True,False,True,False,4,Villaverde,Villaverde Alto,False
+167,33,740.0,flat,45.0,True,2,1,Madrid,False,7720,True,good,False,True,False,True,False,3,Villaverde,Los Rosales,False
+168,31,740.0,flat,60.0,True,2,1,Madrid,False,6670,True,good,False,True,False,True,False,1,Villaverde,Los Rosales,True
+169,10,730.0,studio,45.0,False,0,1,Madrid,False,854,False,good,False,False,False,False,False,Desconocido,Centro,Huertas-Cortes,True
+170,13,620.0,flat,75.0,True,3,1,Parla,False,21044,False,good,False,False,False,False,False,Desconocido,Reyes,Desconocido,True
+171,16,695.0,flat,67.0,True,2,1,Fuenlabrada,False,16111,False,good,False,False,False,False,False,Desconocido,Sudeste Industrial,Desconocido,False
+172,17,650.0,flat,95.0,True,3,1,Navalcarnero,False,29884,False,good,False,False,False,False,False,Desconocido,Centro,Desconocido,True
+173,11,675.0,flat,68.0,True,2,1,Alcalá de Henares,False,30461,False,good,False,False,False,False,False,Desconocido,Juan de Austria,Desconocido,True
+174,20,695.0,flat,65.0,True,2,1,Madrid,False,8484,False,good,False,False,False,False,False,Desconocido,Vicálvaro,Casco Histórico de Vicálvaro,False
+175,12,750.0,flat,111.0,True,2,2,Parla,False,20583,False,good,False,False,False,False,False,6,Centro,Desconocido,True
+176,16,675.0,flat,35.0,False,1,1,Madrid,True,1016,False,good,False,True,False,False,False,Desconocido,Desconocido,Desconocido,True
+177,28,730.0,flat,60.0,False,3,1,Parla,False,20756,False,good,False,True,False,True,False,3,Reyes,Desconocido,False
+178,21,690.0,flat,85.0,True,2,1,Parla,False,20804,False,good,False,False,False,False,False,Desconocido,Reyes,Desconocido,True
+179,14,750.0,flat,45.0,False,1,1,Madrid,True,5089,False,good,False,True,False,False,False,bj,Tetuán,Valdeacederas,False
+180,21,600.0,studio,32.0,True,0,1,Madrid,True,6325,False,good,False,False,False,False,False,1,San Blas,Salvador,True
+181,28,723.0,studio,25.0,True,0,1,Rivas-Vaciamadrid,True,16775,True,newdevelopment,True,True,False,False,False,Desconocido,Rivas Futura,Desconocido,True
+182,29,725.0,flat,50.0,True,1,1,Madrid,True,10503,False,good,False,True,False,False,False,1,San Blas,Rejas,True
+183,16,750.0,flat,67.0,True,3,1,Getafe,False,11657,False,good,False,False,False,False,False,Desconocido,Desconocido,Desconocido,True
+184,16,600.0,flat,45.0,True,2,1,Mataelpino,False,41003,False,good,False,False,False,True,False,Desconocido,Desconocido,Desconocido,True
+185,42,750.0,flat,70.0,True,3,1,San Fernando de Henares,False,14642,False,good,False,False,False,False,False,2,Montserrat - Parque Empresarial,Desconocido,False
+186,6,450.0,penthouse,60.0,True,1,1,Villa del Prado,False,53238,False,good,False,False,False,False,False,Desconocido,Desconocido,Desconocido,False
+187,27,720.0,flat,54.0,True,1,1,Madrid,False,3296,True,good,False,True,False,True,False,bj,Carabanchel,San Isidro,False
+188,8,550.0,penthouse,75.0,True,2,2,Villa del Prado,False,53247,False,good,False,False,False,False,False,Desconocido,Desconocido,Desconocido,False
+189,30,720.0,flat,49.0,False,3,1,Madrid,False,8411,True,good,False,True,False,True,False,3,Villaverde,San Cristóbal,False
+190,38,740.0,flat,65.0,True,3,1,Madrid,False,8443,False,good,False,False,False,False,False,1,Vicálvaro,Ambroz,True
+191,72,660.0,flat,155.0,False,3,2,Aranjuez,False,41119,False,good,False,True,False,False,False,Desconocido,Desconocido,Desconocido,True
+192,26,720.0,flat,56.0,False,2,1,Madrid,False,6691,True,good,False,True,False,True,False,4,Villaverde,Los Rosales,False
+193,22,650.0,flat,31.0,False,1,1,Madrid,False,1207,False,good,False,False,False,False,False,3,Centro,Lavapiés-Embajadores,False
+194,28,650.0,flat,96.0,True,2,1,Aranjuez,False,43953,True,good,False,True,False,True,False,3,Nuevo Aranjuez-Ciudad de las Artes,Desconocido,False
+195,29,660.0,flat,168.0,False,4,2,Aranjuez,False,41221,True,good,False,True,False,True,False,3,La Montaña-El Cortijo,Desconocido,True
+196,19,690.0,flat,64.0,True,2,1,Alcalá de Henares,False,30634,False,good,False,False,False,False,False,bj,Val,Desconocido,False
+197,24,750.0,studio,25.0,True,0,1,Madrid,False,3177,False,good,False,True,False,False,False,5,Barrio de Salamanca,Lista,True
+198,29,725.0,flat,45.0,True,1,1,Madrid,True,10508,False,good,False,True,False,False,False,2,San Blas,Rejas,True
+199,31,620.0,flat,85.0,False,1,1,Pinto,False,19767,True,good,False,True,False,True,False,bj,San José - Buenos Aires,Desconocido,True
+200,25,590.0,flat,52.0,True,1,1,Los Molinos,False,44526,False,good,False,False,False,False,False,bj,Desconocido,Desconocido,False
+201,15,750.0,penthouse,80.0,True,0,1,Tres Cantos,False,20818,False,good,False,False,False,False,False,1,Zona Industrial,Desconocido,True
+202,24,720.0,studio,36.0,True,0,1,Madrid,False,5975,False,good,False,False,False,True,False,2,Ciudad Lineal,San Juan Bautista,True
+203,16,700.0,flat,82.0,True,2,1,San Lorenzo de el Escorial,False,42463,False,good,False,False,False,False,False,3,Centro - Casco Histórico,Desconocido,False
+204,19,692.0,flat,83.0,True,2,2,Torrejón de Ardoz,True,20294,False,newdevelopment,True,True,False,False,False,Desconocido,Suroeste,Desconocido,True
+205,19,670.0,flat,79.0,True,2,2,Torrejón de Ardoz,True,20294,False,newdevelopment,True,True,False,False,False,Desconocido,Suroeste,Desconocido,True
+206,14,609.0,flat,56.0,True,1,1,Alcalá de Henares,True,30186,False,newdevelopment,True,True,False,False,False,bj,Espartales,Desconocido,True
+207,19,718.0,flat,86.0,True,2,2,Torrejón de Ardoz,True,20294,False,newdevelopment,True,True,False,False,False,Desconocido,Suroeste,Desconocido,True
+208,19,694.0,flat,81.0,True,2,2,Torrejón de Ardoz,True,20294,False,newdevelopment,True,True,False,False,False,Desconocido,Suroeste,Desconocido,True
+209,19,658.0,flat,78.0,True,2,2,Torrejón de Ardoz,True,20294,False,newdevelopment,True,True,False,False,False,Desconocido,Suroeste,Desconocido,True
+210,11,750.0,flat,36.0,False,2,1,Madrid,True,3620,False,good,False,False,False,False,False,2,Tetuán,Bellas Vistas,True
+211,19,723.0,flat,88.0,True,2,2,Torrejón de Ardoz,True,20294,False,newdevelopment,True,True,False,False,False,Desconocido,Suroeste,Desconocido,True
+212,19,728.0,flat,91.0,True,2,2,Torrejón de Ardoz,True,20294,False,newdevelopment,True,True,False,False,False,Desconocido,Suroeste,Desconocido,True
+213,16,650.0,studio,28.0,True,0,1,Madrid,False,4920,False,good,False,False,False,True,False,bj,Tetuán,Valdeacederas,False
+214,23,750.0,flat,60.0,False,2,1,Alcalá de Henares,False,29663,True,good,False,False,False,False,False,1,Casco Histórico,Desconocido,False
+215,30,735.0,flat,60.0,True,3,1,Parla,False,20886,True,good,False,True,False,True,False,4,Parque Inlasa,Desconocido,False
+216,24,699.0,penthouse,78.0,True,2,1,Colmenar Viejo,True,27684,False,good,False,False,False,False,False,2,Centro,Desconocido,False
+217,28,725.0,flat,67.0,True,3,1,Móstoles,False,17191,True,good,False,True,False,True,False,4,Centro,Desconocido,False
+218,21,740.0,flat,77.0,True,3,2,Alcalá de Henares,False,28385,True,good,False,True,False,True,False,bj,Reyes Católicos,Desconocido,True
+219,20,720.0,flat,73.0,True,1,1,Collado Villalba,True,34761,False,good,False,True,False,False,False,2,Villalba Estación,Desconocido,True
+220,21,750.0,flat,79.0,True,3,1,Getafe,True,11728,False,good,False,False,False,False,False,en,Universidad,Desconocido,True
+221,30,710.0,flat,66.0,True,3,1,Parla,False,20588,True,good,False,True,False,True,False,4,Parque Inlasa,Desconocido,False
+222,42,725.0,flat,62.0,True,2,1,Madrid,False,7748,True,good,False,False,False,True,False,3,Latina,Águilas,False
+223,22,750.0,flat,46.0,False,1,1,Madrid,True,5680,False,good,False,False,False,False,False,bj,Carabanchel,Puerta Bonita,False
+224,32,750.0,flat,61.0,True,2,1,Madrid,True,3161,False,good,False,False,False,False,False,1,Carabanchel,Opañel,True
+225,28,730.0,flat,161.0,True,4,1,Aranjuez,False,44159,True,good,False,True,False,True,False,3,Nuevo Aranjuez-Ciudad de las Artes,Desconocido,False
+226,25,720.0,flat,110.0,False,2,1,Parla,False,21417,True,good,False,True,False,True,False,Desconocido,Las Américas,Desconocido,True
+227,28,720.0,flat,48.0,False,2,1,Madrid,False,3551,True,good,False,True,False,True,False,bj,Puente de Vallecas,Numancia,False
+228,33,700.0,flat,57.0,False,2,1,Madrid,False,8410,True,good,False,True,False,True,False,4,Villaverde,San Cristóbal,False
+229,19,750.0,duplex,75.0,True,2,2,Cobeña,False,24176,False,good,False,False,False,False,False,1,Desconocido,Desconocido,False
+230,26,610.0,studio,26.0,False,0,1,Madrid,False,5343,True,good,False,True,False,True,False,3,Tetuán,Valdeacederas,True
+231,25,740.0,flat,52.0,False,2,1,Móstoles,False,17525,True,good,False,True,False,True,False,4,Centro,Desconocido,False
+232,33,715.0,flat,62.0,True,2,1,Colmenar Viejo,False,26558,False,good,False,False,False,True,False,bj,San Crispín - La Estación Consorcio,Desconocido,True
+233,28,550.0,flat,57.0,False,2,1,Aranjuez,False,43521,True,good,False,True,False,True,False,bj,Foso-Moreras,Desconocido,False
+234,45,710.0,flat,36.0,True,1,1,Madrid,False,1315,True,good,False,True,False,True,False,bj,Arganzuela,Palos de Moguer,False
+235,26,730.0,flat,51.0,True,2,1,Madrid,False,8093,True,good,False,True,False,True,False,2,Villaverde,Villaverde Alto,False
+236,21,750.0,studio,23.0,True,0,1,Madrid,False,1367,True,good,False,False,False,False,False,8,Centro,Malasaña-Universidad,True
+237,27,690.0,flat,33.0,False,1,1,Madrid,False,5232,True,good,False,True,False,True,False,3,Tetuán,Valdeacederas,True
+238,32,740.0,flat,73.0,True,3,1,Parla,False,21838,True,good,False,True,False,True,False,4,Fuentebella-San Felix-El Leguario,Desconocido,True
+239,38,750.0,duplex,66.0,True,1,1,Madrid,False,5627,True,good,False,True,False,True,False,bj,Tetuán,Valdeacederas,True
+240,29,720.0,flat,44.0,False,3,1,Madrid,False,8176,True,good,False,True,False,True,False,2,Villaverde,Villaverde Alto,False
+241,27,475.0,flat,79.0,True,2,2,Navalafuente,False,45077,False,good,False,False,False,False,False,2,Desconocido,Desconocido,True
+242,26,740.0,flat,41.0,True,2,1,Madrid,False,4787,True,good,False,True,False,True,False,2,Puente de Vallecas,San Diego,False
+243,31,740.0,flat,57.0,True,1,1,Madrid,False,3642,True,good,False,True,False,True,False,1,Latina,Los Cármenes,True
+244,33,740.0,flat,62.0,True,2,1,Colmenar Viejo,False,26890,False,good,False,False,False,True,False,1,San Crispín - La Estación Consorcio,Desconocido,True
+245,47,700.0,flat,74.0,False,2,1,Getafe,False,9950,True,good,False,True,False,True,False,4,Getafe norte,Desconocido,False
+246,22,730.0,flat,35.0,False,1,1,Madrid,False,760,False,good,False,False,False,False,False,2,Centro,Chueca-Justicia,True
+247,25,700.0,studio,28.0,True,0,1,Madrid,False,9700,False,good,False,False,False,False,False,3,Fuencarral,Montecarmelo,True
+248,28,600.0,chalet,180.0,False,3,2,Meco,False,35543,False,good,False,False,False,False,False,Desconocido,Desconocido,Desconocido,True
+249,23,750.0,flat,109.0,True,2,2,Valdemoro,False,24455,False,good,False,False,False,False,False,3,Hospital,Desconocido,True
+250,16,749.0,flat,38.0,True,1,1,Madrid,True,6506,False,good,False,False,False,True,False,2,Carabanchel,Pau de Carabanchel,True
+251,7,700.0,studio,30.0,False,0,1,Madrid,False,2411,False,good,False,False,False,False,False,bj,Retiro,Pacífico,True
+252,15,667.0,flat,70.0,True,1,1,Parla,True,21185,False,good,False,False,False,False,False,8,Parla Este,Desconocido,True
+253,22,725.0,flat,45.0,False,1,1,Madrid,False,10398,False,good,False,False,False,False,False,1,San Blas,Rejas,True
+254,21,550.0,penthouse,70.0,True,3,1,Robledo de Chavela,False,47595,False,good,False,False,False,False,False,3,Desconocido,Desconocido,False
+255,29,695.0,flat,55.0,True,3,1,Parla,False,19765,True,good,False,True,False,True,False,4,Villayuventus-Renfe,Desconocido,False
+256,35,750.0,flat,105.0,True,3,1,Campo Real,False,28810,False,good,False,False,False,False,False,1,Desconocido,Desconocido,False
+257,24,699.0,flat,52.0,True,1,1,Madrid,True,7092,False,good,False,False,False,False,False,3,Puente de Vallecas,Palomeras sureste,True
+258,18,750.0,studio,32.0,True,0,1,Madrid,False,5006,True,good,False,False,False,False,False,14,Ciudad Lineal,San Pascual,True
+259,14,730.0,flat,80.0,True,3,1,Collado Villalba,False,35774,False,good,False,False,False,False,False,4,Carlos Ruiz,Desconocido,False
+260,27,710.0,flat,30.0,True,1,1,Madrid,False,1156,True,good,False,True,False,True,False,bj,Centro,Lavapiés-Embajadores,False
+261,20,650.0,flat,58.0,True,1,1,Madrid,True,5924,False,good,False,False,False,False,False,4,Puente de Vallecas,Palomeras sureste,True
+262,19,600.0,countryHouse,60.0,False,2,2,Villaviciosa de Odón,True,23776,True,renew,False,False,False,False,False,Desconocido,Centro,Desconocido,True
+263,28,740.0,flat,41.0,True,2,1,Madrid,False,8358,True,good,False,True,False,True,False,3,Villa de Vallecas,Casco Histórico de Vallecas,False
+264,25,525.0,flat,40.0,True,1,1,Aranjuez,False,43059,True,good,False,True,False,True,False,3,Foso-Moreras,Desconocido,True
+265,11,750.0,studio,35.0,True,0,1,Madrid,False,1272,False,good,False,False,False,False,False,4,Moncloa,Argüelles,False
+266,28,750.0,flat,74.0,True,3,1,Alcalá de Henares,False,29245,True,good,False,True,False,True,False,2,Chorrillo,Desconocido,True
+267,25,710.0,flat,69.0,True,3,1,Alcalá de Henares,False,28440,True,good,False,True,False,True,False,5,Reyes Católicos,Desconocido,True
+268,27,560.0,studio,46.0,True,0,1,Madrid,False,3786,True,good,False,True,False,True,False,bj,Puente de Vallecas,Numancia,False
+269,25,600.0,flat,42.0,True,1,1,Torrejón de Ardoz,False,18905,False,good,False,False,False,False,False,bj,Noroeste,Desconocido,False
+270,17,720.0,flat,44.0,True,1,1,Madrid,False,3589,False,good,False,True,False,False,False,ss,Carabanchel,San Isidro,False
+271,12,750.0,flat,60.0,True,2,1,Madrid,False,2591,False,good,False,False,False,False,False,Desconocido,Latina,Puerta del Ángel,False
+272,5,750.0,flat,42.0,False,1,1,Madrid,True,2762,False,good,False,False,False,False,False,4,Arganzuela,Delicias,True
+273,15,750.0,studio,90.0,True,0,1,Madrid,False,7228,False,good,False,False,False,False,False,4,San Blas,Simancas,True
+274,16,650.0,studio,45.0,False,0,1,Madrid,True,3807,True,good,False,True,False,False,False,bj,Chamartín,Prosperidad,True
+275,21,650.0,flat,59.0,True,1,1,Parla,False,20637,True,good,False,False,False,False,False,2,El Nido-Las Fuentes,Desconocido,True
+276,61,670.0,flat,75.0,True,2,1,Arganda,False,27056,False,good,False,False,False,False,False,3,El Mirador - Grillero,Desconocido,True
+277,16,650.0,flat,45.0,True,1,1,Getafe,True,12383,False,newdevelopment,True,True,False,False,False,2,La Alhóndiga,Desconocido,True
+278,7,750.0,flat,32.0,True,1,1,Madrid,False,5339,False,good,False,False,False,False,False,2,Puente de Vallecas,Palomeras Bajas,True
+279,19,725.0,flat,50.0,True,1,1,Madrid,False,5564,False,good,False,True,False,False,False,Desconocido,Desconocido,Desconocido,False
+280,17,620.0,studio,20.0,False,0,1,Madrid,True,1893,False,good,False,False,False,False,False,1,Arganzuela,Palos de Moguer,True
+281,17,680.0,flat,35.0,True,1,1,Madrid,True,3308,False,good,False,False,False,False,False,bj,Carabanchel,San Isidro,False
+282,7,750.0,flat,87.0,True,3,1,Coslada,False,12519,False,good,False,False,False,False,False,bj,La Espinilla - Parque Blanco,Desconocido,True
+283,16,670.0,flat,53.0,True,1,1,Getafe,True,12383,False,newdevelopment,True,True,False,False,False,1,La Alhóndiga,Desconocido,True
+284,28,600.0,flat,75.0,True,3,1,Alcalá de Henares,False,28756,False,good,False,False,False,False,False,Desconocido,Desconocido,Desconocido,True
+285,11,750.0,flat,70.0,True,2,1,Alcorcón,False,12614,False,good,False,False,False,False,False,4,Centro,Zona Centro Joven,False
+286,15,700.0,flat,36.0,True,2,1,Pozuelo de Alarcón,False,9525,False,good,False,False,False,False,False,3,Zona Pueblo,Zona Pueblo,False
+287,13,695.0,flat,58.0,False,1,1,Madrid,False,5659,True,good,False,True,False,True,False,1,Carabanchel,Puerta Bonita,True
+288,28,710.0,flat,66.0,True,1,1,Arganda,False,25013,False,good,False,False,False,False,False,2,Centro,Desconocido,True
+289,23,620.0,flat,80.0,True,2,1,Bustarviejo,False,49280,False,good,False,False,False,False,False,2,Desconocido,Desconocido,False
+290,22,700.0,flat,80.0,True,3,1,Collado Mediano,True,40907,False,good,False,False,False,False,False,1,Desconocido,Desconocido,False
+291,47,715.0,flat,89.0,True,3,1,Chinchón,False,39316,False,good,False,False,False,False,False,bj,Desconocido,Desconocido,False
+292,21,750.0,flat,50.0,True,1,1,Madrid,True,11203,False,good,False,False,False,False,False,1,Villa de Vallecas,Ensanche de Vallecas - La Gavia,True
+293,11,750.0,flat,45.0,True,1,1,Madrid,False,8426,False,good,False,True,False,False,False,2,Hortaleza,Pinar del Rey,True
+294,20,550.0,studio,25.0,False,0,1,Madrid,False,4650,False,good,False,False,False,False,False,bj,Tetuán,Berruguete,False
+295,22,730.0,flat,60.0,True,1,1,Colmenar Viejo,False,27803,False,good,False,False,False,False,False,Desconocido,Centro,Desconocido,False
+296,28,750.0,penthouse,46.0,True,2,1,Madrid,False,3889,False,good,False,False,False,False,False,4,Puente de Vallecas,Numancia,True
+297,16,700.0,flat,45.0,True,1,1,Coslada,False,13887,False,good,False,False,False,False,False,bj,Ciudad 70,Desconocido,False
+298,15,680.0,flat,85.0,True,2,1,Coslada,False,13303,False,renew,False,False,False,False,False,bj,Valleaguado - La Cañada,Desconocido,True
+299,19,600.0,flat,28.0,False,1,1,Madrid,True,4418,True,good,False,False,False,False,False,4,Tetuán,Bellas Vistas,False
+300,21,750.0,flat,80.0,True,2,1,Colmenarejo,False,30995,False,good,False,False,False,False,False,1,Desconocido,Desconocido,False
+301,4,700.0,flat,62.0,True,1,1,Alcorcón,False,13040,False,good,False,False,False,False,False,2,Centro,Casco Antiguo,True
+302,18,690.0,flat,77.0,True,2,1,Madrid,True,7283,False,good,False,False,False,False,False,bj,Carabanchel,Buena Vista,True
+303,15,700.0,flat,50.0,True,1,1,Madrid,False,7844,False,good,False,False,False,False,False,bj,Fuencarral,Tres Olivos - Valverde,False
+304,13,750.0,flat,87.0,True,2,1,Coslada,True,13773,False,good,False,False,False,False,False,5,Ciudad 70,Desconocido,True
+305,15,735.0,flat,51.0,True,1,1,Getafe,False,14023,False,good,False,False,False,False,False,4,Buenavista,Desconocido,True
+306,15,700.0,flat,80.0,True,3,1,Móstoles,True,17777,False,good,False,False,False,False,False,5,Suroeste,Desconocido,True
+307,17,725.0,flat,75.0,True,3,1,Fuenlabrada,False,16247,False,good,False,False,False,False,False,Desconocido,Centro,Desconocido,False
+308,20,733.0,flat,68.4,True,2,1,Alcalá de Henares,False,28541,False,good,False,False,True,False,False,2,Las Sedas - El Olivar,Desconocido,True
+309,19,750.0,flat,36.0,True,1,1,Madrid,False,4237,True,good,False,False,False,False,False,bj,Ciudad Lineal,Ventas,True
+310,20,675.0,flat,69.0,True,2,1,Madrid,True,5656,False,good,False,False,False,False,False,bj,Latina,Aluche,False
+311,23,650.0,flat,85.0,True,2,1,Guadarrama,True,43066,True,good,False,False,False,False,False,2,Desconocido,Desconocido,False
+312,15,730.0,flat,52.0,True,1,1,Madrid,False,5879,True,good,False,False,False,False,False,bj,Tetuán,Valdeacederas,True
+313,19,700.0,flat,97.0,True,1,1,Loeches,True,24605,False,good,False,False,False,False,False,bj,Desconocido,Desconocido,True
+314,12,690.0,studio,38.0,False,0,1,Madrid,False,5798,True,good,False,True,False,True,False,2,Tetuán,Valdeacederas,True
+315,23,700.0,flat,70.0,True,2,1,Guadarrama,True,43166,False,good,False,False,False,False,False,1,Desconocido,Desconocido,False
+316,24,600.0,duplex,89.0,True,2,2,Miraflores de la Sierra,False,44474,False,good,False,False,False,False,False,2,Desconocido,Desconocido,False
+317,18,700.0,studio,25.0,False,0,1,Madrid,False,691,False,good,False,False,False,False,False,bj,Centro,Lavapiés-Embajadores,False
+318,21,690.0,flat,60.0,True,2,1,Sevilla la Nueva,False,29005,False,good,False,False,False,False,False,bj,Desconocido,Desconocido,False
+319,35,750.0,duplex,114.0,True,3,3,Serranillos del Valle,True,28099,False,good,False,False,False,False,False,1,Desconocido,Desconocido,False
+320,31,700.0,studio,51.0,True,0,1,Madrid,False,8471,True,good,False,False,False,False,False,bj,Hortaleza,Pinar del Rey,False
+321,32,670.0,flat,61.0,True,1,1,Collado Villalba,False,35136,False,good,False,False,False,False,False,bj,Parque de la Coruña - Las Suertes,Desconocido,True
+322,15,750.0,flat,80.0,True,2,1,Valdemoro,False,25085,False,good,False,False,False,False,False,4,Zona Estación,Desconocido,True
+323,24,740.0,studio,33.0,True,0,1,Madrid,False,8322,False,good,False,False,False,False,False,bj,Hortaleza,Canillas,True
+324,19,750.0,flat,110.0,True,4,2,Colmenar Viejo,False,27976,False,good,False,False,False,False,False,1,El Mirador,Desconocido,False
+325,9,750.0,flat,62.0,True,2,1,Madrid,False,5703,False,good,False,True,False,False,False,3,Puente de Vallecas,Portazgo,False
+326,21,750.0,studio,70.0,True,0,1,San Sebastián de los Reyes,True,16273,True,good,False,False,False,False,False,bj,Pol. Industrial sur,Desconocido,True
+327,11,650.0,studio,28.0,True,0,1,Madrid,False,5399,False,good,False,False,False,False,False,bj,Ciudad Lineal,Quintana,False
+328,18,625.0,flat,51.0,True,1,1,Arganda,False,25010,True,good,False,False,False,False,False,2,Centro,Desconocido,True
+329,18,700.0,flat,35.0,True,1,1,Madrid,False,2266,True,good,False,False,False,False,False,bj,Retiro,Jerónimos,True
+330,25,750.0,flat,95.0,True,2,2,Colmenarejo,False,30759,False,good,False,False,False,False,False,1,Desconocido,Desconocido,False
+331,37,600.0,studio,25.0,False,0,1,Madrid,False,3812,True,good,False,False,False,False,False,bj,Usera,Pradolongo,False
+332,25,750.0,flat,89.0,True,2,2,Getafe,False,12878,True,good,False,False,False,False,False,2,San Isidro,Desconocido,True
+333,32,700.0,flat,55.0,True,1,1,Valdemorillo,False,32004,True,good,False,False,False,False,False,1,Valdemorillo pueblo,Desconocido,True
+334,34,750.0,flat,90.0,True,3,2,Campo Real,False,28736,False,good,False,False,False,False,False,2,Desconocido,Desconocido,True
+335,28,750.0,flat,48.0,True,2,1,Madrid,False,6832,False,good,False,False,False,False,False,2,Fuencarral,Pilar,True
+336,27,625.0,flat,57.0,True,2,1,Aranjuez,False,43647,False,good,False,False,False,False,False,bj,Centro,Desconocido,False
+337,20,750.0,flat,46.0,True,1,1,San Sebastián de los Reyes,False,16127,False,good,False,True,False,False,False,1,Centro Urbano,Desconocido,False
+338,7,695.0,flat,59.0,True,1,1,Madrid,True,8595,False,good,False,False,False,False,False,4,Villaverde,Butarque,True
+339,10,450.0,flat,40.0,True,1,1,Robledo de Chavela,False,46273,True,good,False,False,False,False,False,1,Desconocido,Desconocido,False
+340,15,720.0,flat,58.0,True,2,1,Alcorcón,False,13451,True,good,False,False,False,False,False,bj,Centro,Casco Antiguo,False
+341,20,745.0,flat,73.0,True,2,1,Alcalá de Henares,False,28800,False,good,False,False,True,False,False,2,Las Sedas - El Olivar,Desconocido,True
+342,19,720.0,flat,69.6,True,2,1,Alcalá de Henares,False,28624,False,good,False,False,True,False,False,2,Las Sedas - El Olivar,Desconocido,True
+343,23,750.0,flat,55.0,True,2,1,Madrid,False,7462,False,good,False,False,False,False,False,1,Fuencarral,Tres Olivos - Valverde,False
+344,19,720.0,studio,48.0,True,0,1,Madrid,True,5808,False,good,False,False,False,False,False,1,Ciudad Lineal,Concepción,True
+345,17,725.0,studio,44.0,False,0,1,Madrid,True,1140,False,good,False,False,False,False,False,8,Centro,Chueca-Justicia,True
+346,14,750.0,flat,80.0,False,2,1,Madrid,True,8011,False,good,False,False,False,False,False,5,Villaverde,Butarque,True
+347,14,550.0,flat,86.0,True,2,1,Torrelaguna,False,47448,False,good,False,False,False,False,False,1,Desconocido,Desconocido,True
+348,16,640.0,flat,69.0,True,2,1,Villalbilla,True,29311,False,good,False,False,False,False,False,2,Desconocido,Desconocido,True
+349,19,700.0,flat,54.0,True,1,1,Getafe,False,11656,True,good,False,True,False,True,False,1,Getafe Centro,Desconocido,True
+350,16,700.0,flat,59.0,True,1,1,Madrid,True,7529,False,good,False,False,False,False,False,6,Carabanchel,Pau de Carabanchel,True
+351,11,700.0,flat,75.0,True,2,1,Alcalá de Henares,True,30359,False,good,False,False,False,False,False,1,Pryconsa - Poligono Europa,Desconocido,False
+352,19,695.0,flat,62.0,False,2,1,Alcobendas,True,15162,False,good,False,False,False,False,False,3,Alcobendas Centro,Desconocido,False

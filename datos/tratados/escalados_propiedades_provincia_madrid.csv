@@ -1,0 +1,354 @@
+,numPhotos,price,propertyType,size,exterior,rooms,bathrooms,municipality,showAddress,distance,hasVideo,status,newDevelopment,hasPlan,has3DTour,has360,topNewDevelopment,floor,district,neighborhood,hasLift
+0,-0.6153846153846154,750.0,flat,0.12,True,-1.0,0.0,Madrid,True,-0.25279877523681943,False,good,False,False,False,False,False,3,Hortaleza,Canillas,True
+1,0.07692307692307693,750.0,flat,0.52,True,0.0,0.0,San Sebastián de los Reyes,False,0.18294900009568463,True,good,False,True,False,False,False,bj,Centro Urbano,Desconocido,False
+2,0.6153846153846154,400.0,penthouse,0.4,True,0.0,1.0,Villamanrique de Tajo,False,2.043823557554301,False,good,False,False,False,True,False,2,Desconocido,Desconocido,False
+3,-0.6923076923076923,590.0,flat,0.52,True,1.0,1.0,Rascafría,False,2.118218352310784,False,good,False,False,False,False,False,Desconocido,Desconocido,Desconocido,False
+4,-0.23076923076923078,684.0,studio,-0.48,True,-2.0,0.0,Madrid,True,-0.07965744904793799,False,good,False,True,False,True,False,Desconocido,Desconocido,Desconocido,False
+5,-0.07692307692307693,600.0,flat,0.64,True,0.0,0.0,Manzanares el Real,False,1.1836666347717921,False,good,False,False,False,False,False,3,Desconocido,Desconocido,False
+6,-0.38461538461538464,600.0,duplex,0.56,True,-1.0,0.0,Miraflores de la Sierra,False,1.5216247249067074,False,good,False,False,False,False,False,1,Desconocido,Desconocido,False
+7,-0.23076923076923078,550.0,flat,-0.16,True,-1.0,0.0,Madrid,False,-0.39771313749880394,False,good,False,False,False,False,False,1,Puente de Vallecas,San Diego,False
+8,-0.07692307692307693,700.0,studio,-1.16,True,-2.0,0.0,Madrid,True,-0.32303128887187826,False,good,False,True,True,False,False,1,Ciudad Lineal,San Pascual,False
+9,0.46153846153846156,700.0,duplex,1.16,True,0.0,0.0,Galapagar,False,0.9009664146971582,False,good,False,False,False,False,False,3,Casco Antiguo,Desconocido,True
+10,-0.15384615384615385,700.0,flat,-0.48,False,-1.0,0.0,Madrid,False,-0.4915797531336714,False,good,False,False,False,False,False,5,Moncloa,Argüelles,False
+11,-0.46153846153846156,550.0,flat,-0.12,True,0.0,0.0,Arganda,True,0.665582240933882,False,good,False,False,False,False,False,en,Centro,Desconocido,False
+12,-0.6923076923076923,695.0,flat,0.28,True,0.0,0.0,San Sebastián de los Reyes,True,0.1639077600229643,False,good,False,False,False,False,False,1,Centro Urbano,Desconocido,False
+13,-1.1538461538461537,650.0,flat,0.44,True,0.0,0.0,San Lorenzo de el Escorial,False,1.4395273179600039,False,good,False,False,False,False,False,bj,Centro - Casco Histórico,Desconocido,False
+14,0.15384615384615385,700.0,flat,-1.08,False,-1.0,0.0,Madrid,False,-0.434121136733327,False,good,False,False,False,False,False,1,Retiro,Adelfas,True
+15,-0.3076923076923077,700.0,flat,-0.88,False,-1.0,0.0,Madrid,False,-0.4988517845182279,False,good,False,False,False,False,False,1,Arganzuela,Palos de Moguer,False
+16,-0.38461538461538464,700.0,flat,-0.56,True,-1.0,0.0,Madrid,False,-0.3769495742034255,True,good,False,False,False,False,False,2,Latina,Aluche,True
+17,-1.0,650.0,flat,0.12,True,0.0,0.0,Madrid,True,-0.3988135106688355,False,good,False,False,False,False,False,1,Puente de Vallecas,San Diego,False
+18,-0.38461538461538464,650.0,chalet,5.96,False,1.0,0.0,Aldea del Fresno,False,1.477083532676299,False,good,False,False,False,False,False,Desconocido,Desconocido,Desconocido,False
+19,-0.6153846153846154,700.0,flat,1.92,True,1.0,1.0,Aranjuez,False,1.5157401205626255,False,good,False,False,False,False,False,bj,Centro,Desconocido,False
+20,-0.8461538461538461,695.0,flat,-0.68,False,-1.0,0.0,Madrid,False,-0.4808152329920582,False,good,False,True,False,False,False,4,Barrio de Salamanca,Goya,True
+21,-0.5384615384615384,675.0,flat,-0.68,True,-1.0,0.0,Villanueva del Pardillo,False,0.5375083724045546,False,good,False,False,False,False,False,bj,Centro,Desconocido,False
+22,0.7692307692307693,750.0,studio,-0.48,False,-2.0,0.0,Madrid,False,-0.5403310687972442,True,good,False,False,False,False,False,bj,Centro,Lavapiés-Embajadores,True
+23,0.0,750.0,flat,1.68,True,1.0,1.0,Aranjuez,False,1.4912926992632285,False,good,False,False,False,False,False,1,Centro,Desconocido,True
+24,0.6923076923076923,680.0,flat,-0.76,False,-1.0,0.0,Madrid,True,-0.4655056932350971,False,good,False,False,False,False,False,1,Retiro,Pacífico,True
+25,0.3076923076923077,750.0,flat,-0.24,True,-1.0,0.0,Madrid,False,-0.020332982489713904,False,good,False,False,False,False,False,1,Barajas,Timón,True
+26,-0.6153846153846154,750.0,penthouse,0.12,True,-1.0,0.0,Las Rozas de Madrid,False,0.4303415941058272,False,good,False,False,False,False,False,2,Las Matas- Peñascales,Las Matas- Peñascales,False
+27,-0.5384615384615384,750.0,studio,-1.28,False,-2.0,0.0,Madrid,False,-0.5639651707970529,False,good,False,False,False,False,False,4,Centro,Chueca-Justicia,True
+28,-1.0,750.0,flat,-0.68,False,-1.0,0.0,Madrid,False,-0.4943067649028801,False,good,False,False,False,False,False,1,Arganzuela,Palos de Moguer,False
+29,-0.5384615384615384,650.0,flat,0.2,True,0.0,0.0,Madrid,False,-0.2143335565974548,False,good,False,True,False,False,False,1,Latina,Águilas,False
+30,-0.38461538461538464,750.0,studio,-1.08,True,-2.0,0.0,Madrid,False,-0.5447325614773706,True,good,False,False,False,False,False,3,Centro,Lavapiés-Embajadores,False
+31,0.3076923076923077,750.0,flat,-0.72,False,-1.0,0.0,Madrid,False,-0.49205817625107645,False,good,False,True,False,False,False,5,Chamberí,Trafalgar,False
+32,0.07692307692307693,700.0,flat,0.2,True,0.0,0.0,Madrid,False,-0.18318821165438715,True,good,False,True,False,True,False,3,Villaverde,San Cristóbal,False
+33,-0.23076923076923078,747.0,flat,1.56,True,1.0,1.0,Navalcarnero,False,0.6836666347717921,False,good,False,True,False,False,False,1,La Dehesa - El Pinar,Desconocido,True
+34,-0.3076923076923077,640.0,studio,-0.88,True,-2.0,0.0,Madrid,False,-0.239068031767295,False,good,False,False,False,False,False,1,Villaverde,Butarque,True
+35,0.0,750.0,flat,-1.08,False,-1.0,0.0,Madrid,False,-0.4874174720122476,False,good,False,False,False,False,False,st,Retiro,Ibiza,True
+36,0.0,750.0,flat,0.52,True,0.0,0.0,Alcalá de Henares,True,0.7837527509329251,False,good,False,False,False,False,False,2,Reyes Católicos,Desconocido,True
+37,-0.6153846153846154,625.0,flat,-0.2,True,0.0,0.0,El Escorial,True,1.3455171753899149,False,good,False,False,False,False,False,2,Centro,Desconocido,False
+38,-0.8461538461538461,700.0,studio,-0.68,True,-2.0,0.0,Madrid,False,-0.521002774854081,False,good,False,False,False,False,False,3,Centro,Chueca-Justicia,True
+39,0.6153846153846154,750.0,studio,-0.68,True,-2.0,0.0,Madrid,True,-0.4738302554779447,False,good,False,False,False,False,False,en,Arganzuela,Chopera,True
+40,-0.15384615384615385,650.0,flat,-0.88,False,-1.0,0.0,Madrid,False,-0.535833891493637,True,good,False,False,False,False,False,2,Centro,Palacio,True
+41,0.3076923076923077,720.0,flat,0.52,True,1.0,0.0,Alcalá de Henares,False,0.8026983063821644,False,good,False,False,False,False,False,2,Chorrillo,Desconocido,False
+42,0.6153846153846154,699.0,flat,-0.2,True,-1.0,0.0,Madrid,True,-0.25016744809109176,False,good,False,False,False,False,False,3,Puente de Vallecas,Palomeras sureste,True
+43,-0.38461538461538464,750.0,flat,0.32,True,0.0,0.0,Leganés,False,0.03636015692278251,False,good,False,False,False,False,False,Desconocido,Valdepelayo - Montepinos - Arroyo Culebro,Valdepelayo-Montepinos-Arroyo Culebro,True
+44,-0.7692307692307693,695.0,flat,0.32,True,0.0,0.0,Coslada,False,0.07573437948521673,False,good,False,False,False,False,False,Desconocido,Valleaguado - La Cañada,Desconocido,True
+45,0.0,750.0,flat,0.84,True,0.0,1.0,Torrejón de Ardoz,False,0.3539374222562434,False,good,False,False,False,False,False,Desconocido,Suroeste,Desconocido,True
+46,-0.15384615384615385,620.0,flat,0.12,True,0.0,0.0,Madrid,False,-0.20763563295378432,False,good,False,False,False,False,False,Desconocido,Villaverde,Villaverde Alto,False
+47,-0.5384615384615384,500.0,studio,-1.16,False,-2.0,0.0,Madrid,False,-0.5526743852262941,False,good,False,False,False,False,False,1,Centro,Lavapiés-Embajadores,False
+48,-0.9230769230769231,550.0,flat,-0.76,True,-1.0,0.0,Leganés,False,-0.06616591713711606,False,good,False,False,False,False,False,Desconocido,Centro,Flores,False
+49,0.23076923076923078,750.0,flat,-0.44,False,-1.0,0.0,Madrid,False,-0.5188498708257583,True,good,False,False,False,False,False,3,Arganzuela,Acacias,True
+50,0.0,680.0,studio,-0.08,True,-2.0,0.0,Madrid,False,-0.34561286001339586,False,good,False,False,False,False,False,bj,Ciudad Lineal,Ventas,False
+51,0.15384615384615385,700.0,flat,-0.28,True,-1.0,1.0,Camarma de Esteruelas,False,0.9439766529518706,False,renew,False,False,False,False,False,Desconocido,Desconocido,Desconocido,True
+52,-0.5384615384615384,750.0,duplex,-0.88,True,-1.0,0.0,Madrid,False,-0.39584728734092434,False,good,False,False,True,False,False,Desconocido,Desconocido,Desconocido,False
+53,0.6153846153846154,750.0,flat,0.36,True,0.0,0.0,Alcorcón,False,0.04736388862309827,True,good,False,False,False,False,False,1,Centro,Zona Renfe,True
+54,-0.6923076923076923,650.0,flat,0.32,True,-1.0,0.0,Alcalá de Henares,False,0.819012534685676,False,good,False,False,False,False,False,en,San Isidro - Los Almendros,Desconocido,True
+55,1.4615384615384615,720.0,flat,3.04,False,1.0,1.0,Pinto,False,0.34121136733326957,False,good,False,True,False,True,False,1,San José - Buenos Aires,Desconocido,True
+56,0.6153846153846154,600.0,flat,-0.28,True,-1.0,0.0,Valdemoro,False,0.5793225528657545,False,good,False,False,False,False,False,Desconocido,Hospital,Desconocido,True
+57,-0.5384615384615384,650.0,flat,0.16,True,-1.0,0.0,Collado Villalba,False,1.079561764424457,False,good,False,False,False,False,False,2,Parque de la Coruña - Las Suertes,Desconocido,True
+58,-0.6923076923076923,650.0,flat,0.32,False,0.0,0.0,Alcorcón,False,-0.03750837240455459,False,good,False,False,False,False,False,3,Valderas - Los Castillos,Valderas - Los Castillos,False
+59,-1.0769230769230769,700.0,flat,-0.48,True,-1.0,0.0,Madrid,False,0.0,False,good,False,False,False,False,False,3,Barajas,Casco Histórico de Barajas,False
+60,-0.15384615384615385,625.0,flat,0.2,True,0.0,0.0,Getafe,False,-0.03133671419002966,False,good,False,False,False,False,False,bj,Getafe Centro,Desconocido,False
+61,-0.6153846153846154,595.0,flat,-0.48,True,-1.0,0.0,Madrid,False,-0.37211750071763466,False,good,False,False,False,False,False,bj,Latina,Aluche,False
+62,0.0,650.0,flat,-0.08,True,-1.0,0.0,Madrid,False,-0.08736006123815902,False,good,False,False,False,False,False,4,San Blas,Rejas,True
+63,0.5384615384615384,725.0,flat,-0.28,True,-1.0,0.0,Madrid,False,-0.22069658405894174,True,good,False,True,False,False,False,2,Villaverde,Villaverde Alto,True
+64,-0.5384615384615384,750.0,flat,1.52,True,1.0,0.0,Alcalá de Henares,False,0.7732274423500144,False,good,False,False,False,False,False,8,Reyes Católicos,Desconocido,True
+65,0.0,700.0,penthouse,-1.08,True,-1.0,0.0,Madrid,True,-0.013013108793416897,False,good,False,False,False,True,False,1,San Blas,Rejas,True
+66,0.38461538461538464,700.0,flat,-1.2,False,-1.0,0.0,Madrid,False,-0.5229164673237011,False,good,False,False,False,False,False,3,Centro,Lavapiés-Embajadores,False
+67,-0.23076923076923078,650.0,flat,0.08,True,0.0,0.0,Alcalá de Henares,False,0.8726916084585207,False,good,False,False,False,False,False,1,Val,Desconocido,True
+68,-0.8461538461538461,550.0,flat,-0.68,True,-1.0,0.0,Paracuellos de Jarama,False,0.2597359104391924,False,good,False,False,False,False,False,3,Casco Urbano,Desconocido,True
+69,0.0,650.0,flat,-0.08,True,-1.0,0.0,Madrid,False,-0.09688068127451918,False,good,False,False,False,False,False,4,San Blas,Rejas,True
+70,0.0,750.0,flat,0.32,True,0.0,0.0,Madrid,False,-0.32250502344273274,False,good,False,False,False,False,False,Desconocido,Ciudad Lineal,Pueblo Nuevo,True
+71,-0.23076923076923078,725.0,flat,0.52,True,0.0,0.0,Madrid,False,-0.3924983255190891,False,good,False,False,False,False,False,Desconocido,Puente de Vallecas,Entrevías,True
+72,-0.8461538461538461,700.0,flat,0.92,True,-1.0,0.0,Alcalá de Henares,False,0.8199693809204861,False,good,False,False,False,False,False,1,Casco Histórico,Desconocido,False
+73,-1.0,650.0,flat,-0.68,True,-1.0,0.0,Madrid,True,-0.00464070423882882,False,good,False,False,False,False,False,bj,Barajas,Casco Histórico de Barajas,True
+74,0.3076923076923077,695.0,flat,1.32,True,1.0,0.0,Madrid,False,-0.21969189551239116,False,good,False,False,False,False,False,Desconocido,Villaverde,Los Rosales,False
+75,-0.5384615384615384,750.0,flat,-0.08,True,-1.0,0.0,Madrid,False,-0.3015979332121328,False,good,False,False,False,False,False,Desconocido,Ciudad Lineal,Quintana,False
+76,-0.15384615384615385,650.0,flat,0.32,True,0.0,0.0,Madrid,False,-0.2278250885082767,False,good,False,False,False,False,False,Desconocido,Latina,Águilas,True
+77,-0.5384615384615384,666.0,flat,0.52,True,-1.0,1.0,Villanueva del Pardillo,False,0.5999904315376519,False,good,False,False,False,False,False,1,Los Llanos - Valle Pardo,Desconocido,True
+78,-0.7692307692307693,750.0,flat,0.84,True,0.0,1.0,Alcalá de Henares,False,0.8446560137785858,False,good,False,False,False,False,False,Desconocido,Ensanche,Desconocido,True
+79,-0.3076923076923077,630.0,flat,0.68,True,1.0,0.0,El Molar,False,1.1559659362740407,False,good,False,False,False,False,False,Desconocido,Desconocido,Desconocido,True
+80,-0.15384615384615385,635.0,studio,-0.08,True,-2.0,0.0,Leganés,False,0.10558798201129078,False,good,False,False,False,False,False,2,Valdepelayo - Montepinos - Arroyo Culebro,Valdepelayo-Montepinos-Arroyo Culebro,True
+81,-1.1538461538461537,725.0,flat,0.48,True,0.0,0.0,Collado Villalba,True,1.1276911300354033,True,good,False,False,False,False,False,1,Dehesa - El Soto,Desconocido,True
+82,-0.3076923076923077,750.0,flat,-0.88,False,-1.0,0.0,Madrid,True,-0.5483685771696488,False,good,False,True,False,False,False,1,Centro,Lavapiés-Embajadores,False
+83,-0.7692307692307693,690.0,flat,0.32,True,0.0,0.0,Madrid,True,-0.3634580422926036,False,good,False,False,False,False,False,3,Puente de Vallecas,San Diego,False
+84,-0.07692307692307693,700.0,studio,-1.08,False,-2.0,0.0,Madrid,True,-0.5396612764328772,False,good,False,False,False,False,False,2,Centro,Lavapiés-Embajadores,True
+85,1.0,730.0,flat,0.28,True,1.0,0.0,Parla,False,0.3786240551143431,True,good,False,True,False,True,False,1,Pintores-Ferial,Desconocido,False
+86,-0.07692307692307693,750.0,flat,-0.24,True,-1.0,0.0,Madrid,False,-0.42507893981437184,False,good,False,False,False,False,False,1,Carabanchel,Opañel,True
+87,-0.3076923076923077,750.0,flat,-0.36,False,-1.0,0.0,Tres Cantos,False,0.3925461678308296,False,good,False,False,False,False,False,4,Zona Estación- Centro,Desconocido,True
+88,-0.5384615384615384,690.0,flat,-0.88,True,-1.0,0.0,Madrid,False,-0.35972634197684433,False,good,False,False,False,False,False,Desconocido,Tetuán,Berruguete,False
+89,-0.5384615384615384,750.0,flat,0.68,True,1.0,0.0,Alcorcón,False,0.0332982489713903,False,good,False,False,False,False,False,4,Centro,Casco Antiguo,True
+90,-0.3076923076923077,700.0,duplex,-0.88,True,-1.0,0.0,Madrid,False,-0.5487034733518323,False,good,False,False,False,False,False,bj,Centro,Palacio,False
+91,-0.6923076923076923,720.0,flat,-0.6,True,-1.0,0.0,Madrid,False,-0.19079513922112717,False,good,False,True,False,False,False,4,Hortaleza,Pinar del Rey,True
+92,0.15384615384615385,595.0,flat,-0.08,True,-1.0,0.0,Quijorna,False,0.8314036934264664,False,good,False,True,False,False,False,1,Desconocido,Desconocido,False
+93,-0.46153846153846156,700.0,flat,-0.48,False,-1.0,0.0,Madrid,False,-0.536216629987561,False,good,False,False,False,False,False,1,Centro,Palacio,False
+94,-1.0769230769230769,500.0,flat,-0.48,True,-1.0,0.0,Valdemorillo,False,0.950483207348579,False,good,False,False,False,False,False,Desconocido,Valdemorillo pueblo,Desconocido,False
+95,-1.0769230769230769,700.0,flat,0.72,True,0.0,0.0,Aranjuez,True,1.5115299971294613,True,good,False,True,False,False,False,1,Nuevo Aranjuez-Ciudad de las Artes,Desconocido,False
+96,-0.9230769230769231,675.0,duplex,1.2,True,0.0,1.0,Miraflores de la Sierra,False,1.5396612764328772,False,good,False,False,False,False,False,2,Desconocido,Desconocido,False
+97,-0.7692307692307693,650.0,flat,-0.48,True,-1.0,0.0,Pedrezuela,False,1.2161515644435938,False,good,False,False,False,False,False,bj,Desconocido,Desconocido,False
+98,-1.2307692307692308,750.0,studio,-0.08,True,-2.0,0.0,Madrid,True,-0.5455458807769591,False,good,False,True,True,False,False,2,Centro,Lavapiés-Embajadores,True
+99,-0.23076923076923078,720.0,studio,-0.48,True,-2.0,0.0,San Sebastián de los Reyes,True,0.14888527413644628,True,good,False,True,False,True,False,5,Vega de la Moraleja,Desconocido,True
+100,0.15384615384615385,624.0,flat,-0.48,True,-1.0,0.0,Valdemoro,True,0.5624342168213569,True,newdevelopment,True,True,False,False,False,Desconocido,Hospital,Desconocido,True
+101,0.15384615384615385,633.0,flat,-0.48,True,-1.0,0.0,Valdemoro,True,0.5624342168213569,True,newdevelopment,True,True,False,False,False,Desconocido,Hospital,Desconocido,True
+102,0.15384615384615385,640.0,studio,-0.96,True,-2.0,0.0,Madrid,True,-0.054157496890249734,False,good,False,True,False,False,False,2,Villa de Vallecas,Ensanche de Vallecas - La Gavia,True
+103,-0.46153846153846156,645.0,flat,1.08,True,0.0,1.0,Aranjuez,True,1.507319873696297,False,good,False,False,False,True,False,2,Nuevo Aranjuez-Ciudad de las Artes,Desconocido,True
+104,-0.6153846153846154,750.0,flat,-0.44,False,-1.0,0.0,Madrid,True,-0.5383216917041431,False,good,False,True,False,True,False,3,Centro,Palacio,False
+105,-0.3076923076923077,735.0,studio,-0.88,True,-2.0,0.0,Madrid,True,-0.05898957037604057,False,good,False,True,False,True,False,1,Fuencarral,Las Tablas,True
+106,0.15384615384615385,600.0,flat,-0.08,True,-1.0,0.0,Daganzo de Arriba,False,0.6156348674767965,False,good,False,False,False,False,False,Desconocido,Desconocido,Desconocido,False
+107,0.6153846153846154,750.0,flat,0.72,True,1.0,0.0,Madrid,False,-0.1930437278729308,False,good,False,False,False,False,False,Desconocido,Villaverde,Villaverde Alto,False
+108,-1.4615384615384615,600.0,penthouse,-1.28,True,-1.0,0.0,Madrid,True,-0.5807099799062291,False,good,False,True,False,True,False,5,Centro,Sol,True
+109,0.7692307692307693,705.0,flat,-0.36,True,-1.0,0.0,Madrid,True,-0.0406181226676873,False,good,False,True,False,False,False,4,Villa de Vallecas,Ensanche de Vallecas - La Gavia,True
+110,1.1538461538461537,650.0,flat,0.2,True,0.0,0.0,Guadarrama,False,1.478710171275476,True,good,False,True,False,False,False,3,Desconocido,Desconocido,False
+111,0.6923076923076923,700.0,duplex,0.16,True,0.0,0.0,Cobeña,False,0.5547794469428763,False,good,False,False,False,False,False,1,Desconocido,Desconocido,False
+112,-0.46153846153846156,650.0,studio,-0.68,False,-2.0,0.0,Madrid,False,-0.34604344081906036,False,good,False,False,False,False,False,en,Tetuán,Berruguete,True
+113,-0.3076923076923077,700.0,flat,-0.68,True,-1.0,0.0,Madrid,False,-0.442302172040953,False,good,False,False,False,False,False,bj,Latina,Puerta del Ángel,False
+114,0.7692307692307693,730.0,flat,-0.24,True,0.0,0.0,Madrid,False,-0.26571619940675534,True,good,False,True,False,True,False,4,Villaverde,Los Rosales,False
+115,1.1538461538461537,750.0,flat,-0.28,True,0.0,0.0,Madrid,False,-0.19089082384460818,True,good,False,True,False,True,False,3,Villa de Vallecas,Casco Histórico de Vallecas,False
+116,0.6923076923076923,680.0,flat,-0.04,True,0.0,0.0,Torrejón de Ardoz,False,0.33379580901349154,True,good,False,True,False,True,False,3,Noroeste,Desconocido,False
+117,0.6923076923076923,710.0,flat,0.84,True,1.0,0.0,Parla,False,0.4447421299397187,True,good,False,True,False,True,False,4,Fuentebella-San Felix-El Leguario,Desconocido,False
+118,0.6923076923076923,720.0,flat,-0.4,True,0.0,0.0,Madrid,False,-0.25035881733805376,True,good,False,True,False,True,False,1,San Blas,Amposta,False
+119,-0.6153846153846154,750.0,studio,-0.56,True,-2.0,0.0,Madrid,False,-0.33436991675437755,False,good,False,False,False,False,False,Desconocido,Tetuán,Valdeacederas,True
+120,-0.6153846153846154,695.0,studio,-0.68,True,-2.0,0.0,Madrid,False,0.0026313271457276814,False,good,False,False,False,False,False,Desconocido,Barajas,Casco Histórico de Barajas,True
+121,0.9230769230769231,630.0,flat,-0.12,True,-1.0,1.0,El Álamo,False,0.9621567314132619,False,good,False,False,False,False,False,Desconocido,Desconocido,Desconocido,False
+122,1.6923076923076923,750.0,flat,1.32,True,1.0,0.0,Algete,False,0.6736197493062864,False,good,False,False,False,False,False,Desconocido,Desconocido,Desconocido,True
+123,-1.4615384615384615,730.0,flat,-0.28,True,-1.0,0.0,Madrid,False,-0.1724236915127739,False,good,False,False,False,False,False,2,Villa de Vallecas,Casco Histórico de Vallecas,True
+124,0.3076923076923077,600.0,flat,1.32,True,1.0,0.0,Valdemoro,False,0.615299971294613,False,good,False,False,False,False,False,Desconocido,Centro,Desconocido,True
+125,-0.23076923076923078,650.0,studio,-0.48,True,-2.0,0.0,Madrid,True,-0.3188690077504545,False,good,False,False,False,False,False,bj,Ciudad Lineal,Pueblo Nuevo,True
+126,0.0,750.0,flat,-0.76,False,-1.0,0.0,Madrid,True,-0.5669792364367047,True,good,False,False,False,False,False,bj,Centro,Huertas-Cortes,True
+127,0.07692307692307693,730.0,flat,-0.28,True,-1.0,0.0,Rivas-Vaciamadrid,False,0.195627212706918,False,good,False,False,False,False,False,Desconocido,Rivas Futura,Desconocido,True
+128,-1.5384615384615385,735.0,studio,-1.08,True,-2.0,0.0,Madrid,True,-0.05420533920199024,False,good,False,False,False,True,False,2,Fuencarral,Las Tablas,True
+129,0.6923076923076923,610.0,flat,0.6,False,-1.0,0.0,Pinto,False,0.3455650177016553,True,good,False,True,False,True,False,bj,San José - Buenos Aires,Desconocido,True
+130,0.0,580.0,chalet,-0.12,False,1.0,1.0,Los Santos de la Humosa,False,1.2789206774471342,False,good,False,False,False,False,False,Desconocido,Desconocido,Desconocido,False
+131,-0.3076923076923077,725.0,flat,-0.28,True,-1.0,0.0,Villanueva del Pardillo,True,0.5485599464166109,False,good,False,True,False,False,False,en,Centro,Desconocido,False
+132,0.15384615384615385,750.0,flat,-0.36,True,-1.0,0.0,Madrid,False,-0.34618696775428187,True,good,False,True,False,False,False,1,Carabanchel,Vista Alegre,False
+133,0.3076923076923077,750.0,flat,0.52,True,1.0,0.0,Alcalá de Henares,False,0.8295378432685867,True,good,False,True,False,False,False,2,San Isidro - Los Almendros,Desconocido,False
+134,-0.3076923076923077,750.0,flat,-0.32,True,-1.0,0.0,Madrid,True,-0.18447995407138074,True,good,False,True,False,False,False,7,Hortaleza,Pinar del Rey,True
+135,0.6153846153846154,730.0,flat,0.12,True,1.0,0.0,Parla,False,0.412735623385322,True,good,False,True,False,True,False,3,Reyes,Desconocido,False
+136,0.9230769230769231,560.0,flat,-1.24,False,-1.0,0.0,Madrid,False,-0.5595636781169266,True,good,False,True,False,True,False,bj,Centro,Lavapiés-Embajadores,False
+137,0.0,700.0,studio,-1.36,True,-2.0,0.0,Madrid,True,-0.5286575447325614,False,good,False,False,False,False,False,Desconocido,Desconocido,Desconocido,True
+138,0.7692307692307693,750.0,flat,0.92,True,1.0,0.0,San Fernando de Henares,True,0.12773897234714382,False,good,False,False,False,False,False,2,Parque Roma - Coronas,Desconocido,True
+139,0.8461538461538461,730.0,flat,0.52,True,1.0,0.0,Pinto,False,0.3090613338436513,True,good,False,True,False,True,False,3,Parque Europa - Los Pitufos,Desconocido,False
+140,0.6923076923076923,730.0,flat,-0.2,True,0.0,0.0,Madrid,False,-0.16716103722131853,True,good,False,True,False,True,False,4,Vicálvaro,Ambroz,False
+141,0.5384615384615384,740.0,flat,0.28,True,0.0,0.0,Madrid,False,-0.18926418524543107,True,good,False,True,False,True,False,3,Villaverde,Villaverde Alto,False
+142,1.3076923076923077,720.0,flat,0.32,True,0.0,0.0,Madrid,False,-0.23012151947182088,True,good,False,True,False,True,False,2,Villaverde,Los Rosales,False
+143,0.9230769230769231,720.0,flat,0.24,True,0.0,0.0,Torrejón de Ardoz,False,0.3545115299971295,True,good,False,True,False,True,False,2,Noroeste,Desconocido,False
+144,1.0,740.0,flat,-0.12,True,0.0,0.0,Madrid,False,-0.2719835422447613,True,good,False,True,False,True,False,1,Villaverde,Los Rosales,True
+145,0.7692307692307693,720.0,flat,-0.2,True,0.0,0.0,Getafe,False,0.017893024590948235,True,good,False,True,False,True,False,3,La Alhóndiga,Desconocido,False
+146,1.7692307692307692,730.0,flat,-0.48,True,0.0,0.0,Madrid,False,-0.3796765859726342,True,good,False,True,False,True,False,3,Puente de Vallecas,San Diego,False
+147,-1.0,600.0,duplex,0.92,False,-1.0,0.0,Madrid,False,-0.24390010525308584,False,good,False,True,False,False,False,Desconocido,Desconocido,Desconocido,False
+148,-0.9230769230769231,600.0,duplex,0.92,False,-1.0,0.0,Madrid,False,-0.2478231748158071,False,good,False,True,False,False,False,Desconocido,Desconocido,Desconocido,False
+149,0.0,725.0,duplex,0.56,True,0.0,0.0,Cobeña,False,0.5184671323318343,False,good,False,False,False,False,False,1,Desconocido,Desconocido,False
+150,0.8461538461538461,675.0,flat,0.76,True,1.0,0.0,Aldea del Fresno,False,1.4909578030810449,True,good,False,True,False,True,False,2,Desconocido,Desconocido,False
+151,0.07692307692307693,750.0,flat,-0.12,True,-1.0,0.0,San Sebastián de los Reyes,True,0.1680700411443881,False,good,False,False,False,False,False,3,Centro Urbano,Desconocido,True
+152,0.0,750.0,duplex,0.88,True,0.0,1.0,Collado Villalba,False,1.070519567505502,False,good,False,False,False,False,False,1,Villalba Estación,Desconocido,False
+153,1.0,700.0,flat,-0.12,True,-1.0,0.0,Madrid,False,-0.4290020093770931,False,good,False,False,False,False,False,2,Usera,Almendrales,True
+154,1.0,750.0,flat,-0.12,True,0.0,0.0,Madrid,False,-0.1913214046502727,True,good,False,True,False,True,False,3,Villaverde,Villaverde Alto,False
+155,0.8461538461538461,730.0,flat,-0.36,True,0.0,0.0,Madrid,False,-0.25471246770643957,True,good,False,True,False,True,False,3,San Blas,Amposta,False
+156,1.4615384615384615,650.0,flat,0.16,True,0.0,0.0,Alcalá de Henares,False,0.7790642043823558,True,good,False,True,False,True,False,4,Reyes Católicos,Desconocido,False
+157,1.0769230769230769,730.0,flat,0.24,True,0.0,0.0,Madrid,False,-0.2118457563869486,True,good,False,True,False,True,False,1,Villaverde,Villaverde Alto,False
+158,1.0,720.0,flat,-0.28,True,0.0,0.0,Madrid,False,-0.2526074059898574,True,good,False,True,False,True,False,2,San Blas,Amposta,False
+159,0.8461538461538461,720.0,flat,-0.24,True,0.0,0.0,Madrid,False,-0.25586068318821165,True,good,False,True,False,True,False,1,San Blas,Amposta,False
+160,0.7692307692307693,750.0,flat,-0.4,True,0.0,0.0,Madrid,False,-0.3723567122763372,True,good,False,True,False,True,False,1,Puente de Vallecas,San Diego,False
+161,0.7692307692307693,730.0,flat,-0.28,True,0.0,0.0,Madrid,False,-0.23490575064587121,True,good,False,True,False,True,False,3,Villaverde,Butarque,False
+162,0.23076923076923078,730.0,flat,-0.68,True,0.0,0.0,Madrid,False,-0.3884795713328868,True,good,False,True,False,True,False,2,Puente de Vallecas,San Diego,False
+163,0.9230769230769231,670.0,flat,0.4,True,0.0,0.0,Valdemoro,False,0.6113769017318916,True,good,False,True,False,True,False,1,Zona Estación,Desconocido,True
+164,0.8461538461538461,740.0,flat,-0.2,True,0.0,0.0,Madrid,False,-0.3568558032724141,True,good,False,True,False,True,False,3,Puente de Vallecas,San Diego,False
+165,0.7692307692307693,720.0,flat,0.48,True,0.0,0.0,Alcalá de Henares,False,0.8019806717060568,True,good,False,True,False,True,False,1,Chorrillo,Desconocido,True
+166,0.7692307692307693,750.0,flat,0.08,True,0.0,0.0,Madrid,False,-0.18758970433451344,True,good,False,True,False,True,False,4,Villaverde,Villaverde Alto,False
+167,1.0,740.0,flat,-0.48,True,0.0,0.0,Madrid,False,-0.22012247631805568,True,good,False,True,False,True,False,3,Villaverde,Los Rosales,False
+168,0.8461538461538461,740.0,flat,0.12,True,0.0,0.0,Madrid,False,-0.2703569036455842,True,good,False,True,False,True,False,1,Villaverde,Los Rosales,True
+169,-0.7692307692307693,730.0,studio,-0.48,False,-2.0,0.0,Madrid,False,-0.5486077887283514,False,good,False,False,False,False,False,Desconocido,Centro,Huertas-Cortes,True
+170,-0.5384615384615384,620.0,flat,0.72,True,1.0,0.0,Parla,False,0.4173284853124103,False,good,False,False,False,False,False,Desconocido,Reyes,Desconocido,True
+171,-0.3076923076923077,695.0,flat,0.4,True,0.0,0.0,Fuenlabrada,False,0.18132236149650752,False,good,False,False,False,False,False,Desconocido,Sudeste Industrial,Desconocido,False
+172,-0.23076923076923078,650.0,flat,1.52,True,1.0,0.0,Navalcarnero,False,0.8402545210984594,False,good,False,False,False,False,False,Desconocido,Centro,Desconocido,True
+173,-0.6923076923076923,675.0,flat,0.44,True,0.0,0.0,Alcalá de Henares,False,0.8678595349727298,False,good,False,False,False,False,False,Desconocido,Juan de Austria,Desconocido,True
+174,0.0,695.0,flat,0.32,True,0.0,0.0,Madrid,False,-0.18357095014831118,False,good,False,False,False,False,False,Desconocido,Vicálvaro,Casco Histórico de Vicálvaro,False
+175,-0.6153846153846154,750.0,flat,2.16,True,0.0,1.0,Parla,False,0.39527317960003827,False,good,False,False,False,False,False,6,Centro,Desconocido,True
+176,-0.3076923076923077,675.0,flat,-0.88,False,-1.0,0.0,Madrid,True,-0.5408573342263898,False,good,False,True,False,False,False,Desconocido,Desconocido,Desconocido,True
+177,0.6153846153846154,730.0,flat,0.12,False,1.0,0.0,Parla,False,0.40354989953114534,False,good,False,True,False,True,False,3,Reyes,Desconocido,False
+178,0.07692307692307693,690.0,flat,1.12,True,0.0,0.0,Parla,False,0.4058463304946895,False,good,False,False,False,False,False,Desconocido,Reyes,Desconocido,True
+179,-0.46153846153846156,750.0,flat,-0.48,False,-1.0,0.0,Madrid,True,-0.34599559850731987,False,good,False,True,False,False,False,bj,Tetuán,Valdeacederas,False
+180,0.07692307692307693,600.0,studio,-1.0,True,-2.0,0.0,Madrid,True,-0.2868625011960578,False,good,False,False,False,False,False,1,San Blas,Salvador,True
+181,0.6153846153846154,723.0,studio,-1.28,True,-2.0,0.0,Rivas-Vaciamadrid,True,0.2130896564922017,True,newdevelopment,True,True,False,False,False,Desconocido,Rivas Futura,Desconocido,True
+182,0.6923076923076923,725.0,flat,-0.28,True,-1.0,0.0,Madrid,True,-0.086977322744235,False,good,False,True,False,False,False,1,San Blas,Rejas,True
+183,-0.3076923076923077,750.0,flat,0.4,True,1.0,0.0,Getafe,False,-0.031767294995694195,False,good,False,False,False,False,False,Desconocido,Desconocido,Desconocido,True
+184,-0.3076923076923077,600.0,flat,-0.48,True,0.0,0.0,Mataelpino,False,1.3722131853411157,False,good,False,False,False,True,False,Desconocido,Desconocido,Desconocido,True
+185,1.6923076923076923,750.0,flat,0.52,True,1.0,0.0,San Fernando de Henares,False,0.11104200554970817,False,good,False,False,False,False,False,2,Montserrat - Parque Empresarial,Desconocido,False
+186,-1.0769230769230769,450.0,penthouse,0.12,True,-1.0,0.0,Villa del Prado,False,1.9575638694861737,False,good,False,False,False,False,False,Desconocido,Desconocido,Desconocido,False
+187,0.5384615384615384,720.0,flat,-0.12,True,-1.0,0.0,Madrid,False,-0.4317768634580423,True,good,False,True,False,True,False,bj,Carabanchel,San Isidro,False
+188,-0.9230769230769231,550.0,penthouse,0.72,True,0.0,1.0,Villa del Prado,False,1.957994450291838,False,good,False,False,False,False,False,Desconocido,Desconocido,Desconocido,False
+189,0.7692307692307693,720.0,flat,-0.32,False,1.0,0.0,Madrid,False,-0.18706343890536792,True,good,False,True,False,True,False,3,Villaverde,San Cristóbal,False
+190,1.3846153846153846,740.0,flat,0.32,True,1.0,0.0,Madrid,False,-0.1855324849296718,False,good,False,False,False,False,False,1,Vicálvaro,Ambroz,True
+191,4.0,660.0,flat,3.92,False,1.0,1.0,Aranjuez,False,1.3777628935030142,False,good,False,True,False,False,False,Desconocido,Desconocido,Desconocido,True
+192,0.46153846153846156,720.0,flat,-0.04,False,0.0,0.0,Madrid,False,-0.26935221509903357,True,good,False,True,False,True,False,4,Villaverde,Los Rosales,False
+193,0.15384615384615385,650.0,flat,-1.04,False,-1.0,0.0,Madrid,False,-0.5317194526839537,False,good,False,False,False,False,False,3,Centro,Lavapiés-Embajadores,False
+194,0.6153846153846154,650.0,flat,1.56,True,0.0,0.0,Aranjuez,False,1.5133480049756005,True,good,False,True,False,True,False,3,Nuevo Aranjuez-Ciudad de las Artes,Desconocido,False
+195,0.6923076923076923,660.0,flat,4.44,False,2.0,1.0,Aranjuez,False,1.3826428093005454,True,good,False,True,False,True,False,3,La Montaña-El Cortijo,Desconocido,True
+196,-0.07692307692307693,690.0,flat,0.28,True,0.0,0.0,Alcalá de Henares,False,0.876136254903837,False,good,False,False,False,False,False,bj,Val,Desconocido,False
+197,0.3076923076923077,750.0,studio,-1.28,True,-2.0,0.0,Madrid,False,-0.43747009855516217,False,good,False,True,False,False,False,5,Barrio de Salamanca,Lista,True
+198,0.6923076923076923,725.0,flat,-0.48,True,-1.0,0.0,Madrid,True,-0.08673811118553248,False,good,False,True,False,False,False,2,San Blas,Rejas,True
+199,0.8461538461538461,620.0,flat,1.12,False,-1.0,0.0,Pinto,False,0.35623385321978757,True,good,False,True,False,True,False,bj,San José - Buenos Aires,Desconocido,True
+200,0.38461538461538464,590.0,flat,-0.2,True,-1.0,0.0,Los Molinos,False,1.5407616496029088,False,good,False,False,False,False,False,bj,Desconocido,Desconocido,False
+201,-0.38461538461538464,750.0,penthouse,0.92,True,-2.0,0.0,Tres Cantos,False,0.40651612285905653,False,good,False,False,False,False,False,1,Zona Industrial,Desconocido,True
+202,0.3076923076923077,720.0,studio,-0.84,True,-2.0,0.0,Madrid,False,-0.30360731030523397,False,good,False,False,False,True,False,2,Ciudad Lineal,San Juan Bautista,True
+203,-0.3076923076923077,700.0,flat,1.0,True,0.0,0.0,San Lorenzo de el Escorial,False,1.4420629604822506,False,good,False,False,False,False,False,3,Centro - Casco Histórico,Desconocido,False
+204,-0.07692307692307693,692.0,flat,1.04,True,0.0,1.0,Torrejón de Ardoz,True,0.38144675150703283,False,newdevelopment,True,True,False,False,False,Desconocido,Suroeste,Desconocido,True
+205,-0.07692307692307693,670.0,flat,0.88,True,0.0,1.0,Torrejón de Ardoz,True,0.38144675150703283,False,newdevelopment,True,True,False,False,False,Desconocido,Suroeste,Desconocido,True
+206,-0.46153846153846156,609.0,flat,-0.04,True,-1.0,0.0,Alcalá de Henares,True,0.8547028992440915,False,newdevelopment,True,True,False,False,False,bj,Espartales,Desconocido,True
+207,-0.07692307692307693,718.0,flat,1.16,True,0.0,1.0,Torrejón de Ardoz,True,0.38144675150703283,False,newdevelopment,True,True,False,False,False,Desconocido,Suroeste,Desconocido,True
+208,-0.07692307692307693,694.0,flat,0.96,True,0.0,1.0,Torrejón de Ardoz,True,0.38144675150703283,False,newdevelopment,True,True,False,False,False,Desconocido,Suroeste,Desconocido,True
+209,-0.07692307692307693,658.0,flat,0.84,True,0.0,1.0,Torrejón de Ardoz,True,0.38144675150703283,False,newdevelopment,True,True,False,False,False,Desconocido,Suroeste,Desconocido,True
+210,-0.6923076923076923,750.0,flat,-0.84,False,0.0,0.0,Madrid,True,-0.41627595445411925,False,good,False,False,False,False,False,2,Tetuán,Bellas Vistas,True
+211,-0.07692307692307693,723.0,flat,1.24,True,0.0,1.0,Torrejón de Ardoz,True,0.38144675150703283,False,newdevelopment,True,True,False,False,False,Desconocido,Suroeste,Desconocido,True
+212,-0.07692307692307693,728.0,flat,1.36,True,0.0,1.0,Torrejón de Ardoz,True,0.38144675150703283,False,newdevelopment,True,True,False,False,False,Desconocido,Suroeste,Desconocido,True
+213,-0.3076923076923077,650.0,studio,-1.16,True,-2.0,0.0,Madrid,False,-0.35408094919146493,False,good,False,False,False,True,False,bj,Tetuán,Valdeacederas,False
+214,0.23076923076923078,750.0,flat,0.12,False,0.0,0.0,Alcalá de Henares,False,0.8296813702038083,True,good,False,False,False,False,False,1,Casco Histórico,Desconocido,False
+215,0.7692307692307693,735.0,flat,0.12,True,1.0,0.0,Parla,False,0.40976940005741075,True,good,False,True,False,True,False,4,Parque Inlasa,Desconocido,False
+216,0.3076923076923077,699.0,penthouse,0.84,True,0.0,0.0,Colmenar Viejo,True,0.7350014352693522,False,good,False,False,False,False,False,2,Centro,Desconocido,False
+217,0.6153846153846154,725.0,flat,0.4,True,1.0,0.0,Móstoles,False,0.23299205817625107,True,good,False,True,False,True,False,4,Centro,Desconocido,False
+218,0.07692307692307693,740.0,flat,0.8,True,1.0,1.0,Alcalá de Henares,False,0.768538895799445,True,good,False,True,False,True,False,bj,Reyes Católicos,Desconocido,True
+219,0.0,720.0,flat,0.64,True,-1.0,0.0,Collado Villalba,True,1.073581475456894,False,good,False,True,False,False,False,2,Villalba Estación,Desconocido,True
+220,0.07692307692307693,750.0,flat,0.88,True,1.0,0.0,Getafe,True,-0.028370490862118458,False,good,False,False,False,False,False,en,Universidad,Desconocido,True
+221,0.7692307692307693,710.0,flat,0.36,True,1.0,0.0,Parla,False,0.3955123911587408,True,good,False,True,False,True,False,4,Parque Inlasa,Desconocido,False
+222,1.6923076923076923,725.0,flat,0.2,True,0.0,0.0,Madrid,False,-0.2187828915893216,True,good,False,False,False,True,False,3,Latina,Águilas,False
+223,0.15384615384615385,750.0,flat,-0.44,False,-1.0,0.0,Madrid,True,-0.31772079226868244,False,good,False,False,False,False,False,bj,Carabanchel,Puerta Bonita,False
+224,0.9230769230769231,750.0,flat,0.16,True,0.0,0.0,Madrid,True,-0.43823557554301024,False,good,False,False,False,False,False,1,Carabanchel,Opañel,True
+225,0.6153846153846154,730.0,flat,4.16,True,2.0,0.0,Aranjuez,False,1.5232035211941441,True,good,False,True,False,True,False,3,Nuevo Aranjuez-Ciudad de las Artes,Desconocido,False
+226,0.38461538461538464,720.0,flat,2.12,False,0.0,0.0,Parla,False,0.435173667591618,True,good,False,True,False,True,False,Desconocido,Las Américas,Desconocido,True
+227,0.6153846153846154,720.0,flat,-0.36,False,0.0,0.0,Madrid,False,-0.41957707396421395,True,good,False,True,False,True,False,bj,Puente de Vallecas,Numancia,False
+228,1.0,700.0,flat,0.0,False,0.0,0.0,Madrid,False,-0.1871112812171084,True,good,False,True,False,True,False,4,Villaverde,San Cristóbal,False
+229,-0.07692307692307693,750.0,duplex,0.72,True,0.0,1.0,Cobeña,False,0.5671706056836666,False,good,False,False,False,False,False,1,Desconocido,Desconocido,False
+230,0.46153846153846156,610.0,studio,-1.24,False,-2.0,0.0,Madrid,False,-0.333843651325232,True,good,False,True,False,True,False,3,Tetuán,Valdeacederas,True
+231,0.38461538461538464,740.0,flat,-0.2,False,0.0,0.0,Móstoles,False,0.24897139029757917,True,good,False,True,False,True,False,4,Centro,Desconocido,False
+232,1.0,715.0,flat,0.2,True,0.0,0.0,Colmenar Viejo,False,0.6811309922495455,False,good,False,False,False,True,False,bj,San Crispín - La Estación Consorcio,Desconocido,True
+233,0.6153846153846154,550.0,flat,0.0,False,0.0,0.0,Aranjuez,False,1.492680126303703,True,good,False,True,False,True,False,bj,Foso-Moreras,Desconocido,False
+234,1.9230769230769231,710.0,flat,-0.84,True,-1.0,0.0,Madrid,False,-0.5265524830159793,True,good,False,True,False,True,False,bj,Arganzuela,Palos de Moguer,False
+235,0.46153846153846156,730.0,flat,-0.24,True,0.0,0.0,Madrid,False,-0.20227729403884795,True,good,False,True,False,True,False,2,Villaverde,Villaverde Alto,False
+236,0.07692307692307693,750.0,studio,-1.36,True,-2.0,0.0,Madrid,False,-0.5240646828054731,True,good,False,False,False,False,False,8,Centro,Malasaña-Universidad,True
+237,0.5384615384615384,690.0,flat,-0.96,False,-1.0,0.0,Madrid,False,-0.3391541479284279,True,good,False,True,False,True,False,3,Tetuán,Valdeacederas,True
+238,0.9230769230769231,740.0,flat,0.64,True,1.0,0.0,Parla,False,0.4553152808343699,True,good,False,True,False,True,False,4,Fuentebella-San Felix-El Leguario,Desconocido,True
+239,1.3846153846153846,750.0,duplex,0.36,True,-1.0,0.0,Madrid,False,-0.3202564347909291,True,good,False,True,False,True,False,bj,Tetuán,Valdeacederas,True
+240,0.6923076923076923,720.0,flat,-0.52,False,1.0,0.0,Madrid,False,-0.19830638216438617,True,good,False,True,False,True,False,2,Villaverde,Villaverde Alto,False
+241,0.5384615384615384,475.0,flat,0.88,True,0.0,1.0,Navalafuente,False,1.5671227633719262,False,good,False,False,False,False,False,2,Desconocido,Desconocido,True
+242,0.46153846153846156,740.0,flat,-0.64,True,0.0,0.0,Madrid,False,-0.36044397665295186,True,good,False,True,False,True,False,2,Puente de Vallecas,San Diego,False
+243,0.8461538461538461,740.0,flat,0.0,True,-1.0,0.0,Madrid,False,-0.41522342359582814,True,good,False,True,False,True,False,1,Latina,Los Cármenes,True
+244,1.0,740.0,flat,0.2,True,0.0,0.0,Colmenar Viejo,False,0.6970146397473926,False,good,False,False,False,True,False,1,San Crispín - La Estación Consorcio,Desconocido,True
+245,2.076923076923077,700.0,flat,0.68,False,0.0,0.0,Getafe,False,-0.11343412113673333,True,good,False,True,False,True,False,4,Getafe norte,Desconocido,False
+246,0.15384615384615385,730.0,flat,-0.88,False,-1.0,0.0,Madrid,False,-0.5531049660319587,False,good,False,False,False,False,False,2,Centro,Chueca-Justicia,True
+247,0.38461538461538464,700.0,studio,-1.16,True,-2.0,0.0,Madrid,False,-0.12539469907185916,False,good,False,False,False,False,False,3,Fuencarral,Montecarmelo,True
+248,0.6153846153846154,600.0,chalet,4.92,False,1.0,1.0,Meco,False,1.1109941632379676,False,good,False,False,False,False,False,Desconocido,Desconocido,Desconocido,True
+249,0.23076923076923078,750.0,flat,2.08,True,0.0,1.0,Valdemoro,False,0.580518610659267,False,good,False,False,False,False,False,3,Hospital,Desconocido,True
+250,-0.3076923076923077,749.0,flat,-0.76,True,-1.0,0.0,Madrid,True,-0.2782030427710267,False,good,False,False,False,True,False,2,Carabanchel,Pau de Carabanchel,True
+251,-1.0,700.0,studio,-1.08,False,-2.0,0.0,Madrid,False,-0.4741173093483877,False,good,False,False,False,False,False,bj,Retiro,Pacífico,True
+252,-0.38461538461538464,667.0,flat,0.52,True,-1.0,0.0,Parla,True,0.4240742512678213,False,good,False,False,False,False,False,8,Parla Este,Desconocido,True
+253,0.15384615384615385,725.0,flat,-0.48,False,-1.0,0.0,Madrid,False,-0.09200076547698785,False,good,False,False,False,False,False,1,San Blas,Rejas,True
+254,0.07692307692307693,550.0,penthouse,0.52,True,1.0,0.0,Robledo de Chavela,False,1.6875897043345134,False,good,False,False,False,False,False,3,Desconocido,Desconocido,False
+255,0.6923076923076923,695.0,flat,-0.08,True,1.0,0.0,Parla,False,0.3561381685963066,True,good,False,True,False,True,False,4,Villayuventus-Renfe,Desconocido,False
+256,1.1538461538461537,750.0,flat,1.92,True,1.0,0.0,Campo Real,False,0.788871878289159,False,good,False,False,False,False,False,1,Desconocido,Desconocido,False
+257,0.3076923076923077,699.0,flat,-0.2,True,-1.0,0.0,Madrid,True,-0.25016744809109176,False,good,False,False,False,False,False,3,Puente de Vallecas,Palomeras sureste,True
+258,-0.15384615384615385,750.0,studio,-1.0,True,-2.0,0.0,Madrid,False,-0.34996651038178167,True,good,False,False,False,False,False,14,Ciudad Lineal,San Pascual,True
+259,-0.46153846153846156,730.0,flat,0.92,True,1.0,0.0,Collado Villalba,False,1.1220457372500239,False,good,False,False,False,False,False,4,Carlos Ruiz,Desconocido,False
+260,0.5384615384615384,710.0,flat,-1.08,True,-1.0,0.0,Madrid,False,-0.5341594105827193,True,good,False,True,False,True,False,bj,Centro,Lavapiés-Embajadores,False
+261,0.0,650.0,flat,0.04,True,-1.0,0.0,Madrid,True,-0.30604726820399963,False,good,False,False,False,False,False,4,Puente de Vallecas,Palomeras sureste,True
+262,-0.07692307692307693,600.0,countryHouse,0.12,False,0.0,1.0,Villaviciosa de Odón,True,0.5480336809874653,True,renew,False,False,False,False,False,Desconocido,Centro,Desconocido,True
+263,0.6153846153846154,740.0,flat,-0.64,True,0.0,0.0,Madrid,False,-0.18959908142761459,True,good,False,True,False,True,False,3,Villa de Vallecas,Casco Histórico de Vallecas,False
+264,0.38461538461538464,525.0,flat,-0.68,True,-1.0,0.0,Aranjuez,False,1.4705769782795906,True,good,False,True,False,True,False,3,Foso-Moreras,Desconocido,True
+265,-0.6923076923076923,750.0,studio,-0.88,True,-2.0,0.0,Madrid,False,-0.528609702420821,False,good,False,False,False,False,False,4,Moncloa,Argüelles,False
+266,0.6153846153846154,750.0,flat,0.68,True,1.0,0.0,Alcalá de Henares,False,0.8096832838962779,True,good,False,True,False,True,False,2,Chorrillo,Desconocido,True
+267,0.38461538461538464,710.0,flat,0.48,True,1.0,0.0,Alcalá de Henares,False,0.7711702229451727,True,good,False,True,False,True,False,5,Reyes Católicos,Desconocido,True
+268,0.5384615384615384,560.0,studio,-0.44,True,-2.0,0.0,Madrid,False,-0.4083341307051957,True,good,False,True,False,True,False,bj,Puente de Vallecas,Numancia,False
+269,0.38461538461538464,600.0,flat,-0.6,True,-1.0,0.0,Torrejón de Ardoz,False,0.31499378049947374,False,good,False,False,False,False,False,bj,Noroeste,Desconocido,False
+270,-0.23076923076923078,720.0,flat,-0.52,True,-1.0,0.0,Madrid,False,-0.41775906611807484,False,good,False,True,False,False,False,ss,Carabanchel,San Isidro,False
+271,-0.6153846153846154,750.0,flat,0.12,True,0.0,0.0,Madrid,False,-0.4655056932350971,False,good,False,False,False,False,False,Desconocido,Latina,Puerta del Ángel,False
+272,-1.1538461538461537,750.0,flat,-0.6,False,-1.0,0.0,Madrid,True,-0.45732465792747107,False,good,False,False,False,False,False,4,Arganzuela,Delicias,True
+273,-0.38461538461538464,750.0,studio,1.32,True,-2.0,0.0,Madrid,False,-0.24366089369438332,False,good,False,False,False,False,False,4,San Blas,Simancas,True
+274,-0.3076923076923077,650.0,studio,-0.48,False,-2.0,0.0,Madrid,True,-0.4073294421586451,True,good,False,True,False,False,False,bj,Chamartín,Prosperidad,True
+275,0.07692307692307693,650.0,flat,0.08,True,-1.0,0.0,Parla,False,0.39785666443402545,True,good,False,False,False,False,False,2,El Nido-Las Fuentes,Desconocido,True
+276,3.1538461538461537,670.0,flat,0.72,True,0.0,0.0,Arganda,False,0.7049564634963161,False,good,False,False,False,False,False,3,El Mirador - Grillero,Desconocido,True
+277,-0.3076923076923077,650.0,flat,-0.48,True,-1.0,0.0,Getafe,True,0.0029662233279112047,False,newdevelopment,True,True,False,False,False,2,La Alhóndiga,Desconocido,True
+278,-1.0,750.0,flat,-1.0,True,-1.0,0.0,Madrid,False,-0.33403502057219403,False,good,False,False,False,False,False,2,Puente de Vallecas,Palomeras Bajas,True
+279,-0.07692307692307693,725.0,flat,-0.28,True,-1.0,0.0,Madrid,False,-0.3232705004305808,False,good,False,True,False,False,False,Desconocido,Desconocido,Desconocido,False
+280,-0.23076923076923078,620.0,studio,-1.48,False,-2.0,0.0,Madrid,True,-0.4988996268299684,False,good,False,False,False,False,False,1,Arganzuela,Palos de Moguer,True
+281,-0.23076923076923078,680.0,flat,-0.88,True,-1.0,0.0,Madrid,True,-0.43120275571715627,False,good,False,False,False,False,False,bj,Carabanchel,San Isidro,False
+282,-1.0,750.0,flat,1.2,True,1.0,0.0,Coslada,False,0.009472777724619654,False,good,False,False,False,False,False,bj,La Espinilla - Parque Blanco,Desconocido,True
+283,-0.3076923076923077,670.0,flat,-0.16,True,-1.0,0.0,Getafe,True,0.0029662233279112047,False,newdevelopment,True,True,False,False,False,1,La Alhóndiga,Desconocido,True
+284,0.6153846153846154,600.0,flat,0.72,True,1.0,0.0,Alcalá de Henares,False,0.7862883934551718,False,good,False,False,False,False,False,Desconocido,Desconocido,Desconocido,True
+285,-0.6923076923076923,750.0,flat,0.52,True,0.0,0.0,Alcorcón,False,0.014017797339967468,False,good,False,False,False,False,False,4,Centro,Zona Centro Joven,False
+286,-0.38461538461538464,700.0,flat,-0.84,True,0.0,0.0,Pozuelo de Alarcón,False,-0.13376710362644723,False,good,False,False,False,False,False,3,Zona Pueblo,Zona Pueblo,False
+287,-0.5384615384615384,695.0,flat,0.04,False,-1.0,0.0,Madrid,False,-0.318725480815233,True,good,False,True,False,True,False,1,Carabanchel,Puerta Bonita,True
+288,0.6153846153846154,710.0,flat,0.36,True,-1.0,0.0,Arganda,False,0.6072146206104679,False,good,False,False,False,False,False,2,Centro,Desconocido,True
+289,0.23076923076923078,620.0,flat,0.92,True,0.0,0.0,Bustarviejo,False,1.7682039996172616,False,good,False,False,False,False,False,2,Desconocido,Desconocido,False
+290,0.15384615384615385,700.0,flat,0.92,True,1.0,0.0,Collado Mediano,True,1.3676203234140274,False,good,False,False,False,False,False,1,Desconocido,Desconocido,False
+291,2.076923076923077,715.0,flat,1.28,True,1.0,0.0,Chinchón,False,1.2915032054348865,False,good,False,False,False,False,False,bj,Desconocido,Desconocido,False
+292,0.07692307692307693,750.0,flat,-0.28,True,-1.0,0.0,Madrid,True,-0.05348770452588269,False,good,False,False,False,False,False,1,Villa de Vallecas,Ensanche de Vallecas - La Gavia,True
+293,-0.6923076923076923,750.0,flat,-0.48,True,-1.0,0.0,Madrid,False,-0.18634580422926036,False,good,False,True,False,False,False,2,Hortaleza,Pinar del Rey,True
+294,0.0,550.0,studio,-1.28,False,-2.0,0.0,Madrid,False,-0.36699837336140084,False,good,False,False,False,False,False,bj,Tetuán,Berruguete,False
+295,0.15384615384615385,730.0,flat,0.12,True,-1.0,0.0,Colmenar Viejo,False,0.7406946703664721,False,good,False,False,False,False,False,Desconocido,Centro,Desconocido,False
+296,0.6153846153846154,750.0,penthouse,-0.44,True,0.0,0.0,Madrid,False,-0.4034063725959238,False,good,False,False,False,False,False,4,Puente de Vallecas,Numancia,True
+297,-0.3076923076923077,700.0,flat,-0.48,True,-1.0,0.0,Coslada,False,0.07492106018562816,False,good,False,False,False,False,False,bj,Ciudad 70,Desconocido,False
+298,-0.38461538461538464,680.0,flat,1.12,True,0.0,0.0,Coslada,False,0.04698115012917424,False,renew,False,False,False,False,False,bj,Valleaguado - La Cañada,Desconocido,True
+299,-0.07692307692307693,600.0,flat,-1.16,False,-1.0,0.0,Madrid,True,-0.3780977896851976,True,good,False,False,False,False,False,4,Tetuán,Bellas Vistas,False
+300,0.07692307692307693,750.0,flat,0.92,True,0.0,0.0,Colmenarejo,False,0.8934073294421586,False,good,False,False,False,False,False,1,Desconocido,Desconocido,False
+301,-1.2307692307692308,700.0,flat,0.2,True,-1.0,0.0,Alcorcón,False,0.03439862214142187,False,good,False,False,False,False,False,2,Centro,Casco Antiguo,True
+302,-0.15384615384615385,690.0,flat,0.8,True,0.0,0.0,Madrid,True,-0.24102956654865562,False,good,False,False,False,False,False,bj,Carabanchel,Buena Vista,True
+303,-0.38461538461538464,700.0,flat,-0.28,True,-1.0,0.0,Madrid,False,-0.21419002966223327,False,good,False,False,False,False,False,bj,Fuencarral,Tres Olivos - Valverde,False
+304,-0.5384615384615384,750.0,flat,1.2,True,0.0,0.0,Coslada,True,0.0694670366472108,False,good,False,False,False,False,False,5,Ciudad 70,Desconocido,True
+305,-0.38461538461538464,735.0,flat,-0.24,True,-1.0,0.0,Getafe,False,0.08142761458233662,False,good,False,False,False,False,False,4,Buenavista,Desconocido,True
+306,-0.38461538461538464,700.0,flat,0.92,True,1.0,0.0,Móstoles,True,0.261027652856186,False,good,False,False,False,False,False,5,Suroeste,Desconocido,True
+307,-0.23076923076923078,725.0,flat,0.72,True,1.0,0.0,Fuenlabrada,False,0.18782891589321596,False,good,False,False,False,False,False,Desconocido,Centro,Desconocido,False
+308,0.0,733.0,flat,0.45600000000000024,True,0.0,0.0,Alcalá de Henares,False,0.7760022964309635,False,good,False,False,True,False,False,2,Las Sedas - El Olivar,Desconocido,True
+309,-0.07692307692307693,750.0,flat,-0.84,True,-1.0,0.0,Madrid,False,-0.3867572481102287,True,good,False,False,False,False,False,bj,Ciudad Lineal,Ventas,True
+310,0.0,675.0,flat,0.48,True,0.0,0.0,Madrid,True,-0.3188690077504545,False,good,False,False,False,False,False,bj,Latina,Aluche,False
+311,0.23076923076923078,650.0,flat,1.12,True,0.0,0.0,Guadarrama,True,1.470911874461774,True,good,False,False,False,False,False,2,Desconocido,Desconocido,False
+312,-0.38461538461538464,730.0,flat,-0.2,True,-1.0,0.0,Madrid,False,-0.30820017223232227,True,good,False,False,False,False,False,bj,Tetuán,Valdeacederas,True
+313,-0.07692307692307693,700.0,flat,1.6,True,-1.0,0.0,Loeches,True,0.5876949574203425,False,good,False,False,False,False,False,bj,Desconocido,Desconocido,True
+314,-0.6153846153846154,690.0,studio,-0.76,False,-2.0,0.0,Madrid,False,-0.31207539948330304,True,good,False,True,False,True,False,2,Tetuán,Valdeacederas,True
+315,0.23076923076923078,700.0,flat,0.52,True,0.0,0.0,Guadarrama,True,1.4756961056358244,False,good,False,False,False,False,False,1,Desconocido,Desconocido,False
+316,0.3076923076923077,600.0,duplex,1.28,True,0.0,1.0,Miraflores de la Sierra,False,1.5382738493924026,False,good,False,False,False,False,False,2,Desconocido,Desconocido,False
+317,-0.15384615384615385,700.0,studio,-1.28,False,-2.0,0.0,Madrid,False,-0.5564060855420534,False,good,False,False,False,False,False,bj,Centro,Lavapiés-Embajadores,False
+318,0.07692307692307693,690.0,flat,0.12,True,0.0,0.0,Sevilla la Nueva,False,0.7982011290785571,False,good,False,False,False,False,False,bj,Desconocido,Desconocido,False
+319,1.1538461538461537,750.0,duplex,2.28,True,1.0,2.0,Serranillos del Valle,True,0.7548559946416611,False,good,False,False,False,False,False,1,Desconocido,Desconocido,False
+320,0.8461538461538461,700.0,studio,-0.24,True,-2.0,0.0,Madrid,False,-0.1841929002009377,True,good,False,False,False,False,False,bj,Hortaleza,Pinar del Rey,False
+321,0.9230769230769231,670.0,flat,0.16,True,-1.0,0.0,Collado Villalba,False,1.0915223423595828,False,good,False,False,False,False,False,bj,Parque de la Coruña - Las Suertes,Desconocido,True
+322,-0.38461538461538464,750.0,flat,0.92,True,0.0,0.0,Valdemoro,False,0.6106592670557841,False,good,False,False,False,False,False,4,Zona Estación,Desconocido,True
+323,0.3076923076923077,740.0,studio,-0.96,True,-2.0,0.0,Madrid,False,-0.1913214046502727,False,good,False,False,False,False,False,bj,Hortaleza,Canillas,True
+324,-0.07692307692307693,750.0,flat,2.12,True,2.0,1.0,Colmenar Viejo,False,0.7489713902975792,False,good,False,False,False,False,False,1,El Mirador,Desconocido,False
+325,-0.8461538461538461,750.0,flat,0.2,True,0.0,0.0,Madrid,False,-0.31662041909865085,False,good,False,True,False,False,False,3,Puente de Vallecas,Portazgo,False
+326,0.07692307692307693,750.0,studio,0.52,True,-2.0,0.0,San Sebastián de los Reyes,True,0.18907281599846903,True,good,False,False,False,False,False,bj,Pol. Industrial sur,Desconocido,True
+327,-0.6923076923076923,650.0,studio,-1.16,True,-2.0,0.0,Madrid,False,-0.33116448186776387,False,good,False,False,False,False,False,bj,Ciudad Lineal,Quintana,False
+328,-0.15384615384615385,625.0,flat,-0.24,True,-1.0,0.0,Arganda,False,0.6070710936752464,True,good,False,False,False,False,False,2,Centro,Desconocido,True
+329,-0.15384615384615385,700.0,flat,-0.88,True,-1.0,0.0,Madrid,False,-0.4810544445507607,True,good,False,False,False,False,False,bj,Retiro,Jerónimos,True
+330,0.38461538461538464,750.0,flat,1.52,True,0.0,1.0,Colmenarejo,False,0.8821165438713998,False,good,False,False,False,False,False,1,Desconocido,Desconocido,False
+331,1.3076923076923077,600.0,studio,-1.28,False,-2.0,0.0,Madrid,False,-0.4070902305999426,True,good,False,False,False,False,False,bj,Usera,Pradolongo,False
+332,0.38461538461538464,750.0,flat,1.28,True,0.0,1.0,Getafe,False,0.02664816763946034,True,good,False,False,False,False,False,2,San Isidro,Desconocido,True
+333,0.9230769230769231,700.0,flat,-0.08,True,-1.0,0.0,Valdemorillo,False,0.9416802219883265,True,good,False,False,False,False,False,1,Valdemorillo pueblo,Desconocido,True
+334,1.0769230769230769,750.0,flat,1.32,True,1.0,1.0,Campo Real,False,0.7853315472203617,False,good,False,False,False,False,False,2,Desconocido,Desconocido,True
+335,0.6153846153846154,750.0,flat,-0.36,True,0.0,0.0,Madrid,False,-0.26260644914362263,False,good,False,False,False,False,False,2,Fuencarral,Pilar,True
+336,0.5384615384615384,625.0,flat,0.0,True,0.0,0.0,Aranjuez,False,1.4987082575830064,False,good,False,False,False,False,False,bj,Centro,Desconocido,False
+337,0.0,750.0,flat,-0.44,True,-1.0,0.0,San Sebastián de los Reyes,False,0.18208783848435556,False,good,False,True,False,False,False,1,Centro Urbano,Desconocido,False
+338,-1.0,695.0,flat,0.08,True,-1.0,0.0,Madrid,True,-0.1782604535451153,False,good,False,False,False,False,False,4,Villaverde,Butarque,True
+339,-0.7692307692307693,450.0,flat,-0.68,True,-1.0,0.0,Robledo de Chavela,False,1.6243421682135681,True,good,False,False,False,False,False,1,Desconocido,Desconocido,False
+340,-0.38461538461538464,720.0,flat,0.04,True,0.0,0.0,Alcorcón,False,0.05406181226676873,True,good,False,False,False,False,False,bj,Centro,Casco Antiguo,False
+341,0.0,745.0,flat,0.64,True,0.0,0.0,Alcalá de Henares,False,0.7883934551717539,False,good,False,False,True,False,False,2,Las Sedas - El Olivar,Desconocido,True
+342,-0.07692307692307693,720.0,flat,0.5039999999999998,True,0.0,0.0,Alcalá de Henares,False,0.7799732083054253,False,good,False,False,True,False,False,2,Las Sedas - El Olivar,Desconocido,True
+343,0.23076923076923078,750.0,flat,-0.08,True,0.0,0.0,Madrid,False,-0.23246579274710555,False,good,False,False,False,False,False,1,Fuencarral,Tres Olivos - Valverde,False
+344,-0.07692307692307693,720.0,studio,-0.36,True,-2.0,0.0,Madrid,True,-0.311596976365898,False,good,False,False,False,False,False,1,Ciudad Lineal,Concepción,True
+345,-0.23076923076923078,725.0,studio,-0.52,False,-2.0,0.0,Madrid,True,-0.5349248875705674,False,good,False,False,False,False,False,8,Centro,Chueca-Justicia,True
+346,-0.46153846153846156,750.0,flat,0.92,False,0.0,0.0,Madrid,True,-0.20620036360156924,False,good,False,False,False,False,False,5,Villaverde,Butarque,True
+347,-0.46153846153846156,550.0,flat,1.16,True,0.0,0.0,Torrelaguna,False,1.6805568845086594,False,good,False,False,False,False,False,1,Desconocido,Desconocido,True
+348,-0.3076923076923077,640.0,flat,0.48,True,0.0,0.0,Villalbilla,True,0.8128408764711511,False,good,False,False,False,False,False,2,Desconocido,Desconocido,True
+349,-0.07692307692307693,700.0,flat,-0.12,True,-1.0,0.0,Getafe,False,-0.031815137307434696,True,good,False,True,False,True,False,1,Getafe Centro,Desconocido,True
+350,-0.3076923076923077,700.0,flat,0.08,True,-1.0,0.0,Madrid,True,-0.22926035786049181,False,good,False,False,False,False,False,6,Carabanchel,Pau de Carabanchel,True
+351,-0.6923076923076923,700.0,flat,0.72,True,0.0,0.0,Alcalá de Henares,True,0.8629796191751985,False,good,False,False,False,False,False,1,Pryconsa - Poligono Europa,Desconocido,False
+352,-0.07692307692307693,695.0,flat,0.2,False,0.0,0.0,Alcobendas,True,0.1359200076547699,False,good,False,False,False,False,False,3,Alcobendas Centro,Desconocido,False
