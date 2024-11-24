@@ -22,11 +22,139 @@ import seaborn as sns
 #!-------------
 
 def porcentaje_nulos(df):
-    
-    porcentaje = df.isnull().mean() * 100
+    """
+    Calcula el porcentaje de valores nulos por columna en un DataFrame.
 
+    Esta función evalúa todas las columnas del DataFrame y devuelve un 
+    Series con los porcentajes de valores nulos de las columnas que 
+    tienen al menos un valor nulo, ordenados en orden descendente.
+
+    Parameters:
+    ----------
+    df : pd.DataFrame
+        El DataFrame a analizar para calcular el porcentaje de valores nulos.
+
+    Returns:
+    -------
+    pd.Series
+        Un Series donde el índice son los nombres de las columnas con 
+        valores nulos, y los valores son los porcentajes de nulos, 
+        ordenados en orden descendente.
+    
+    Notes:
+    -----
+    - Las columnas sin valores nulos no se incluyen en el resultado.
+    - El porcentaje de valores nulos se calcula como el promedio de valores
+      nulos en cada columna multiplicado por 100.
+    """
+    porcentaje = df.isnull().mean() * 100
     return porcentaje[porcentaje > 0].sort_values(ascending=False)
 
+
+def obtener_pesos_variables(serie: pd.Series):
+    """
+    Calcula los valores únicos de una serie y su distribución porcentual.
+
+    Esta función toma una serie de pandas, calcula los valores únicos y 
+    la proporción de cada valor en relación con el total de la serie.
+    Los porcentajes se redondean a dos decimales.
+
+    Parameters:
+    ----------
+    serie : pd.Series
+        Serie de pandas de la cual se calcularán los valores únicos y 
+        sus porcentajes.
+
+    Returns:
+    -------
+    valores : pd.Index
+        Índices de los valores únicos presentes en la serie.
+    porcentajes : np.ndarray
+        Arreglo de los porcentajes normalizados de cada valor único, 
+        redondeados a dos decimales.
+    """
+    serie_values_normalize = serie.value_counts(normalize=True)
+    valores = serie_values_normalize.index
+    porcentajes = np.round(serie_values_normalize.values, 2)
+
+    # Ajustar para que la suma sea exactamente 1
+    porcentajes = porcentajes / porcentajes.sum()
+    
+    return valores, porcentajes
+
+
+def imputar_mediante_pesos(dataframe: pd.DataFrame, columnas: list):
+    """
+    Imputa valores nulos en columnas seleccionadas de un DataFrame basándose en 
+    la distribución de frecuencias de los valores existentes en cada columna.
+
+    Para cada columna especificada, los valores nulos se reemplazan por valores 
+    aleatorios seleccionados de la distribución de frecuencias calculada de 
+    los datos no nulos de la columna. Las probabilidades para la imputación 
+    corresponden a las proporciones relativas de cada valor único.
+
+    Parameters:
+    ----------
+    dataframe : pd.DataFrame
+        El DataFrame que contiene las columnas con valores nulos a imputar.
+    columnas : list
+        Lista de nombres de columnas del DataFrame en las que se realizará 
+        la imputación de valores nulos.
+
+    Returns:
+    -------
+    None
+        La función modifica el DataFrame original in-place, reemplazando 
+        los valores nulos en las columnas especificadas.
+
+    Notes:
+    -----
+    - La función utiliza la función `obtener_pesos_variables` para calcular los 
+      valores únicos y las probabilidades de cada columna.
+    - La imputación utiliza `np.random.choice`, lo que implica que los valores 
+      imputados serán diferentes en cada ejecución, dado que la selección es aleatoria.
+    """
+    for columna in columnas:
+        valores, probabilidades = obtener_pesos_variables(dataframe[columna])
+        filtro = dataframe[columna].isnull()
+        
+        dataframe.loc[filtro, columna] = np.random.choice(valores, size=filtro.sum(), p=probabilidades)
+
+
+def sustituir_valores_df(df_original: pd.DataFrame, df_nuevo: pd.DataFrame, columnas):
+    """
+    Sustituye los valores de columnas específicas en un DataFrame original 
+    por los valores correspondientes de otro DataFrame.
+
+    Para cada columna especificada, los valores en el DataFrame original 
+    son reemplazados directamente por los valores de la misma columna 
+    en el DataFrame nuevo. Es importante que ambos DataFrames tengan los 
+    mismos índices para que los valores se alineen correctamente.
+
+    Parameters:
+    ----------
+    df_original : pd.DataFrame
+        El DataFrame cuyos valores de columna serán reemplazados.
+    df_nuevo : pd.DataFrame
+        El DataFrame que contiene los nuevos valores para sustituir.
+    columnas : list
+        Lista de nombres de las columnas que serán reemplazadas.
+
+    Returns:
+    -------
+    None
+        La función modifica el DataFrame original in-place, actualizando 
+        las columnas especificadas.
+
+    Notes:
+    -----
+    - Ambas columnas en los DataFrames deben estar alineadas por índice. 
+      Si no lo están, los resultados pueden ser inconsistentes.
+    - Si alguna de las columnas en `columnas` no existe en `df_nuevo`, 
+      se generará un error KeyError.
+    """
+    for columna in columnas:
+        df_original[columna] = df_nuevo[columna]
 
 
 #! CLASE
