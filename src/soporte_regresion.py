@@ -14,7 +14,14 @@ from sklearn import tree
 from sklearn.linear_model import LinearRegression
 from sklearn.model_selection import train_test_split,GridSearchCV
 from sklearn.metrics import r2_score, mean_squared_error, mean_absolute_error
+from sklearn.tree import DecisionTreeRegressor, plot_tree
 
+
+
+def crear_modelo(params, X_train, y_train, method = DecisionTreeRegressor(), cv= 10, scoring = "neg_mean_squared_error"):
+    grid_search = GridSearchCV(estimator = method, param_grid=params, cv = cv, scoring = scoring, n_jobs=-1, verbose=1)
+    grid_search.fit(X_train, y_train)
+    return grid_search
 
 
 
