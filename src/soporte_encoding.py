@@ -476,7 +476,7 @@ class Encoding:
             # Replace the original columns with the encoded values
             self.dataframe[cols] = encoded_data
 
-        return self.dataframe
+        return self.dataframe, target_encoder
 
 
     def frequency_encoding(self):
