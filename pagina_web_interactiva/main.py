@@ -50,6 +50,7 @@ if st.session_state.page == "hero":
             align-items: center;
             color: white;
             text-align: center;
+            margin-bottom: 1rem;
         }
         .hero h1 {
             width: 60%;
@@ -110,9 +111,9 @@ elif st.session_state.page == "main":
     )
 
     # Inputs
-    municipio = st.selectbox("Selecciona el municipio:", lista_municipios)
-    distrito = st.selectbox("Selecciona el distrito:", lista_distritos)
-    vecindario = st.selectbox("Selecciona el vecindario:", lista_vecindarios)
+    municipio = st.selectbox("Selecciona el MUNICIPIO:", lista_municipios)
+    distrito = st.selectbox("Selecciona el DISTRITO:", lista_distritos)
+    vecindario = st.selectbox("Selecciona el VECINDARIO:", lista_vecindarios)
     size = st.slider("Tamaño (m²):", min_value=min_max_size[0], max_value=min_max_size[1], value=int(min_max_size[1]/2), step=1)
 
     # Botón de consulta
@@ -172,10 +173,10 @@ elif st.session_state.page == "main":
         with st.status("Realizando Predicción...", expanded=True) as status:
             st.write("Preguntando a ChatGPt...")
             time.sleep(2)
-            st.write("Respuesta Obtenida!")
+            st.write("Ajustando Modelo.")
             time.sleep(1)
-            st.write("Pegando respuesta...")
-            time.sleep(1)
+            st.write("Terminando Café...")
+            time.sleep(1.5)
             status.update(
                 label="Predicción Realizada!", state="complete", expanded=False
             )
