@@ -1,11 +1,12 @@
 import streamlit as st
 import pandas as pd
+import pickle
 import time
 
 # Configuración inicial de la página
 st.set_page_config(
-    page_title="Modelo Predictivo 3",
-    page_icon="🌟",
+    page_title="Predictor Alquileres",
+    page_icon="📊",
     layout="centered"
 )
 
@@ -20,6 +21,19 @@ def go_to_hero_page():
     st.session_state.page = "hero"
 
 
+# Cargar los modelos y transformadores entrenados
+def cargar_modelos():
+    with open('../src/modelos/target_encoder.pkl', 'rb') as f:
+        target_encoder_ = pickle.load(f)
+    with open('../src/modelos/robust_scaler.pkl', 'rb') as f:
+        robust_scaler_ = pickle.load(f)
+    with open('../src/modelos/model_decision_tree_regressor.pkl', 'rb') as f:
+        decision_tree_regressor_ = pickle.load(f)
+    return target_encoder_, robust_scaler_, decision_tree_regressor_
+
+target_encoder, robust_scaler, decision_tree_regressor = cargar_modelos()
+
+
 # Página de Hero Section
 if st.session_state.page == "hero":
     # CSS personalizado para estilo de la Hero Section
@@ -28,7 +42,7 @@ if st.session_state.page == "hero":
         <style>
         .hero {
             position: relative;
-            height: 100vh;
+            height: 70vh;
             background: url('https://images.unsplash.com/photo-1568605114967-8130f3a36994') no-repeat center center;
             background-size: cover;
             display: flex;
@@ -38,8 +52,14 @@ if st.session_state.page == "hero":
             text-align: center;
         }
         .hero h1 {
+            width: 60%;
+            margin: auto;
             font-size: 3rem;
             margin-bottom: 2rem;
+            padding: 2rem 2.5rem;
+            background-color: black;
+            border: 1px solid white;
+            border-radius: .4rem;
         }
         .btn {
             background-color: #4CAF50;
@@ -57,8 +77,7 @@ if st.session_state.page == "hero":
         </style>
         <div class="hero">
             <div>
-                <h1>Bienvenido/a al Modelo Predictivo 🏠</h1>
-                <button class="btn" onclick="window.location.reload()">Iniciar</button>
+                <h1>Bienvenid@ al Modelo Predictivo 🏠</h1>
             </div>
         </div>
         """,
@@ -75,6 +94,7 @@ elif st.session_state.page == "main":
     lista_municipios = list(df['municipality'].unique())
     lista_distritos = list(df['district'].unique())
     lista_vecindarios = list(df['neighborhood'].unique())
+    min_max_size = [int(df['size'].min()), int(df['size'].max())]
 
     # Botón para volver al inicio
     st.button("⬅️ Volver al inicio", on_click=go_to_hero_page)
@@ -93,11 +113,59 @@ elif st.session_state.page == "main":
     municipio = st.selectbox("Selecciona el municipio:", lista_municipios)
     distrito = st.selectbox("Selecciona el distrito:", lista_distritos)
     vecindario = st.selectbox("Selecciona el vecindario:", lista_vecindarios)
-    size = st.slider("Tamaño (m²):", min_value=50, max_value=500, value=100, step=10)
+    size = st.slider("Tamaño (m²):", min_value=min_max_size[0], max_value=min_max_size[1], value=int(min_max_size[1]/2), step=1)
 
     # Botón de consulta
     if st.button("🔍 Consultar"):
-        
+
+        # Crear DataFrame con los datos ingresados
+        nueva_propiedad = pd.DataFrame({
+            'municipality': [municipio],
+            'district': [distrito],
+            'neighborhood': [vecindario],
+            'price': [size],
+        })
+
+        # Columnas que el escalador espera
+        expected_columns = ['bathrooms', 'distance', 'numPhotos', 'rooms', 'size']
+
+        # Agregar columnas faltantes con valor predeterminado (ejemplo: 0)
+        for col in expected_columns:
+            if col not in nueva_propiedad.columns:
+                nueva_propiedad[col] = 0
+
+        # Columnas categóricas y numéricas
+        categorical_columns = ['municipality', 'district', 'neighborhood']
+        numerical_columns = ['numPhotos', 'size', 'rooms', 'bathrooms', 'distance']
+
+        # Crear una copia para transformaciones
+        new_house_encoded = nueva_propiedad.copy()
+
+        # Aplicar el TargetEncoder SOLO a las columnas categóricas
+        try:
+            new_house_encoded[categorical_columns] = target_encoder.transform(nueva_propiedad[categorical_columns])
+        except ValueError as e:
+            st.error(f"Error al transformar datos categóricos: {e}")
+            st.stop()
+
+        # Aplicar el escalador a las columnas numéricas
+        try:
+            new_house_encoded[numerical_columns] = robust_scaler.transform(new_house_encoded[numerical_columns])
+        except ValueError as e:
+            st.error(f"Error al escalar datos numéricos: {e}")
+            st.stop()
+
+        # Realizar la predicción
+        try:
+            orden_columnas = ['size', 'municipality', 'district', 'neighborhood']
+            df_predecir = new_house_encoded.drop(columns=['bathrooms', 'distance', 'numPhotos', 'price', 'rooms'])
+            df_predecir = df_predecir[orden_columnas]
+            prediction = decision_tree_regressor.predict(df_predecir)[0]
+        except ValueError as e:
+            st.error(f"Error al predecir: {e}")
+            st.stop()
+
+
         # Bloque de mensajes progresivos
         status = st.empty()  # Crear un contenedor dinámico
 
@@ -114,8 +182,8 @@ elif st.session_state.page == "main":
 
         # Resultado final
         status.empty()  # Limpiar el mensaje dinámico
-        st.success("¡Consulta completada! ✅")
-        st.success("Los datos seleccionados han sido procesados con éxito.")
+        st.success(f"El precio de la casa se encontrará entre [{round(prediction - 41.33, 2)} - {round(prediction + 41.33, 2)}]€")
 
         # Botón para recargar
-        st.button("Rerun")
+        if st.button("Rerun"):
+            st.session_state.prediction = None
