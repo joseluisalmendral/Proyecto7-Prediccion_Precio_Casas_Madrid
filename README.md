@@ -63,7 +63,7 @@ r
 2
  = 0.61, resultando en:
 
-<img src="src/assets/graficas_valores_predecidos.png" width="500">
+<img src="src/assets/graficas_valores_predecidos.png" width="700">
 
 
 
