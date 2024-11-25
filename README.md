@@ -57,6 +57,17 @@ Proyecto7-Prediccion_Precio_Casas_Madrid/
 
 - En la apicación web pone que calcula precios de [2015 - 2018] debido que nuestros precios de base eran algo más bajos de los que hay en la actualidad, por lo que nuestras predicciones también. Investigando he visto que nuestras predicciones encajan más con los precios de los años mencionados.
 
+## Conclución
+Hemos creado un modelo de machine learning el cual es capaz de predecir el precio de un alquiler de Madrid con un RMSE de 39.01 €. Las predicciones sobre los datos de entrenamiento se logran ajustar con un 
+r
+2
+ = 0.61, resultando en:
+
+<img src="src/assets/graficas_valores_predecidos.png" width="500">
+
+
+
+
 ## Next Steps
 
 - **Afinar más el modelo**: me gustaría hacer más pruebas y más visualizaciones para dejar más claro que factores están influyendo a la hora de predecir nuestra variable respuesta. Al final me propuse una serie de objetivos que he tratado de cubrir mediante un MVP.
