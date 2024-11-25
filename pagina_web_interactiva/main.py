@@ -100,7 +100,7 @@ elif st.session_state.page == "main":
     st.button("⬅️ Volver al inicio", on_click=go_to_hero_page)
 
     # Página principal
-    st.title("🌍 Modelo de Selección de Municipios")
+    st.title("🌍 Modelo Prediccivo de Alquileres en Madrid [2015 - 2018]")
     st.markdown(
         """
         Bienvenido/a a esta **webapp interactiva**.  
@@ -182,7 +182,8 @@ elif st.session_state.page == "main":
 
         # Resultado final
         status.empty()  # Limpiar el mensaje dinámico
-        st.success(f"El precio de la casa se encontrará entre [{round(prediction - 41.33, 2)} - {round(prediction + 41.33, 2)}]€")
+        st.success(f"El precio del alquiler ha de rondar los {round(prediction)}€")
+        st.success(f"Entre los {round(prediction - 41.33, 2)}€ y los {round(prediction + 41.33, 2)}€")
 
         # Botón para recargar
         if st.button("Rerun"):
