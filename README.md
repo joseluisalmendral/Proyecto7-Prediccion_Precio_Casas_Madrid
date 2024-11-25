@@ -52,6 +52,11 @@ Proyecto7-Prediccion_Precio_Casas_Madrid/
 
 ```
 
+## Puntos a Remarcar
+- Se han utilizado solo datos de las propiedades que tienen como provincia Madrid.
+
+- En la apicación web pone que calcula precios de [2015 - 2018] debido que nuestros precios de base eran algo más bajos de los que hay en la actualidad, por lo que nuestras predicciones también. Investigando he visto que nuestras predicciones encajan más con los precios de los años mencionados.
+
 ## Next Steps
 
 - **Afinar más el modelo**: me gustaría hacer más pruebas y más visualizaciones para dejar más claro que factores están influyendo a la hora de predecir nuestra variable respuesta. Al final me propuse una serie de objetivos que he tratado de cubrir mediante un MVP.
